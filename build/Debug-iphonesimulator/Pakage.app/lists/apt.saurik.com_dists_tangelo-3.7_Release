@@ -1,0 +1,15 @@
+Origin: Telesphoreo Tangelo
+Label: Cydia/Telesphoreo
+Suite: stable
+Version: 1.0r282
+Codename: tangelo-3.7
+Architectures: darwin-arm iphoneos-arm
+Components: main
+Description: Distribution of Unix Software for iPhoneOS 3
+Support: http://cydia.saurik.com/support/*
+MD5Sum:
+ bc73b50bec5730b3e6e7e0b6726bb958 12986 main/binary-darwin-arm/Packages.bz2
+ a040afcd0a3a847dfe0911b521a4cdbf 71972 main/binary-darwin-arm/Packages
+ 18da518d3ddde0bd327067abc173d584 21968 main/binary-iphoneos-arm/Packages.bz2
+ 279c742f13ec5e5a68c75b9ff0f25edf 122161 main/binary-iphoneos-arm/Packages
+ d30edc9afc96d8cc052ccc0d61dde1fd 159 main/i18n/Translation-de.bz2

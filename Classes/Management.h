@@ -1,0 +1,4 @@
+
+@interface Management:NSObject 
+
+@end 

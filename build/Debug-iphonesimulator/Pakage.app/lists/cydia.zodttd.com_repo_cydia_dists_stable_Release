@@ -1,0 +1,14 @@
+Origin: ZodTTD & MacCiti
+Label: ZodTTD & MacCiti
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: darwin-arm iphoneos-arm
+Components: main
+Description: ZodTTD.com & MacCiti.com Public Repo
+Support: http://cydia.saurik.com/support/*
+MD5Sum:
+ 01a57673671ab2394243f140d3abf200 862 main/binary-darwin-arm/Packages.gz
+ b040e6f5b749f765da40c42aee0182c7 233947 main/binary-iphoneos-arm/Packages
+ 229227311d91a82f50cb50458cd27bc0 35048 main/binary-iphoneos-arm/Packages.bz2
+ f4b2dbc1e354a90bb9a244d14aa51609 43955 main/binary-iphoneos-arm/Packages.gz

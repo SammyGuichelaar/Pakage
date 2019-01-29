@@ -1,0 +1,2054 @@
+Package: com.iXtension.MobileHook
+Version: 1.0
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/mobilehook.deb
+Size: 9522
+MD5sum: 9e9952759f70597485d572fb1635f8d5
+Description: Spring Board extension for iXtension products
+Name: MobileHook
+Author: iXtension k.s.
+Homepage: http://www.ixtension.com
+Depiction: http://xsellize.com/depic/?title=App&app=mobilehook
+
+Package: com.xsellize.SupremePreferences3.0
+Version: 1b8
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/SupremePrefs_3.0_1b8.deb
+Size: 179508
+MD5sum: 987380d7274754b1835b469748aecfc9
+Description: ''Over 100 new features added to Settings!''
+Name: Supreme Preferences 3.0
+Depiction: http://xsellize.com/depic/?title=App&app=SupremePreferences3.0
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.Tether
+Version: 2:1.0
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/tether_1.0.deb
+Size: 136462
+MD5sum: 4d5bc2c7d22b224f7fdc9fa87c3bdca8
+Description: Share your iphone's internet connection with your Mac/PC.
+Name: Tether
+Depiction: http://xsellize.com/depic/?title=App&app=tether
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.aTimeTool
+Version: 1.2.1-1
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/aTimeTool_1.2.1.deb
+Size: 274108
+MD5sum: cead1c5d33f7456094469816a0c51f4f
+Description: Support OS 3.0. Auto airplane mode,power,bluetooth,wi-fi at pre-defined time.
+Name: aTimeTool
+Depiction: http://xsellize.com/depic/?title=App&app=atimetool
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.adblock
+Version: 3.0.1
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: mobilesubstrate (>= 0.9.2660-1)
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/AdBlock_3.0.1.deb
+Size: 519620
+MD5sum: 985e1d8d83f5368b462ed8a2e7fb6200
+Description: AdBlock is an extension for MobileSafari that filters out advertisements when you are surfing the Internet from your iPhone or iPod touch.
+Name: AdBlock
+Depiction: http://xsellize.com/depic/?title=App&app=adblock
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.appulous
+Version: 1:1.0
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/Appulous_1.0.deb
+Size: 4292
+MD5sum: f07dadd4462a94ccd0488d4bb73257f7
+Description: Stay up to date with Appulous releases right from your springboard
+Name: Appulous Release Widget
+Depiction: http://xsellize.com/depic/?title=App&app=appulous
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.atimetool
+Version: 1.2
+Priority: optional
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/atimetool_1.2.deb
+Size: 273748
+MD5sum: f2134f550996a057b8981b0b6c99e0b5
+Description: (Cracked by Studguy1) Support OS 3.0. Auto airplane mode,power,bluetooth,wi-fi at pre-definited time.Note When iPhone is off automatically,DON'T press "Power",or it will lead to iPhone does't turn on as preset.You need to turn on WIFi and bluetooth in Settings of iPhone,then the auto-start and off in aTimeTool will work.
+Name: aTimeTool
+Depiction: http://xsellize.com/depic/?title=App&app=atimetool
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.axixwall1
+Version: 3:1.1
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Replaces: com.xsellize.axixwall
+Architecture: iphoneos-arm
+Filename: ./Files/members/axixwall1.deb
+Size: 6271560
+MD5sum: 4236405d61cab09f569273b71a26da64
+Description: aXix20xx collection of wallpapers mega pack
+Name: Wallpaper pack 1
+Depiction: http://xsellize.com/depic/?title=App&app=axixwall
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.axixwall2
+Version: 3:1.1
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Replaces: com.xsellize.axixwall
+Architecture: iphoneos-arm
+Filename: ./Files/members/axixwall2.deb
+Size: 6385744
+MD5sum: 76602e2c654149068095268c03e48779
+Description: aXix20xx collection of wallpapers mega pack
+Name: Wallpaper pack 2
+Depiction: http://xsellize.com/depic/?title=App&app=axixwall
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.batterycontrol
+Version: 1.0.1
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Pre-Depends: mobilesubstrate, preferenceloader, com.ashman.wvc
+Depends: firmware (>= 3.0)
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/BatteryControl_1.0.1.deb
+Size: 84054
+MD5sum: 52e5ead145b501bb0410e670cb5ffd32
+Description: *3.x OS ONLY* Fine-grain control over the status bar battery.  This will let you show percentage and/or the battery icon on any 3.x iDevice.  The premium features (99c) add custom settings for low battery and charging, styles for the percentage, the ability to remove the percent symbol and tapping the battery to switch to percentage.
+Name: Battery Control
+Depiction: http://xsellize.com/depic/?title=App&app=batterycontrol
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.batterycontrol
+Version: 1.1.1
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Pre-Depends: mobilesubstrate, preferenceloader, com.ashman.wvc
+Depends: firmware (>= 3.0)
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/batterycontrol_1.1.1.deb
+Size: 43774
+MD5sum: 9f78e19e3b9718f6aee1c45e8347e6a1
+Description: *3.x OS ONLY* Fine-grain control over the status bar battery.  This will let you show percentage and/or the battery icon on any 3.x iDevice.  The premium features (99c) add custom settings for low battery and charging, styles for the percentage, the ability to remove the percent symbol and tapping the battery to switch to percentage.
+Name: Battery Control
+Depiction: http://xsellize.com/depic/?title=App&app=batterycontrol
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.bindelnoch
+Version: 1:1.0
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Architecture: iphoneos-arm
+Filename: ./Files/members/bindeloch_1.0.deb
+Size: 7136110
+MD5sum: 92a873dc9dcf13b8ac08f179c6988529
+Description: binDelnoch, mashup binStyld and Delnoch Theme by binlatin
+Name: binDelnoch Theme
+Depiction: http://xsellize.com/depic/?title=App&app=bindelnoch
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.binstyld
+Version: 1:1.1
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Architecture: iphoneos-arm
+Filename: ./Files/members/binstyld_1.1.deb
+Size: 5973346
+MD5sum: 26842acd861ac9d807092018baa07260
+Description: binStyld Theme by binlatin
+Name: binStyld Theme
+Depiction: http://xsellize.com/depic/?title=App&app=binstyld
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.binstyld
+Version: 1:1.0
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Architecture: iphoneos-arm
+Filename: ./Files/members/binstyld_1.0.deb
+Size: 5972778
+MD5sum: 111af8136d5f02528838bf7a770921b1
+Description: binStyld Theme by binlatin
+Name: binStyld Theme
+Depiction: http://xsellize.com/depic/?title=App&app=binstyld
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.bitesms
+Version: 4.1
+Section: x Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Pre-Depends: dpkg (>= 1.13.25-5)
+Depends: mobilesubstrate (>= 0.9.2587-1)
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/biteSMS_4.1.deb
+Size: 946776
+MD5sum: e9294786589d360a59b01da65fe65fc3
+Description: BiteSMS is an SMS messaging app with lots of features.
+Name: biteSMS
+Depiction: http://xsellize.com/depic/?title=App&app=bitesms
+
+Package: com.xsellize.bitesms
+Version: 4.2-1
+Priority: optional
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Pre-Depends: dpkg (>= 1.13.25-5)
+Depends: mobilesubstrate (>= 0.9.2587-1)
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/biteSMS_4.2.1.deb
+Size: 931620
+Installed-Size: 1684
+MD5sum: db6440ea54126ca7c4602a2e2a0bf728
+Description: You love your iPhone as much as we do? You text all the time? Want more features? Then biteSMS is for you, with lots of extra features like Smileys, Quick Reply, Quick Compose / Quick Call, Privacy, a Character / SMS Counter and much more!<br><br>You can use biteSMS as a replacement to the built-in Messaging application, and send messages via your mobile carrier as you normally do. Or, if your mobile carrier charges a lot for sending SMS messages (say texting to overseas), you can buy credits and send them via the biteSMS network instead, which can be <b>much cheaper</b>.
+Name: biteSMS
+Depiction: http://xsellize.com/depic/?title=App&app=bitesms
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.blackgui
+Version: 1:1.0
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Architecture: iphoneos-arm
+Filename: ./Files/members/blackgui.deb
+Size: 821252
+MD5sum: 2305773b1cc572159efae66c32b3c86a
+Description: [GUI] Black Interface 2.0 by Dawid Liwski(Davvido)
+Name: Black Interface 2.0
+Depiction: http://xsellize.com/depic/?title=App&app=blackgui
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.c4syncapp
+Version: 3.0.1
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: Sadam <repo@xsellize.com>
+Pre-Depends: ldid
+Depends: com.xsellize.repo
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/c4syncapp_3.0.deb
+Size: 583038
+MD5sum: b32bce26ef97291d57e7c4a910fd3657
+Description: MobileInstallation (MiPatch) for firmware 3.0 & 3.0.1
+Name: C4SyncApp(MiPatch 3.0)
+Depiction: http://xsellize.com/depic/?title=App&app=c4syncapp
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.callclear
+Version: 2.5
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/CallClear.deb
+Size: 73444
+MD5sum: da9c778efd36e2d267d5a0f9f0363499
+Description: The iCallBR allows you to clear any call, one by one, from your recent calls history
+Name: CallClear
+Author: DanieL
+Depiction: http://xsellize.com/depic/?title=App&app=callclear
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.chronus
+Version: 1:2.18
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.saurik.iphone.mamu
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/chronus.deb
+Size: 170322
+MD5sum: aade6c6c327b4f54c887d9481a2a0ac6
+Description: Chronus is a successor of TimeCapsule for firmware 2.x.
+Name: Chronus
+Depiction: http://xsellize.com/depic/?title=App&app=chronus
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.clearcam
+Version: 1:1.0.2
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/clearcam.deb
+Size: 613436
+MD5sum: e7f262fb6f5481bd7e71d3187de3425d
+Description: Occipital ClearCam turns your iPhone into a high quality camera with more than double the resolution of the original camera application.
+Name: ClearCam
+Depiction: http://xsellize.com/depic/?title=App&app=clearcam
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.clearcam
+Version: 1:1.0.5
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/clearcam_1.0.5.deb
+Size: 640948
+MD5sum: fdcc6b3b5b6f08e8ffd6bebd8fe9786e
+Description: Occipital ClearCam turns your iPhone into a high quality camera with more than double the resolution of the original camera application.
+Name: ClearCam
+Depiction: http://xsellize.com/depic/?title=App&app=clearcam
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.clearcam
+Version: 1:1.1.0
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/clearcam_1.1.deb
+Size: 620414
+MD5sum: eb6c85741dd642d833dbb5ae88317f4c
+Description: Occipital ClearCam turns your iPhone into a high quality camera with more than double the resolution of the original camera application.
+Name: ClearCam
+Depiction: http://xsellize.com/depic/?title=App&app=clearcam
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.clearcam
+Version: 1:1.1.1
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/clearcam_1.1.1.deb
+Size: 620502
+MD5sum: d58128f0d9b7110751a2208ba0012785
+Description: Occipital ClearCam turns your iPhone into a high quality camera with more than double the resolution of the original camera application.
+Name: ClearCam
+Depiction: http://xsellize.com/depic/?title=App&app=clearcam
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.clearcam
+Version: 1:1.1.2
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/clearcam_1.1.2.deb
+Size: 620948
+MD5sum: 84d4f0ce1deae276e10af00eb531e686
+Description: Take sharper, 4 megapixel photos with less noise using advanced image processing. Take 6 quick shots in under 2.5 seconds. Capture the highest quality photos on the iPhone.
+Name: ClearCam
+Homepage: http://xsellize.com/depic/?title=App&app=clearcam
+Depiction: http://xsellize.com/depic/?title=App&app=clearcam
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.clockwidget
+Version: 1:1.0
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Architecture: iphoneos-arm
+Filename: ./Files/members/clockwidget.deb
+Size: 52568
+MD5sum: 39e3a39a0d6e211859acc991dc20224a
+Description: Clock widget for winterboard.
+Name: Clock widget
+Depiction: http://xsellize.com/depic/?title=App&app=clockwidget
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.controller
+Version: 0.4
+Priority: optional
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/callcontroller-0.4.deb
+Size: 426804
+MD5sum: fc71e8dab087223796870ce8977a0fbe
+Description: Uses the built in accelerometer to control your calls. Also sends an auto reply sms when a call is blocked. Quickly enable/disable the application from your lockscreen.
+Name: CallController
+Depiction: http://xsellize.com/depic/?title=App&app=controller
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.cycoder
+Version: 0.9-6.1
+Priority: optional
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/cycoder_0.9-6.deb
+Size: 792620
+MD5sum: 226b887928519f5c62df7a64f3ee421b
+Description: high-quality video recorder for 2G/3G
+Name: Cycoder
+Depiction: http://xsellize.com/depic/?title=App&app=cycoder
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.deepredsms
+Version: 1:1.0
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Architecture: iphoneos-arm
+Filename: ./Files/members/deepred.deb
+Size: 13698
+MD5sum: 27df4223b8d7b814e4bc11c7a8d4948a
+Description: Deep Red theme made by Pumpa.
+Name: Deep Red SMS theme
+Depiction: http://xsellize.com/depic/?title=App&app=deepredsms
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.diffrentsms
+Version: 1:1.0
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Architecture: iphoneos-arm
+Filename: ./Files/members/diffrent.deb
+Size: 216078
+MD5sum: 027917363b577ffb4386d43e6dd6aafb
+Description: Diffrent SMS theme made by Jatin.
+Name: Diffrent SMS theme
+Depiction: http://xsellize.com/depic/?title=App&app=diffrentsms
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.dmi
+Version: 1:1.0
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/DMI_1.0.deb
+Size: 4272
+MD5sum: 9635bda2bbddf12ac6b7fd4ed0daaa95
+Description: Stay up to date with DMI right from your springboard
+Name: DMI Widget
+Depiction: http://xsellize.com/depic/?title=App&app=dmi
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.dope
+Version: 1:1.0
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Architecture: iphoneos-arm
+Filename: ./Files/members/dope_1.0.deb
+Size: 17692056
+MD5sum: 8cd5bb5f4f47dfe2e99b5cf8b3884efd
+Description: Dope theme for use with winterboard
+Name: Dope Theme
+Depiction: http://xsellize.com/depic/?title=App&app=dope
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.girltheme
+Version: 3:1.0
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Architecture: iphoneos-arm
+Filename: ./Files/members/girltheme.deb
+Size: 13733636
+MD5sum: cae40b0e5fb136d56dbef1027c241699
+Description: This is a cool theme made by behnam see the screenshot to see why it is cool
+Name: Girl Theme
+Homepage: http://xsellize.com/cydia/depic/girltheme
+Depiction: http://xsellize.com/depic/?title=App&app=girltheme
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.gpower
+Version: 1:1.0
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/gpower.deb
+Size: 18290
+MD5sum: 326bb207178704c790d9b77f98cd2995
+Description: gPower adds buttons to power down
+Name: gPower
+Depiction: http://xsellize.com/depic/?title=App&app=gpower
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.gpsbios
+Version: 1:0.2
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/gpsbios.deb
+Size: 14372
+MD5sum: 0fb38e8983e47b45e72b129edc75ff35
+Description: gpSPhone bios
+Name: gpSPhone Bios
+Depiction: http://xsellize.com/depic/?title=App&app=gpsbios
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.gradientwall
+Version: 1:1.0
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Architecture: iphoneos-arm
+Filename: ./Files/members/gradientwall.deb
+Size: 3768760
+MD5sum: bea12b240604312b2184a1f85315d811
+Description: 15 different gradient walls, simple and stylish to suit most themes. Made by Pumpa.
+Name: Dirty Gradients Wallpaper pack by pumpa
+Depiction: http://xsellize.com/depic/?title=App&app=gradientwall
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.grip
+Version: 0.1-11r
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: mobilesubstrate (>=0.9-0), preferenceloader (>=1.1)
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/GriP_0.1-11r.deb
+Size: 143020
+MD5sum: f91a4549b2df4bf483fa5005506fd5eb
+Description: This also includes "GriP Push Notification" and "You've Got Mail" (new mail notifier). GriP lets iPhoneOS applications and extensions unintrusively tell you when things happen.
+Name: GriP
+Depiction: http://xsellize.com/depic/?title=App&app=grip
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.grip
+Version: 0.1-11p
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, mobilesubstrate (>=0.9-0), preferenceloader (>=1.1)
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/GriP_0.1-11p.deb
+Size: 142260
+MD5sum: 5fec89b58894e100d1c3e759aacdaf68
+Description: This also includes "MemoryWatcher" and "You've Got Mail" (new mail notifier). GriP lets iPhoneOS applications and extensions unintrusively tell you when things happen.
+Name: GriP
+Depiction: http://xsellize.com/depic/?title=App&app=grip
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.hapticpro
+Version: 2:1.0.6
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/haptic_1.0.6.deb
+Size: 52622
+MD5sum: d8f82a368e400e0654e2f7f4505102a2
+Description: Customizable haptic feedback for the keyboard, buttons and more!
+Name: HapticPro
+Depiction: http://xsellize.com/depic/?title=App&app=hapticpro
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.harhar.snapture
+Version: 1:2.2.3
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, org.snapture
+Replaces: com.xsellize.snapture
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/snapture.deb
+Size: 2810
+MD5sum: f61edbb7518848f4d83b77052b3fc5b5
+Description: Snapture HarHar Patch
+Name: Snapture HarHar Patch
+Depiction: http://xsellize.com/depic/?title=App&app=snapture
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.harhar.snapture
+Version: 3:2.2.3
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, org.snapture
+Replaces: com.xsellize.snapture, org.snapture
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/snapture_2.2.3.deb
+Size: 1187030
+MD5sum: d02a2c27a048a1a88c4097dd36f7d652
+Description: Snapture HarHar Full Package
+Name: Snapture 2.2.3 HarHar Full
+Depiction: http://xsellize.com/depic/?title=App&app=snapture
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.harhar.snapture
+Version: 4:3.0
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Replaces: com.xsellize.snapture, org.snapture
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/snapture_3.0.deb
+Size: 1342114
+MD5sum: fde126757f4f6033302af5351229e26b
+Description: Snapture HarHar Full Package
+Name: Snapture 3.0 HarHar Full
+Depiction: http://xsellize.com/depic/?title=App&app=snapture
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.hellokity
+Version: 1:1.0
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Architecture: iphoneos-arm
+Filename: ./Files/members/hellokity.deb
+Size: 126316
+MD5sum: d216ea97a3f04b0f27d78939bb4aef31
+Description: Hello kity SMS theme made by Jatin.
+Name: Hello kity SMS theme
+Depiction: http://xsellize.com/depic/?title=App&app=hellokity
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.iAcces3x
+Version: 30.4.4
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Pre-Depends: firmware (>= 3.0)
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/iAcces_30.4.4.deb
+Size: 6422318
+MD5sum: 811baa61a26655314b92a60f30955f6f
+Description: Happy iPhone input with iAcces experience!
+ Please check http://www.iacces.com or http://www.iphone.org.hk/ for details.
+Name: iAcces
+Author: Gary, ColaSheep, iczfirz
+Homepage: http://xsellize.com/depic/?title=App&app=iAcces3x
+Depiction: http://xsellize.com/depic/?title=App&app=iAcces3x
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.ibirthdays
+Version: 2.0
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, mobilesubstrate (>= 0.9.2560-1)
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/iBirthdays_2.0.deb
+Size: 228864
+MD5sum: b025de308d2541c9aec88b8f6e247963
+Description: Cracked by HunterX, The iBirthdays helps you remember all the birthdays of your contacts.
+Name: iBirthdays
+Depiction: http://xsellize.com/depic/?title=App&app=ibirthdays
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.iblacklist
+Version: 3.1-2
+Priority: optional
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Pre-Depends: dpkg (>= 1.13.25-5)
+Depends: mobilesubstrate, shell-cmds
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/iblacklist_3.1-2.deb
+Size: 794788
+MD5sum: 14538aa667d14c135a6d1dce203df847
+Description: iBlacklist (Cracked by Studguy1) is the best call blocker and SMS/MMS selector available for the iPhone. It ables you to select from who you want to receive calls and hide messages. It also removes the sms popup preview protecting your privacy, has parental control mode by blocking outgoing calls, can be fully scheduled and many other features. Try it , you'll love it.  Runs on 3.X and 2.x !!! PLEASE RESTART YOUR DEVICE AFTER INSTALL.
+Name: iBlacklist
+Depiction: http://xsellize.com/depic/?title=App&app=iblacklist
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.ibluetooth
+Version: 1:1.0
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/ibluetooth_1.0.deb
+Size: 286372
+MD5sum: 0039951748ab1f3a45ddefe509f58da2
+Description: iBluetooth, the world first application that enables the file transfer via Bluetooth on your iPhone!
+Name: iBluetooth
+Depiction: http://xsellize.com/depic/?title=App&app=ibluetooth
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.ibluetooth
+Version: 1:1.0.8
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/ibluetooth_1.0.8.deb
+Size: 280046
+MD5sum: d54c08d8f56f5f1a2273db9d0028caeb
+Description: iBluetooth, the world first application that enables the file transfer via Bluetooth on your iPhone!
+Name: iBluetooth
+Depiction: http://xsellize.com/depic/?title=App&app=ibluetooth
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.ibluetooth
+Version: 1:1.0.8-3.0
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/iBluetooth_1.0.8-3.deb
+Size: 287512
+MD5sum: 7b0a06cdcc876a4102601ddcca0f23e1
+Description: iBluetooth, the world first application that enables the file transfer via Bluetooth on your iPhone!
+Name: iBluetooth
+Depiction: http://xsellize.com/depic/?title=App&app=ibluetooth
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.ikeyex
+Version: 0.1-99f
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Pre-Depends: firmware (>=3.0)
+Depends: mobilesubstrate (>=0.9-0), preferenceloader (>=1.1)
+Conflicts: hk.kennytm.hclipboard (<< 0.1-99), hk.kennytm.5rowqwerty (<< 0.1-99), hk.kennytm.l33ttyper (<< 0.1-99)
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/ikeyex3-0.1-99f.deb
+Size: 88520
+MD5sum: 75e6fa11c3d6cf10d2815f6b0a2bc3a1
+Description: iKeyEx is a MobileSubstrate-based keyboard extension framework for the iPhoneOS 3.x.
+Name: iKeyEx 3
+Depiction: http://xsellize.com/depic/?title=App&app=ikeyex
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.installd
+Version: 2:3.0
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: Sadam <repo@xsellize.com>
+Pre-Depends: ldid
+Depends: com.xsellize.repo, firmware (= 3.0)
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/installd_1.1.deb
+Size: 3752
+MD5sum: 557eb874faeaad9d066f5eed2473af97
+Description: MobileInstallation (MiPatch) for firmware 3.0
+Name: Installd(MiPatch 3.0)
+Depiction: http://xsellize.com/depic/?title=App&app=installd
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.intellidial
+Version: 2.90.1
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.rockextensions (>= 0.90),com.xsellize.intellishared (>= 2.55)
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/IntelliDial_2.90.1.deb
+Size: 152714
+MD5sum: fe68ef4b7f1e11abb6e884f1902f62d0
+Description: (Cracked by Studguy1) View your Favorite Contacts on your Lock Screen in Cover Flow or Tile Format!
+Name: IntelliDial
+Depiction: http://xsellize.com/depic/?title=App&app=intellidial
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.intellishared
+Version: 3.1.1
+Priority: standard
+Section: System
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/intellishared_3.1.1.deb
+Size: 159174
+MD5sum: 9ff7390afd72f83245c9e91ff9a3494a
+Name: IntelliShared
+Depiction: http://xsellize.com/depic/?title=App&app=intellishared
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.iphonedelivery
+Version: 0.1.3
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: coreutils, sqlite3, ldid
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/iphonedelivery_0.1.3.deb
+Size: 12740
+MD5sum: 0b8adeda01a77f3c0b388da6f4aeca91
+Description: *3.x OS ONLY* Enables Delivery report.
+Name: iPhoneDelivery
+Depiction: http://xsellize.com/depic/?title=App&app=iphonedelivery
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.ipodringtonerock
+Version: 2.0
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.rockyourphone.rockextensions
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/ayring_2.0.deb
+Size: 377188
+MD5sum: 939ea7beb6c3ac5e192be0ac755fdc1c
+Description: (Cracked by Studguy1) With AnyRing you can easily select any song on your iPod to play as a ringtone. AnyRing even lets you select the starting/ending point in the song to play when the ringtone is played in real-time. Does not require any audio conversion of any type!
+Name: AnyRing
+Depiction: http://xsellize.com/depic/?title=App&app=ipodringtonerock
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.ipodringtonerock
+Version: 2.0
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/anyring_3.0.2.deb
+Size: 401416
+MD5sum: 3c08ff23c060ab8740263887024ea0df
+Description: (Cracked by Studguy1) With AnyRing you can easily select any song on your iPhone (or Record you own voice) to play as a ringtone and also change the SMS Ring. AnyRing even lets you select the starting/ending point in the song to play when the ringtone is played in real-time. Does not require any audio conversion of any type!  Uses Rock Your Phone for licensing (this will install the RockApp)
+ 
+ 3.0.2 Updates
+ ================
+ - Fixed a bug occured while loading Huge list of Songs.
+  
+ 3.0.1 Updates
+ ================ 
+ - Supports the new 3.1 iPhone firmware.
+ - New: Can now set SMS Ring from music.
+ - New: Options to quickly edit Default Ringtone/SMS and assigned Contacts.
+ - Changed: List songs by Artists.
+ - Fix: Faster loading of large list of songs.
+ - Fix: Volume was not saved propertly.
+ - Fix: Sometimes the Ringtone will not loop.
+ - Fix: Ringtone is now played through normal Audio Player and not the iPod Player.
+Name: AnyRing
+Depiction: http://xsellize.com/depic/?title=App&app=ipodringtonerock
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.irealquicksms
+Version: 1:1.0.0
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, mobilesubstrate
+Conflicts: com.spiritoflogic.irealsms, irealsms2, com.xsellize.irealsms, irealquicksms
+Replaces: irealsms2, com.xsellize.irealsms, irealquicksms
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/irealquicksms_1.0.0.deb
+Size: 92338
+MD5sum: b320a8fbebf5e71d24f2012be12ee0b6
+Description: QuickReply and QuickSend from ANY App
+Name: iRealQuickSMS
+Depiction: http://xsellize.com/depic/?title=App&app=irealquicksms
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.irealsms
+Version: 3:2.0.7.3
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, mobilesubstrate
+Conflicts: com.spiritoflogic.irealsms
+Replaces: com.spiritoflogic.irealsms, irealsms2
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/irealsms.deb
+Size: 272256
+MD5sum: fe939455914c3603183eb92ee68131ed
+Description: Full Landscape Professional SMS.
+Name: iRealSMS 2.0
+Depiction: http://xsellize.com/depic/?title=App&app=irealsms
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.ismartdialer
+Version: 3.04
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.rockextensions (>= 0.92)
+Replaces: com.ismart.dialer
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/iSmartDialer_3.04.deb
+Size: 672682
+MD5sum: fbf035e2a1579ec9659114fa19f4fc9e
+Description: iSmart Dialer (Cracked by Studguy1) adds layers of functionalities to your MobilePhone. Including: Searching for contact using the Keypads, Speed Dial, SMS / E-mail from inside the dialer and much more.
+Name: iSmart Dialer
+Icon: file:///Applications/iSmartDialer.app/icon.png
+Depiction: http://xsellize.com/depic/?title=App&app=ismartdialer
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.isteamy
+Version: 3.6
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/iSteamy_3.6.deb
+Size: 467838
+MD5sum: 2e5514940ef3fd04ad014719bb1d2667
+Description: iSteamy is an adult entertainment application.
+Name: iSteamy
+Depiction: http://xsellize.com/depic/?title=App&app=isteamy
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.italk
+Version: 1:1.0
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, com.italk-iphone.italk
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/italk.deb
+Size: 33996
+MD5sum: fc7e95d6ae34bdab066501d7f5a0ac55
+Description: iTalk KeyGen by crash-x
+Name: iTalk
+Depiction: http://xsellize.com/depic/?title=App&app=italk
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.itypefastr3x
+Version: 1.1.4-2
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Pre-Depends: firmware (>= 3.0)
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/iTypeFastr_1.1.4-2.deb
+Size: 2713484
+Installed-Size: 3282
+MD5sum: c96ea064dbd66bba74f3e5a999f681cb
+Description: 3.0+ only! iTypeFastR is an extra keyboard application that helps you type faster and with less typos, through it's smart design.
+Name: iTypeFastR
+Author: Stefan Verkerk <bigboss_questions@interfaceisking.nl>
+Homepage: http://xsellize.com/depic/?title=App&app=itypefastr3x
+Depiction: http://xsellize.com/depic/?title=App&app=itypefastr3x
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.itypefastr3x
+Version: 1.1.4
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Pre-Depends: firmware (>= 3.0)
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/iTypeFastr_1.1.4.deb
+Size: 2594874
+Installed-Size: 3282
+MD5sum: 466b5107966fde11663e5e3ea884b95d
+Description: 3.0+ only! iTypeFastR is an extra keyboard application that helps you type faster and with less typos, through it's smart design.
+Name: iTypeFastR
+Author: Stefan Verkerk <bigboss_questions@interfaceisking.nl>
+Homepage: http://xsellize.com/depic/?title=App&app=itypefastr3x
+Depiction: http://xsellize.com/depic/?title=App&app=itypefastr3x
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.iwipe
+Version: 1.0-1
+Priority: optional
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/iwipe_1.0.1.deb
+Size: 20438
+MD5sum: bb8c0a7467891da9ef844c38cac77542
+Description: utility to zero free space on the iPhone.
+Name: iWipe
+Depiction: http://xsellize.com/depic/?title=App&app=iwipe
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.leopardtheme
+Version: 1:1.0
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Architecture: iphoneos-arm
+Filename: ./Files/free/graphics/leopardtheme_1.0.deb
+Size: 14938170
+MD5sum: 53db5de360f244b53cdbaa40e60af8a5
+Description: Leopard OS X Theme by Jokawild.
+Name: Leopard OS X Theme
+Depiction: http://xsellize.com/depic/?title=App&app=leopardtheme
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.madvlock
+Version: 1:1.1
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/madvlock.deb
+Size: 354614
+MD5sum: 78af6ce50ab6b602f239b117db44db63
+Description: lock your apps and files with password. Also apply to sim card changed(anti-theft)
+Name: mAdvLock
+Depiction: http://xsellize.com/depic/?title=App&app=madvlock
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.mcallshow
+Version: 1:1.3
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, mobilesubstrate (>= 0.9.2587-1)
+Replaces: com.mcleaner.MCallShow
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/mcallshow.deb
+Size: 236952
+MD5sum: 560220dd425ddb97bbd4c2d220d4c68b
+Description: MCallShow is a callinfo enhancer to show the location data of the incoming/outgoing call and calllog.
+Name: MCallShow
+Depiction: http://xsellize.com/depic/?title=App&app=mcallshow
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.mcleaner
+Version: 2:1.6.1
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, mobilesubstrate (>= 0.9.2587-1)
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/mcleaner.deb
+Size: 250804
+MD5sum: d6550f9cec45b89983a56cbae31f10d0
+Description: With MCleaner you can block incoming calls and sms automatically, protect your privacy.
+Name: MCleaner
+Depiction: http://xsellize.com/depic/?title=App&app=mcleaner
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.mcoolphone
+Version: 1:1.1
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/mcoolphone1.1.deb
+Size: 97786
+MD5sum: b33e1951d6a13c30ba17060780340703
+Description: mCoolPhone
+Name: mCoolPhone
+Depiction: http:/xsellize.com/depic/?title=App&app=mcoolphone
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.megavwall
+Version: 1:1.0
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, com.skrew.skrewcommon, com.skrew.vwallpaper
+Architecture: iphoneos-arm
+Filename: ./Files/members/megavwall_1.0.deb
+Size: 65875324
+MD5sum: 8cca02e7e0f6ff140ecfdf0b45591ac2
+Description: vWallpapers.com vwallpaper mega pack
+Name: vWallpaper mega pack
+Depiction: http://xsellize.com/depic/?title=App&app=megavwall
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.mipatch
+Version: 2.2.1
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Pre-Depends: ldid
+Depends: com.xsellize.repo
+Conflicts: com.xsellize.ipaprep, com.xsellize.ipaprep2, com.xsellize.ipaprep22
+Replaces: com.xsellize.ipaprep, com.xsellize.ipaprep2, com.xsellize.ipaprep22
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/mipatch_2.2.1.deb
+Size: 6234
+MD5sum: fa1481c5b7fc9c7013ca9e3a74293f5e
+Description: mobileinstallation patch for all firmware
+Name: MiPatch
+Depiction: http://xsellize.com/depic/?title=App&app=mipatch
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.mobilegate
+Version: 1:1.0.1
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, com.iXtension.MobileHook
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/mobilegate.deb
+Size: 144664
+MD5sum: a6b5c5e33a48ee394728c7dfac4ac8c6
+Description: Create black/white lists for incoming calls/SMS.
+Name: MobileGate
+Depiction: http://xsellize.com/depic/?title=App&app=mobilegate
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.mobilelog
+Version: 1:2.2
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Conflicts: com.iclarified.cydia.ilog200
+Replaces: com.iclarified.cydia.ilog200
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/mobilelog.deb
+Size: 217668
+MD5sum: 21b617c4a75ef268f46af4aa1f6d9e0c
+Description: MobileLog is Call and SMS Handler complements the iPhone standard application to manage incoming and outgoing calls and SMS.
+Name: MobileLog
+Depiction: http://xsellize.com/depic/?title=App&app=mobilelog
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.mquickdo
+Version: 1.3.1
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/mQuickDo_1.3.1.deb
+Size: 291704
+MD5sum: f4de1d44cedcfad0e8001ca07ec340f0
+Description: mQuickDo for iPhone OS3.0,Virtual Home and Power buttons for the iPhone and iPod touch.
+Name: mQuickDo (OS3.0)
+Icon: http://www.mcleaner.com/images/iphone/mquickdo_logo.gif
+Depiction: http://xsellize.com/depic/?title=App&app=mquickdo
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.myprofiles
+Version: 0.99.1
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.rockextensions (>= 0.90),com.xsellize.intellishared (>= 2.55)
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/MyProfiles_0.99.1.deb
+Size: 449604
+MD5sum: 58d0fed7996ff346b85e73410171320e
+Description: (Cracked by Studguy1) Profile your iPhone!  Adjust how your iPhone behaves based on time, location, and more.  Handles Custom and Repeating Alerts for Email, SMS, Phones based on sender/subject/mailbox, and more!
+Name: MyProfiles
+Depiction: http://xsellize.com/depic/?title=App&app=myprofiles
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.mysms3.0
+Version: 1.0.4-1
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/mySMS_3.0.deb
+Size: 548990
+MD5sum: 8b5bcb7a87257654d8ac584e6e584524
+Description: Landscape SMS! Send/Receive simple/encrypted SMS via iPhone/iPhone 3G
+Name: mySMS
+Icon: file:///private/var/mobile/Library/MySMS/icon.png
+Depiction: http://xsellize.com/depic/?title=App&app=mysms
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.mywi
+Version: 0.97.1
+Priority: optional
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.rockyourphone.rockextensions (>= 0.93)
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/mywi_0.97.1.deb
+Size: 292388
+MD5sum: 17c934308f1197849b83e52e856b5dd6
+Description: (Cracked by Studguy1) Instant WiFi HotSpot with your 3G/3GS iPhone!
+Name: MyWi
+Depiction: http://xsellize.com/depic/?title=App&app=mywi
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.nesroms
+Version: 3:0.1
+Priority: standard
+Section: X Games
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, com.zdziarski.nesapp
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/nesroms.deb
+Size: 2149484
+MD5sum: e5eb9242719423b72bd8462bd480889f
+Description: A mini pack of nes roms
+Name: NES ROM mini pack
+Depiction: http://94.75.205.132/depic/?title=App&app=nesroms
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.norotation
+Version: 1:0.1
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, mobilesubstrate, sbsettings
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/norotation_0.1.deb
+Size: 36584
+MD5sum: 2ffdaa2f569616b9298c7adc6a551778
+Description: Sick of Safari and iPod rotating while laying in bed? Disable the rotation with this SBSettings toggle.
+Name: NoRotation
+Depiction: http://xsellize.com/depic/?title=App&app=norotation
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.norouz
+Version: 1:1.0
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Architecture: iphoneos-arm
+Filename: ./Files/members/norouz.deb
+Size: 8525466
+MD5sum: 42ef71ddbd0de0bd3c45ccc4c623092a
+Description: NowRooz Is New Year Of Persians & a Religion Called 7Seen. This WinterBoard theme includes Wallpapers, LockScreen, Icons, Dialer, and more.
+Name: NowRooz Theme
+Author: Behnam Amiri <behnam_ps2@yahoo.com>
+Depiction: http://xsellize.com/depic/?title=App&app=ixnorouz
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.orangefun
+Version: 1:1.0
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Architecture: iphoneos-arm
+Filename: ./Files/members/orangefun.deb
+Size: 317258
+MD5sum: 33d75592c1873b014acc3020b070375f
+Description: Orange fun SMS theme made by Jatin.
+Name: Orange fun SMS theme
+Depiction: http://xsellize.com/depic/?title=App&app=orangefun
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.pdanet
+Version: 1:1.51
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Replaces: com.jft.pn
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/pdanet.deb
+Size: 142954
+MD5sum: 5257751711195e49882a5b8b64a08f40
+Description: PdaNet WiFi Router for iPhone. Now also supports USB connection for Windows users!
+Name: PdaNet
+Depiction: http://xsellize.com/depic/?title=App&app=pdanet
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.pdanet
+Version: 1:1.52
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/pdanet_1.5.2.deb
+Size: 192732
+MD5sum: b801d855e82d7fa7bd2841bef987a0bc
+Description: PdaNet WiFi Router for iPhone. Now also supports USB connection for Windows users!
+Name: PdaNet
+Depiction: http://xsellize.com/depic/?title=App&app=pdanet
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.pdanet
+Version: 1:1.53
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/pdanet_1.5.3.deb
+Size: 139210
+MD5sum: cb27f86dcbb16918db30fc36799d9e0a
+Description: PdaNet WiFi Router for iPhone. Now also supports USB connection for Windows users!
+Name: PdaNet
+Depiction: http://xsellize.com/depic/?title=App&app=pdanet
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.phyzicxred
+Version: 1:1.0
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Architecture: iphoneos-arm
+Filename: ./Files/members/phyzicxred.deb
+Size: 7550006
+MD5sum: a7b4b991778401c90238216bfdf181be
+Description: PhYzIcX-Red bringing red and black together to form a perfect mashup theme
+Name: PhYzIcX-Red
+Depiction: http://xsellize.com/depic/?title=App&app=phyzicxred
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.popupblocker
+Version: 1.1.1
+Priority: optional
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Pre-Depends: mobilesubstrate, preferenceloader, com.ashman.wvc
+Architecture: iphoneos-arm
+Filename: ./Files/free/tweaks/popupblocker_1.1.1.deb
+Size: 36358
+MD5sum: a7af13545408daa0866ce4002dec6f78
+Description: (Cracked by Studguy1) Block annoying alert popups on your iPhone / iPod Touch.
+Name: Popup Blocker
+Depiction: http://xsellize.com/depic/?title=App&app=popupblocker
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.popupblocker
+Version: 1.1.1
+Priority: optional
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Pre-Depends: mobilesubstrate, preferenceloader, com.ashman.wvc
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/popupblocker_1.1.1.deb
+Size: 36358
+MD5sum: 03ddd04b2e74fba20e91429ef059d639
+Description: (Cracked by Studguy1) Block annoying alert popups on your iPhone / iPod Touch.
+Name: Popup Blocker
+Depiction: http://xsellize.com/depic/?title=App&app=popupblocker
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.quake3
+Version: 1:1.0
+Priority: standard
+Section: X Games
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Architecture: iphoneos-arm
+Filename: ./Files/members/quake3.deb
+Size: 47231844
+MD5sum: db39f1a5745db14df3f1cadc9db9a7af
+Description: Quake 3 ported to the iPhone
+Name: Quake 3
+Depiction: http://xsellize.com/depic/?title=App&app=quake3
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.quickscroll
+Version: 0.1-12d
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/QuickScroll_0.1-12d.deb
+Size: 10284
+MD5sum: 3f9551ba68d26713212fd47437e6a2b8
+Description: Quickly scroll through anything. PDF paging. Initiate with triple tap.
+Name: QuickScroll
+Depiction: http://xsellize.com/depic/?title=App&app=quickscroll
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.redapple
+Version: 1:1.0
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Architecture: iphoneos-arm
+Filename: ./Files/members/redapple.deb
+Size: 64708
+MD5sum: 17418338497d2b04607875b12e0eff56
+Description: Red Apple Loaders! by Carrbone.
+Name: Red Apple Loaders!
+Depiction: http://xsellize.com/depic/?title=App&app=redapple
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.repo
+Version: 4:3.0
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/repo_3.0.deb
+Size: 11474
+MD5sum: 00966412740f7bc84b26aaf5901086b8
+Description: Adds Icons to xSellize Repo
+Name: Repo Icons
+Depiction: http://xsellize.com/depic/?title=App&app=repo
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.revolucion
+Version: 1:1.0
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Architecture: iphoneos-arm
+Filename: ./Files/members/revolucion.deb
+Size: 173316
+MD5sum: 6bd9bf3af4abc81c6481090c65474bc8
+Description: Revolucion SMS theme made by Jatin.
+Name: Revolucion SMS theme
+Depiction: http://xsellize.com/depic/?title=App&app=revolucion
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.rockextensions
+Version: 1.01
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/roxkextensions-1.01.deb
+Size: 81512
+MD5sum: e9e5992c91b1bc92b43a30165d23d016
+Description: Enables 3rd Party System Add-Ons
+Name: Rock Extensions
+Depiction: http://xsellize.com/depic/?title=App&app=rockextensions
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.satine
+Version: 1:0.1
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Architecture: iphoneos-arm
+Filename: ./Files/members/satine.deb
+Size: 124680
+MD5sum: 848fb127e6cbc529cdc70b83bb7f107a
+Description: Theme made by pumpa
+Name: Satine Theme
+Depiction: http:/xsellize.com/depic/?title=App&app=satine
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.shelveswall
+Version: 1:0.1
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Architecture: iphoneos-arm
+Filename: ./Files/members/shelveswall.deb
+Size: 404806
+MD5sum: 112dff7a3dd33af51f93748c3796ab0d
+Description: xShelves Walls by pumpa
+Name: xShelves Walls
+Depiction: http://xsellize.com/depic/?title=App&app=shelveswall
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.silentme
+Version: 1.5.4.2
+Priority: optional
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: mobilesubstrate (>= 0.9.3005-1)
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/silentme_1.5.4.2.deb
+Size: 178716
+MD5sum: cc38f86c3fb44760cc2434c1cf848007
+Description: (Cracked By Studguy1) Puts in silent mode automatically during meeting and night. It syncs with calendar and during meeting changes settings as set by user. You can also set to auto changes settings during night time.
+Name: Auto Silent
+Depiction: http://xsellize.com/depic/?title=App&app=silentme
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.skull
+Version: 1:1.0
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Architecture: iphoneos-arm
+Filename: ./Files/members/skull.deb
+Size: 320712
+MD5sum: ba9c118afbe119cc062abb6af1495871
+Description: Skull fun SMS theme made by Jatin.
+Name: Skull SMS theme
+Depiction: http://xsellize.com/depic/?title=App&app=skull
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.stack
+Version: 3.0
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/stack_3a6c.deb
+Size: 147094
+MD5sum: ceebe53b73f3a4439d9195211758967c
+Description: Internal build of Stack v3 for testing. Requires iPhone OS 3.0.
+Name: Stack v3
+Depiction: http://xsellize.com/depic/?title=App&app=stack
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.stormp
+Version: 1:1.0
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Architecture: iphoneos-arm
+Filename: ./Files/members/stormp.deb
+Size: 1161480
+MD5sum: c4d9c5b3ada647765507120b4aba10ff
+Description: Storm theme (Winterboard) elements seperated by puy|o, so you can choose the element you want to install and not the full theme and also includes vibration keyboard for winterboard.
+Name: Storm Theme Elements
+Depiction: http://xsellize.com/depic/?title=App&app=stormp
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.styldedit
+Version: 3:1.0
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Architecture: iphoneos-arm
+Filename: ./Files/members/styldedit.deb
+Size: 6025656
+MD5sum: 500fe6be8d14c3ec211989121e2ace59
+Description: Styldedit Theme by warbox
+Name: Styldedit Theme
+Depiction: http://xsellize.com/depic/?title=App&app=styldedit
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.swirlylang
+Version: 1:1.3.3
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, com.xsellize.swirlymms
+Replaces: com.swirlyspace.mmslang
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/swirlylang_1.3.2.deb
+Size: 79938
+MD5sum: 1adbfc6ed807b277e3880e87582d9238
+Description: Language pack required by SwirlyMMS.
+Name: SwirlyMMSLangPack
+Depiction: http://xsellize.com/depic/?title=App&app=swirlymms
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.swirlymms
+Version: 2:1.3.2
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, com.xsellize.swirlylang
+Replaces: com.swirlyspace.mms
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/swirly_1.3.2.deb
+Size: 756044
+MD5sum: 8382b0c55457e372de170bb0128f48d2
+Description: Send and receive MMSs with your iPhone.
+Name: SwirlyMMS
+Depiction: http://xsellize.com/depic/?title=App&app=swirlymms
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.swirlymms
+Version: 4:1.3.2
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, com.xsellize.swirlylang
+Replaces: com.swirlyspace.mms
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/swirly_1.3.2-2.deb
+Size: 756042
+MD5sum: 376582d8a6571c0940a4380516049687
+Description: Send and receive MMSs with your iPhone.
+Name: SwirlyMMS
+Depiction: http://xsellize.com/depic/?title=App&app=swirlymms
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.swirlymms
+Version: 3:1.3.2
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, com.xsellize.swirlylang
+Replaces: com.swirlyspace.mms
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/swirly_1.3.2-1.deb
+Size: 756020
+MD5sum: db140e571c5b17f48fcfa715d31de79c
+Description: Send and receive MMSs with your iPhone.
+Name: SwirlyMMS
+Depiction: http://xsellize.com/depic/?title=App&app=swirlymms
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.swirlymms2
+Version: 2.1.3
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Replaces: com.swirlyspace.mms, com.swirlyspace.mmslang
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/SwirlyMMS_2.1.3.deb
+Size: 4729822
+MD5sum: 93a666bc47e9dbd0f5128ed668f1e1b3
+Description: Send and receive MMSs with your iPhone.
+Name: SwirlyMMS
+Icon: file:///Applications/SwirlyMMS.app/icon.png
+Depiction: http://xsellize.com/depic/?title=App&app=swirlymms
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.tlert
+Version: 1.05.1
+Priority: optional
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: mobilesubstrate,com.xsellize.intellishared (>= 2.91.4)
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/tlert_1.0.5-1.deb
+Size: 332090
+MD5sum: e5d282671c005783cdcbf380cf3f69c2
+Description: (Cracked by Studguy1) View and Reply to SMS message from any app.  Get rid of the ugly default alert messages!
+Name: Tlert
+Depiction: http://xsellize.com/depic/?title=App&app=tlert
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.tonefxs
+Version: 1.501
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/ToneFXs_1.501.deb
+Size: 979014
+Installed-Size: 1912
+MD5sum: fd02c863ca029c6942db06a7112e5eaf
+Description: Shuffle ringtones & customize sound effects
+Name: ToneFXs
+Depiction: http://xsellize.com/depic/?title=App&app=tonefxs
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.toxic
+Version: 1:1.0
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Architecture: iphoneos-arm
+Filename: ./Files/members/toxic.deb
+Size: 348078
+MD5sum: 20b7098e2a480ec43731fd326e82e711
+Description: Toxic SMS theme made by Jatin.
+Name: Toxic SMS theme
+Depiction: http://xsellize.com/depic/?title=App&app=toxic
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.treasonSMS
+Version: 1.0.1-2
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/treasonSMS_1.0.deb
+Size: 522078
+MD5sum: 3ff7c510c71f0f08c6b906421b32d03b
+Description: Send SMS from your WebBrowser. Requires Wi-FI
+Name: treasonSMS
+Author: treAson <shitburg@yahoo.com>
+Depiction: http://xsellize.com/depic/?title=App&app=treasonSMS
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.udidfaker
+Version: 1.01
+Priority: optional
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/udidfaker_1.01.deb
+Size: 482772
+MD5sum: f88eb1478e8a7b1d6d082cd9d27b18e2
+Description: (Credit : Reilly) With this little App you can change your device's UDID for every AppStore-App. iTunes and Cydia-Apps will still see the original UDID.
+Name: UDIDFaker
+Depiction: http://xsellize.com/depic/?title=App&app=udidfaker
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.vhottie
+Version: 4:1.0
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, com.skrew.skrewcommon, com.skrew.vwallpaper
+Architecture: iphoneos-arm
+Filename: ./Files/members/vhottie_1.0.deb
+Size: 6202762
+MD5sum: 4e2b758e5fe5f9ec8ea8fca2c3f90a06
+Description: vHottie HOT vWallpaper
+Name: vHottie
+Depiction: http://xsellize.com/depic/?title=App&app=vhottie
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.vibration
+Version: 17:1.2
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Replaces: com.xsellize.vibrationold
+Architecture: iphoneos-arm
+Filename: ./Files/free/tweaks/vib_1.2.deb
+Size: 2106
+MD5sum: f9c7ccc53bebfc79c48aae52e88b26c8
+Description: Realistic Haptic / Vibration Feedback
+Name: Realistic Haptic / Vibration
+Depiction: http://xsellize.com/depic/?title=App&app=vibration
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.vibration
+Version: 16:1.1
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Architecture: iphoneos-arm
+Filename: ./Files/free/tweaks/vib.deb
+Size: 2134
+MD5sum: 85ef909ca1b934c1d0b28e1c49417eea
+Description: Realistic Haptic / Vibration Feedback
+Name: Realistic Haptic / Vibration
+Depiction: http://xsellize.com/depic/?title=App&app=vibration
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.vibration3
+Version: 1:3.0
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Replaces: com.xsellize.vibrationold
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/vib_3.0.deb
+Size: 2886
+MD5sum: ac110ff8918d13c2a68659c7c3390ac8
+Description: Realistic Haptic / Vibration Feedback
+Name: Realistic Haptic / Vibration
+Depiction: http://xsellize.com/depic/?title=App&app=vibration
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.vibrationold
+Version: 1:1.1
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Replaces: com.xsellize.vibration
+Architecture: iphoneos-arm
+Filename: ./Files/free/tweaks/vib_old_1.1.deb
+Size: 2130
+MD5sum: 54244bb5bbc2ef6fe441f4f566dffb8e
+Description: Haptic / Vibration Feedback
+Name: Haptic / Vibration old
+Depiction: http://xsellize.com/depic/?title=App&app=vibration
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.videorecorder3g
+Version: 2:3.0.6.1
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Replaces: com.dreamcatcher.videorecorder3g
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/videorecorder3g.deb
+Size: 550148
+MD5sum: 3bb07ad9dd421f197460e6a4de50defb
+Description: iPhone Video Recorder for 3G is a powerful iPhone oriented video recorder produced by DreamCatcher. The newly released version 3.0 supports on-the-fly recording to .mov files with the video quality improved dramatically. It can also record audio and video to the compressed mpeg4 format for space saving; an hour of high-quality recording will be a file as small as 60MB. The app boasts a frame rate up to 15fps which guarantees better recording performance. With iPhone Video Recorder for 3G, recording is easy and enjoyable - you can play back a video, upload to YouTube, or simply download it to your computer.
+Name: Video Recorder for 3G
+Depiction: http://xsellize.com/depic/?title=App&app=videorecorder3g
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.videorecorder3g
+Version: 2:3.1.0.1
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Replaces: com.dreamcatcher.videorecorder3g
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/videorecorder3_3.1.0.1.deb
+Size: 566446
+MD5sum: 536f8f95a41e5bebafdfe693450aa02f
+Description: iPhone Video Recorder for 3.0 is a powerful iPhone oriented video recorder produced by DreamCatcher. The newly released version 3.1 supports on-the-fly recording to mov file with the video quality improved dramatically. iPhone Video Recorder for 3.0 iPhone can also record audio and video to the compressed mpeg4 format for space saving; an-hour-high-quality recording will be a file as small as 60MB. iPhone Video Recorder for 3.0 boasts a frame rate up to 15fps which guarantees better recording performance. With iPhone Video Recorder for 3.0, recording is easy and enjoyable, you may play back the video, upload to Youtube, or simply download it to a computer.
+Name: Video Recorder
+Depiction: http://xsellize.com/depic/?title=App&app=videorecorder3g
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.wallpaper
+Version: 2:1.1
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Architecture: iphoneos-arm
+Filename: ./Files/members/wallpapers.deb
+Size: 1429180
+MD5sum: 6c4fa96529c58dd1daf1c6f569c20d71
+Description: xSellize mega wallpaper pack
+Name: xSellize wallpaper pack
+Depiction: http://xsellize.com/depic/?title=App&app=wallpaper
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.windoze
+Version: 1.0.0-1
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/windoze.deb
+Size: 36857246
+MD5sum: eb36e1870a501eefcdb85e07270835ca
+Description: Run Windows 3.11 and Windows 95 on your iPhone. It's slow, but worked.
+Name: Windoze for iPhone
+Depiction: http://xsellize.com/depic/?title=App&app=windoze
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.x3v2
+Version: 1:2.0
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Conflicts: com.xsellize.x3
+Replaces: com.xsellize.x3
+Architecture: iphoneos-arm
+Filename: ./Files/members/x3v2.deb
+Size: 189132
+MD5sum: 9427261112db20a3811a2e9f379d3d3c
+Description: x3v2 Theme v 2.0 made by pumpa aka bluemonday
+Name: x3v2 Theme [Major Update]
+Depiction: http://xsellize.com/depic/?title=App&app=x3
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.xdaemon
+Version: 0.6.0
+Priority: optional
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/xdrive-xdaemon_0.6.0.deb
+Size: 52722
+MD5sum: 786db9f9a8cc8ea20e528969f3b68308
+Description: xDaemon for iPhone (needed by xDrive)
+Name: xDaemon
+Depiction: http://xsellize.com/depic/?title=App&app=xdaemon
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.xdrive
+Version: 1.4.3
+Priority: optional
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.xdaemon
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/xdrive_1.4.3.deb
+Size: 431894
+MD5sum: 87dbbe5469f37588e832b26c7c638787
+Description: External harddisk over WiFi (based on samba)
+Name: xDrive
+Depiction: http://xsellize.com/depic/?title=App&app=xdrive
+Sponsor: xSellize.com <http://xsellize.com>
+
+Package: com.xsellize.xipa
+Version: 4:1.1
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, uuid
+Conflicts: com.xsellize.ai, com.xsellize.autoi
+Replaces: com.xsellize.ai, com.xsellize.autoi
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/xipa.deb
+Size: 158424
+MD5sum: 9cbd9c2ab9084d197640ec6dff2f2c83
+Description: X-IPA now out of beta
+Name: X-IPA
+Depiction: http://xsellize.com/depic/?title=App&app=xipa
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.xneue
+Version: 1:1.1
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Architecture: iphoneos-arm
+Filename: ./Files/members/x-neue.deb
+Size: 773744
+MD5sum: 7d96476cecceb35feb12fa3579d49797
+Description: Theme made by fifty6
+Name: x-Neue  Theme
+Depiction: http:/xsellize.com/depic/?title=App&app=xneue
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.xnews
+Version: 1:1.0
+Priority: standard
+Section: X Apps
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/xSellizeNews_1.0.deb
+Size: 4312
+MD5sum: 930c774e45db9af9e6004281657d476f
+Description: Stay up to date with xSellize right from your springboard/lockscreen
+Name: xSellize News Widget
+Depiction: http://xsellize.com/depic/?title=App&app=xnews
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.xtheme
+Version: 3:1.0
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Architecture: iphoneos-arm
+Filename: ./Files/members/xtheme.deb
+Size: 1959640
+MD5sum: 5e9e7cd064a031fd11b7399414a1b4c4
+Description: Official xSellize Theme by pumpa
+Name: X-Theme
+Depiction: http://xsellize.com/depic/?title=App&app=xtheme
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.xwall
+Version: 3:1.0
+Priority: standard
+Section: X Graphix
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, winterboard
+Architecture: iphoneos-arm
+Filename: ./Files/members/xwalls.deb
+Size: 1133332
+MD5sum: eb8032a22edb18f06b09d5efc81d8602
+Description: X-Walls-13 different moving Wallpapers for use with Winterboard.
+Name: X-Walls
+Depiction: http://xsellize.com/depic/?title=App&app=xwalls
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.yxflash
+Version: 2.0.0-1
+Section: X Apps
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Architecture: iphoneos-arm
+Filename: ./Files/free/apps/yxflash_2.0.0-1.deb
+Size: 2910080
+MD5sum: 9f8fad69806b7b5ac70caec6fa62508a
+Description: yxflash is video player for mobile devices, It supports High quality Xvid/Divx, Flash Video, and WMV playback on iPhone
+Name: yxflash
+Depiction: http://xsellize.com/depic/?title=App&app=yxflash
+Sponsor: xSellize.com <http://xsellize.com>
+

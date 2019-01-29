@@ -1,0 +1,37 @@
+Package: com.phoenix.pandoracontrols
+Version: 1:1.0.2-0
+Section: Multimedia
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, preferenceloader
+Replaces: com.phoenix.musiccontrols
+Architecture: iphoneos-arm
+Filename: deb//MusicControls.deb
+Size: 95044
+Installed-Size: 312
+MD5sum: ed4749d645ade80b77c69fd5a0f46f51
+Name: Music Controls
+Author: phoenix3200 <phoenix3200.dev@gmail.com>
+Homepage: http://phoenix-dev.com/
+Description: Controls for backgrounded music programs - supports Remote, Pandora, Slacker, imeem, Last.fm, Simplify Music 2.0, OrbMusic, OrbLive, Top 100s by Year, XBMC Music Streamer, Stitcher, OurStage Radio, iheartradio, RSSPlayer, Spotify, Rhapsody, PwnPlayer Lite, PlugPlayer, and iFile.
+tag: cydia::commercial, purpose::extension
+depiction: http://phoenix-dev.com/cydia/musiccontrols/
+dev: phoenix
+
+Package: com.phoenix.wallpaper
+Version: 0.1.1
+Section: Multimedia
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: deb//Wallpaper.deb
+Size: 7422
+Installed-Size: 32
+MD5sum: b2755e1cce424f314ea7062492a4838c
+Name: Wallpaper
+Author: phoenix3200 <phoenix3200.dev@gmail.com>
+Homepage: http://phoenix-dev.com/
+Description: Variable-opacity Wallpaper for SpringBoard
+tag: purpose::extension
+depiction: http://phoenix-dev.com/cydia/wallpaper/
+dev: phoenix
+

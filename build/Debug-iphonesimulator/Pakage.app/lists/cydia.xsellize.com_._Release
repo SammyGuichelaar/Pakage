@@ -1,0 +1,8 @@
+Origin: xSellize 
+Label: xSellize  
+Suite: stable 
+Version: 1.0 
+Codename: tangelo 
+Architectures: iphoneos-arm 
+Components: main
+Description: xSellize Repo :: All your iPhone needs

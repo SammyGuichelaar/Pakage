@@ -1,0 +1,13 @@
+Origin: ModMyi.com
+Label: ModMyi
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: darwin-arm
+Components: main
+Description: ModMyi.com - we host your apps! Email us.
+MD5Sum:
+ 4dcdb984c55bfae754d1ba4c1b535168 85062 main/binary-darwin-arm/Packages
+ 16f73eda24b0f4014b65bf8c52610c8e 20704 main/binary-darwin-arm/Packages.gz
+ e2124c1d039510a6af7f153b6a43bda1 1372278 main/binary-iphoneos-arm/Packages
+ b50fc65154f96dd2d142b970f4f40d95 285725 main/binary-iphoneos-arm/Packages.gz

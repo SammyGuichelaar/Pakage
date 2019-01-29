@@ -1,0 +1,5 @@
+/Users/Xuzz/Pakage/Classes/ABScreenshotView.m: In function '-[ABScreenshotView initWithScreenshots:inView:belowObject:]':
+/Users/Xuzz/Pakage/Classes/ABScreenshotView.m:84: error: 'EGOImageView' undeclared (first use in this function)
+/Users/Xuzz/Pakage/Classes/ABScreenshotView.m:84: error: (Each undeclared identifier is reported only once
+/Users/Xuzz/Pakage/Classes/ABScreenshotView.m:84: error: for each function it appears in.)
+/Users/Xuzz/Pakage/Classes/ABScreenshotView.m:84: error: 'currentImageView' undeclared (first use in this function)

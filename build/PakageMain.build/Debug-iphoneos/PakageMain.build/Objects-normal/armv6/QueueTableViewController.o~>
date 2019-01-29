@@ -1,0 +1,8 @@
+/Users/Xuzz/Pakage/Classes/QueueTableViewController.m: In function '-[QueueTableViewController packageWasAdded]':
+/Users/Xuzz/Pakage/Classes/QueueTableViewController.m:32: warning: 'UIView' may not respond to '-insertRowsAtIndexPaths:withRowAnimation:'
+/Users/Xuzz/Pakage/Classes/QueueTableViewController.m:32: warning: (Messages without a matching method signature
+/Users/Xuzz/Pakage/Classes/QueueTableViewController.m:32: warning: will be assumed to return 'id' and accept
+/Users/Xuzz/Pakage/Classes/QueueTableViewController.m:32: warning: '...' as arguments.)
+/Users/Xuzz/Pakage/Classes/QueueTableViewController.m: In function '-[QueueTableViewController packageWasInstalled:]':
+/Users/Xuzz/Pakage/Classes/QueueTableViewController.m:45: warning: 'UIView' may not respond to '-deleteRowsAtIndexPaths:withRowAnimation:'
+/Users/Xuzz/Pakage/Classes/QueueTableViewController.m:46: warning: 'UIView' may not respond to '-cellForRowAtIndexPath:'

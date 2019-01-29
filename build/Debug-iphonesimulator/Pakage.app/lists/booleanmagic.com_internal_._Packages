@@ -1,0 +1,75 @@
+Package: smshelper
+Priority: optional
+Section: System
+Architecture: iphoneos-arm
+Version: 0.2.1
+Description: Counts characters inside SMS composer
+Name: SMS Helper
+Depends: mobilesubstrate
+Author: Open Hebrew & Ryan Petrich
+Filename: ./debs/smshelper_0.2.1_iphoneos-arm.deb
+MD5sum: c070c29d7d4e4784d728471e89f68359
+SHA1: 88a7638463e75202e2cd6d7a4abd3c8615cf3a40
+SHA256: 78a0ae250e00c651b0b60f3b0527321fb6cc0f3638477f0bf0112ec5f6d26957
+Size: 10726
+
+
+Package: overboard
+Priority: optional
+Section: System
+Architecture: iphoneos-arm
+Version: 0.1.13
+Description: Get an overview of your apps
+Name: OverBoard
+Depends: mobilesubstrate
+Author: Ryan Petrich <rpetrich@gmail.com>
+Filename: ./debs/overboard_0.1.13_iphoneos-arm.deb
+MD5sum: f7add2cd4acb431b8b37b475eed63d81
+SHA1: 9c86b9f26e2e3fde38549cf9076bdfd53dad2dac
+SHA256: 29c11bc1ababdd43dbad17a099743c87685f67a4d3e681cd51398cbe13d7c68f
+Size: 19214
+
+
+Package: actionmenu-pluspack
+Priority: optional
+Section: System
+Architecture: iphoneos-arm
+Version: 1.0.2-1
+Description: Additional actions for Action Menu!
+	Included actions: History, Lookup, Tweet and Locate
+Depiction: http://booleanmagic.com/cydia/actionmenu-pluspack/
+Website: http://booleanmagic.com/cydia/actionmenu-pluspack/
+Name: Action Menu Plus Pack
+Depends: actionmenu (>= 1.0.3)
+Author: Ryan Petrich <rpetrich@gmail.com>
+Installed-Size: 102
+Provides: actionmenu-history, actionmenu-lookup, actionmenu-tweet, actionmenu-locate
+Tag: cydia::commercial
+Icon: file:///Library/ActionMenu/icon-large.png
+dev: ryanpetrich
+Filename: ./debs/cydiastore_actionmenu-pluspack_1.0.2-1_iphoneos-arm.deb
+MD5sum: 0cb5d9229f3026aae998bb14bdc77914
+SHA1: 304999fcd45ad750dd6f3a2bb535a4b444e8af52
+SHA256: 61703ef1d2ac48c97a2f8dca467a3b90d8012c98c4c91da36b2fa1ca1b27693e
+Size: 35570
+
+
+Package: togglepack
+Priority: optional
+Section: SBSettings Addons
+Architecture: iphoneos-arm
+Version: 0.9
+Description: SBSettings Toggle Pack
+Depiction: http://booleanmagic.com/cydia/togglepack/
+Homepage: http://booleanmagic.com/cydia/togglepack/
+Name: SBSettings Toggle Pack
+Depends: sbsettings (>= 1.0.7-5)
+Author: Ryan Petrich <rpetrich@gmail.com>
+dev: ryanpetrich
+Filename: ./debs/togglepack_0.9_iphoneos-arm.deb
+MD5sum: 8d481f4ee4f3ce9b56b74871bc120d74
+SHA1: 8b7928c6ed0c32d09ec862c454b1b2f5c2d1935e
+SHA256: 538425b23e391e8c8376fcedd894ca4121d725f341f187ca4147372b182b5d80
+Size: 14042
+
+

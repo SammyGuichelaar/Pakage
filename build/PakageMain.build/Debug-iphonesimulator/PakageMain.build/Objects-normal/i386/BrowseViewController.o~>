@@ -1,0 +1,22 @@
+/Users/Xuzz/Desktop/PakageMain/Classes/BrowseViewController.m:3: warning: cannot find interface declaration for 'BrowseViewController'
+/Users/Xuzz/Desktop/PakageMain/Classes/BrowseViewController.m:3: error: no declaration of property 'navigationController' found in the interface
+/Users/Xuzz/Desktop/PakageMain/Classes/BrowseViewController.m: In function '-[BrowseViewController viewDidLoad]':
+/Users/Xuzz/Desktop/PakageMain/Classes/BrowseViewController.m:7: error: no super class declared in @interface for 'BrowseViewController'
+/Users/Xuzz/Desktop/PakageMain/Classes/BrowseViewController.m:9: error: 'sectionsTableViewController' undeclared (first use in this function)
+/Users/Xuzz/Desktop/PakageMain/Classes/BrowseViewController.m:9: error: (Each undeclared identifier is reported only once
+/Users/Xuzz/Desktop/PakageMain/Classes/BrowseViewController.m:9: error: for each function it appears in.)
+/Users/Xuzz/Desktop/PakageMain/Classes/BrowseViewController.m:11: error: request for member 'view' in something not a structure or union
+/Users/Xuzz/Desktop/PakageMain/Classes/BrowseViewController.m:13: error: 'searchTableViewController' undeclared (first use in this function)
+/Users/Xuzz/Desktop/PakageMain/Classes/BrowseViewController.m:15: error: request for member 'view' in something not a structure or union
+/Users/Xuzz/Desktop/PakageMain/Classes/BrowseViewController.m:17: error: 'segmentedControl' undeclared (first use in this function)
+/Users/Xuzz/Desktop/PakageMain/Classes/BrowseViewController.m:26: error: request for member 'navigationItem' in something not a structure or union
+/Users/Xuzz/Desktop/PakageMain/Classes/BrowseViewController.m:29: error: request for member 'navigationItem' in something not a structure or union
+/Users/Xuzz/Desktop/PakageMain/Classes/BrowseViewController.m: In function '-[BrowseViewController segmentAction:]':
+/Users/Xuzz/Desktop/PakageMain/Classes/BrowseViewController.m:36: error: request for member 'view' in something not a structure or union
+/Users/Xuzz/Desktop/PakageMain/Classes/BrowseViewController.m:36: error: 'searchTableViewController' undeclared (first use in this function)
+/Users/Xuzz/Desktop/PakageMain/Classes/BrowseViewController.m:38: error: request for member 'view' in something not a structure or union
+/Users/Xuzz/Desktop/PakageMain/Classes/BrowseViewController.m:38: error: 'sectionsTableViewController' undeclared (first use in this function)
+/Users/Xuzz/Desktop/PakageMain/Classes/BrowseViewController.m: In function '-[BrowseViewController didReceiveMemoryWarning]':
+/Users/Xuzz/Desktop/PakageMain/Classes/BrowseViewController.m:43: error: no super class declared in @interface for 'BrowseViewController'
+/Users/Xuzz/Desktop/PakageMain/Classes/BrowseViewController.m: In function '-[BrowseViewController dealloc]':
+/Users/Xuzz/Desktop/PakageMain/Classes/BrowseViewController.m:54: error: no super class declared in @interface for 'BrowseViewController'

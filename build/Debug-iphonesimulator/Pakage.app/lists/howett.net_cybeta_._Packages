@@ -1,0 +1,254 @@
+Package: net.howett.blanknull
+Version: 1.1.0
+Name: BlankNull
+Author: Dustin Howett <dustin@howett.net>
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 40
+Depends: mobilesubstrate
+Replaces: net.howett.noiblank, com.applenews.blanknull
+Filename: packages/net.howett.blanknull_1.1.0_iphoneos-arm.deb
+Size: 2492
+MD5sum: 5b7579514d00a4f8a4f55e1ca4bc75a5
+SHA1: 99f89231073644d40a5ce66c2041b400d6071706
+SHA256: 2a5ae53f7908871476ca911e78cd5d1568e70c4e0f100d0bbae3308c6cdeda22
+Section: Tweaks
+Description: Makes nameless bookmark icons inoperable.
+
+Package: net.howett.cydelete
+Version: 1.2.1.99.3
+Name: CyDelete
+Author: Dustin Howett <dustin@howett.net>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/cydeleteDp.php
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 380
+Depends: mobilesubstrate, preferenceloader, apt, bash, grep, coreutils
+Conflicts: com.sosiphone.cydeletefr
+Filename: packages/net.howett.cydelete_1.2.1.99.3_iphoneos-arm.deb
+Size: 32282
+MD5sum: fb1e9beaed046ff3ceb8f74b54f391c5
+SHA1: ba1cfa2de27b2604b3c480eb72f455e7cd175866
+SHA256: e423149687d819d8c074edd0dec8e8225dafb43ce40970caa14128c63cab625f
+Section: Tweaks
+Homepage: http://howett.net/cydia/depict/cydelete.html
+Description: Delete Cydia packages from SpringBoard, just like App Store applications!
+Tag: purpose::extension, role::enduser
+
+Package: net.howett.cydelete
+Version: 1.3.0.99-10
+Name: CyDelete
+Author: Dustin Howett <dustin@howett.net>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/cydeleteDp.php
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 380
+Depends: mobilesubstrate, preferenceloader, apt, bash, grep, coreutils
+Conflicts: com.sosiphone.cydeletefr
+Filename: packages/net.howett.cydelete_1.3.0.99-10_iphoneos-arm.deb
+Size: 33380
+MD5sum: 2f2d3cc4557856e54ade253c47900616
+SHA1: 394b68108ea663414bfc99d107e1371d8c902377
+SHA256: 18b162eb0684c76dbdf60990a46ae2d12ae5d3b65c8b07b57480e41cb5961c7a
+Section: Tweaks
+Homepage: http://howett.net/cydia/depict/cydelete.html
+Description: Delete Cydia packages from SpringBoard, just like App Store applications!
+Tag: purpose::extension, role::enduser
+
+Package: net.howett.cydelete
+Version: 1.99-19
+Name: CyDelete
+Author: Dustin Howett <dustin@howett.net>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/cydeleteDp.php
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 380
+Depends: mobilesubstrate, preferenceloader, apt, bash, grep, coreutils
+Conflicts: com.sosiphone.cydeletefr
+Filename: packages/net.howett.cydelete_1.99-19_iphoneos-arm.deb
+Size: 32202
+MD5sum: c51842eb252110f348061e064b66e6c5
+SHA1: cac366fa11a0e69b5505c8471e9913790e798a61
+SHA256: 6695c1ae0cdac7aff15d405e7d2755b11269a1e9cf702d9dbd88e1b7723d8612
+Section: Tweaks
+Homepage: http://howett.net/cydia/depict/cydelete.html
+Description: Delete Cydia packages from SpringBoard, just like App Store applications!
+Tag: purpose::extension, role::enduser
+
+Package: net.howett.cydelete
+Version: 1.3.0-30
+Name: CyDelete
+Author: Dustin Howett <dustin@howett.net>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/cydeleteDp.php
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 384
+Depends: mobilesubstrate, preferenceloader, apt, bash, grep, coreutils
+Conflicts: com.sosiphone.cydeletefr
+Filename: packages/net.howett.cydelete_1.3.0-30_iphoneos-arm.deb
+Size: 33540
+MD5sum: ebc075151c6a64de1e2a8178456dde5a
+SHA1: 4d5d19f44e1d934f1d26c14edffba752eeb37651
+SHA256: 5ab8788c751d44fd82d999bc9be21b350b679c05ab21acf63a4cf1954b5914f0
+Section: Tweaks
+Homepage: http://howett.net/cydia/depict/cydelete.html
+Description: Delete Cydia packages from SpringBoard, just like App Store applications!
+Tag: purpose::extension, role::enduser
+
+Package: net.howett.cydelete
+Version: 1.2.1.99
+Name: CyDelete
+Author: Dustin Howett <dustin@howett.net>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/cydeleteDp.php
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 380
+Depends: mobilesubstrate, preferenceloader, apt, bash, grep, coreutils
+Conflicts: com.sosiphone.cydeletefr
+Filename: packages/net.howett.cydelete_1.2.1.99_iphoneos-arm.deb
+Size: 38890
+MD5sum: 923068e3914ff27dd00678ff09100733
+SHA1: f6cc13f073ee2e53350590ddf2676c7743bc43b6
+SHA256: 1a0b50c414719db66a5ff1dc639fbfedd313658a78e1439b7732544d9f635d2b
+Section: Tweaks
+Homepage: http://howett.net/cydia/depict/cydelete.html
+Description: Delete Cydia packages from SpringBoard, just like App Store applications!
+
+Package: net.howett.cydelete
+Version: 2.0-1
+Name: CyDelete
+Author: Dustin Howett <dustin@howett.net>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/cydeleteDp.php
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 380
+Depends: mobilesubstrate, preferenceloader, apt, bash, grep, coreutils
+Conflicts: com.sosiphone.cydeletefr
+Filename: packages/net.howett.cydelete_2.0-1_iphoneos-arm.deb
+Size: 31936
+MD5sum: 1207adb9db49623f3d630492a6ef1f4b
+SHA1: c5fcc70af392e2b13bdce8b3f9ab42a8790985e8
+SHA256: be5ec742006d791cc3f81f2764938f8aa8766d7d449f2c2128af3f78c31014a0
+Section: Tweaks
+Homepage: http://howett.net/cydia/depict/cydelete.html
+Description: Delete Cydia packages from SpringBoard, just like App Store applications!
+Tag: purpose::extension, role::enduser
+
+Package: net.howett.cydelete
+Version: 1.2.1.99.3-15
+Name: CyDelete
+Author: Dustin Howett <dustin@howett.net>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/cydeleteDp.php
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 380
+Depends: mobilesubstrate, preferenceloader, apt, bash, grep, coreutils
+Conflicts: com.sosiphone.cydeletefr
+Filename: packages/net.howett.cydelete_1.2.1.99.3-15_iphoneos-arm.deb
+Size: 33348
+MD5sum: 7ddefee2f8007baa6cc73a95e66415c6
+SHA1: 0407131469ff0ead8de00c83ba5d41b441e192f6
+SHA256: c9836f8f6b15c6c57386f8b18eb74f39491f700c0dbd489c8a267d4d4e860b5e
+Section: Tweaks
+Homepage: http://howett.net/cydia/depict/cydelete.html
+Description: Delete Cydia packages from SpringBoard, just like App Store applications!
+Tag: purpose::extension, role::enduser
+
+Package: net.howett.cydelete
+Version: 1.3.0.99-1
+Name: CyDelete
+Author: Dustin Howett <dustin@howett.net>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/cydeleteDp.php
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 380
+Depends: mobilesubstrate, preferenceloader, apt, bash, grep, coreutils
+Conflicts: com.sosiphone.cydeletefr
+Filename: packages/net.howett.cydelete_1.3.0.99-1_iphoneos-arm.deb
+Size: 33380
+MD5sum: e38953ff2d7983daed415a492bad4029
+SHA1: 1741b4848876da9e4501aab4719b1382ab62fa02
+SHA256: 9f0788108c916b42a2be92b6fa79b7d0fd462b3c6e59fa13a47579c0b3892658
+Section: Tweaks
+Homepage: http://howett.net/cydia/depict/cydelete.html
+Description: Delete Cydia packages from SpringBoard, just like App Store applications!
+Tag: purpose::extension, role::enduser
+
+Package: net.howett.cydelete
+Version: 1.99-14
+Name: CyDelete
+Author: Dustin Howett <dustin@howett.net>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/cydeleteDp.php
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 380
+Depends: mobilesubstrate, preferenceloader, apt, bash, grep, coreutils
+Conflicts: com.sosiphone.cydeletefr
+Filename: packages/net.howett.cydelete_1.99-14_iphoneos-arm.deb
+Size: 32030
+MD5sum: 8709e22e8839c8f1326ac1c348c6e45d
+SHA1: cb127c5bb25cc466079ecba0a20aa315537dad31
+SHA256: a8d0efd3f19618e18037d6d498d06f62ec9b97372b58da269cf60644ffa9b30d
+Section: Tweaks
+Homepage: http://howett.net/cydia/depict/cydelete.html
+Description: Delete Cydia packages from SpringBoard, just like App Store applications!
+Tag: purpose::extension, role::enduser
+
+Package: net.howett.cydelete
+Version: 1.2.1.99.1
+Name: CyDelete
+Author: Dustin Howett <dustin@howett.net>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/cydeleteDp.php
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 392
+Depends: mobilesubstrate, preferenceloader, apt, bash, grep, coreutils
+Conflicts: com.sosiphone.cydeletefr
+Filename: packages/net.howett.cydelete_1.2.1.99.1_iphoneos-arm.deb
+Size: 38426
+MD5sum: 6d2c41f8a4d0d3a21188030f8bee568c
+SHA1: 03ec89d4869882c683984d867510786b2697f88e
+SHA256: 8f8a4edfec2d843e23bc8257a3bc3dc39f81da1152a524b0df55a9e10f060f39
+Section: Tweaks
+Homepage: http://howett.net/cydia/depict/cydelete.html
+Description: Delete Cydia packages from SpringBoard, just like App Store applications!
+
+Package: net.howett.cydelete
+Version: 1.99-7
+Name: CyDelete
+Author: Dustin Howett <dustin@howett.net>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/cydeleteDp.php
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 380
+Depends: mobilesubstrate, preferenceloader, apt, bash, grep, coreutils
+Conflicts: com.sosiphone.cydeletefr
+Filename: packages/net.howett.cydelete_1.99-7_iphoneos-arm.deb
+Size: 31548
+MD5sum: 5e55a60b1db7f37d8369d876c884b0a5
+SHA1: e5a491196b8f6f654636ae30bd9e66d6263763fb
+SHA256: cd58fc7b6728df2a812bc2ae58b211bde937f4455c606730283413e198d3add9
+Section: Tweaks
+Homepage: http://howett.net/cydia/depict/cydelete.html
+Description: Delete Cydia packages from SpringBoard, just like App Store applications!
+Tag: purpose::extension, role::enduser
+
+Package: net.howett.cydelete
+Version: 1.2.1.99.2
+Name: CyDelete
+Author: Dustin Howett <dustin@howett.net>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/cydeleteDp.php
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 392
+Depends: mobilesubstrate, preferenceloader, apt, bash, grep, coreutils
+Conflicts: com.sosiphone.cydeletefr
+Filename: packages/net.howett.cydelete_1.2.1.99.2_iphoneos-arm.deb
+Size: 38376
+MD5sum: cff32fd0d1e1f34af474b0ecfb0f444c
+SHA1: 6af8fea31acee903b51ccdd499d06187710e79c6
+SHA256: bd50a480e7e0631465ddf9e2c264895b2a48c8b877d547bfbef1f1607a25c25c
+Section: Tweaks
+Homepage: http://howett.net/cydia/depict/cydelete.html
+Description: Delete Cydia packages from SpringBoard, just like App Store applications!
+

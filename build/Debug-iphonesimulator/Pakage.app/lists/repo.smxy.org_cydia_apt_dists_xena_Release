@@ -1,0 +1,81 @@
+Origin: Ste Packaging
+Label: Ste Packaging
+Suite: stable
+Codename: xena
+Version: 1.0
+Date: Thu, 22 Oct 2009 12:11:12 +0000
+Architectures: darwin-arm all iphoneos-arm
+Components: main
+Description: The first iPhone/iPod Touch repository - still going strong! Let me host *your* packages too. Email me at ste@psmxy.org and mention hosting in the subject.
+MD5Sum:
+ b002e2828fe547ba32f9f8511de5b28b 71672 main/binary-darwin-arm/Packages
+ 0cbd8883533b3c366b36cb6a68e8c82d 12189 main/binary-darwin-arm/Packages.gz
+ 8772e0d231c56aa964514e81c7fcaaa9 11264 main/binary-darwin-arm/Packages.bz2
+ b7c088321271f8ace394c2ef51095fe2 643 main/binary-darwin-arm/Packages.diff/Index
+ 62e4593e2fae64884ff681e3cd02a26f 282 main/binary-darwin-arm/Release
+ bb616c44ba2fceebd0df0f58a666d668 42733 main/binary-all/Packages
+ 85fd04cb5033af6a799c5c490000e0c8 5927 main/binary-all/Packages.gz
+ 01158a794db02d4baace0b5075353359 5706 main/binary-all/Packages.bz2
+ b735f9b6c0db4b6cc47255ec6449f785 275 main/binary-all/Release
+ 1cdd7e76c6f2ff2a46b68d4dfe31895a 37933 main/binary-iphoneos-arm/Packages
+ a412d884580a75b3a8c1594803ce08a3 10565 main/binary-iphoneos-arm/Packages.gz
+ cfed07a65c2f93da98875b2eeceb3323 9768 main/binary-iphoneos-arm/Packages.bz2
+ b1fd60cf0032ff84f7bceeed2548c840 2023 main/binary-iphoneos-arm/Packages.diff/Index
+ 1c18c9125708a24f81a78c0d2d68c96f 284 main/binary-iphoneos-arm/Release
+ e6a3c2e15c1b8063a74ce2cad66710e9 2235338 Contents-darwin-arm
+ 415ce0354a4c094fa100796ae9860cfc 105229 Contents-darwin-arm.gz
+ 2f3b7fd9b5e64c54addcef79ecf18ac4 86867 Contents-darwin-arm.bz2
+ be2bfdf0c48e636193e71ebf6afbcc50 2160232 Contents-all
+ be2aa29b3d4ab9bec1d523af3a7aa0f9 99080 Contents-all.gz
+ 302889a0453d645391612b1ca42b17dc 80526 Contents-all.bz2
+ 5e65284a0d01785c7b314c333520fddc 908190 Contents-iphoneos-arm
+ b5f31eed3c71e96fd3fa56bbee51c802 39603 Contents-iphoneos-arm.gz
+ c25e07a3603c75d70ee5a18f5186e0aa 27177 Contents-iphoneos-arm.bz2
+SHA1:
+ 123f042d973c457b29f7c201156db15b12ce5e1c 71672 main/binary-darwin-arm/Packages
+ b2d0096dc301d2de654e69544876ab53c8b4879a 12189 main/binary-darwin-arm/Packages.gz
+ 2c431913e2694089a5305d2c9d83ffb87264da98 11264 main/binary-darwin-arm/Packages.bz2
+ 7378ad26da54ac19a1618fa547feb45212260ccb 643 main/binary-darwin-arm/Packages.diff/Index
+ a9c65b9bd1b96eb1efe1df9a5370e18f2d6e1b29 282 main/binary-darwin-arm/Release
+ b836778f22fa7a086e25e5fc0a7af7c9f701654e 42733 main/binary-all/Packages
+ fbd0fd930107146ba3173daa9188787b927521bf 5927 main/binary-all/Packages.gz
+ db8d8751f64e7de5a357bb2a51ec48b610fe0f98 5706 main/binary-all/Packages.bz2
+ a701785e0722e19ac4702e7d4b23e73c6d9964fe 275 main/binary-all/Release
+ e024a683fc244009835d26199ac90b6984555823 37933 main/binary-iphoneos-arm/Packages
+ 6d724b5ac65740f3fc296dcff4db09004d0a0f17 10565 main/binary-iphoneos-arm/Packages.gz
+ db8969cffbaa00c083a72fde78e05e3f1a0ea1b6 9768 main/binary-iphoneos-arm/Packages.bz2
+ 732e9efc050d3d73c9f787e633e35b172474942b 2023 main/binary-iphoneos-arm/Packages.diff/Index
+ 7dcddf632b70872a7bf79c2e2f0545f1beca393d 284 main/binary-iphoneos-arm/Release
+ 2c3cc6b7c14c6a8cfbad6e37852bc6585fd37fff 2235338 Contents-darwin-arm
+ a665edb081c56269f4a34bfa95813f393852ff55 105229 Contents-darwin-arm.gz
+ 9cc8981b30e4c2f5bbb1a59311db11b44a5ab7b4 86867 Contents-darwin-arm.bz2
+ 93db9b52bdfb3f5657e0fc72874260433cc4d177 2160232 Contents-all
+ 9d87d4e97dec2de9e77745014f7bd4c277cc453c 99080 Contents-all.gz
+ 509287986ef10e663fd4c14d16b02a6864322951 80526 Contents-all.bz2
+ a9359296cd18eaf98e9c1c98693f93ba47d3d932 908190 Contents-iphoneos-arm
+ 667965f7044bf8202960ab54c66a0edbf3904b8a 39603 Contents-iphoneos-arm.gz
+ 5d593bec0ac4ebced30fa3c0c342ac549391bd30 27177 Contents-iphoneos-arm.bz2
+SHA256:
+ c84874e18ad642f11d01fa241bc7ac39edc42ba1b5928448e75cbbf7faf7b33a 71672 main/binary-darwin-arm/Packages
+ 578fd85ae547c3dfadc775b61cf94b70e82b2e58e083a44f8181fac59d2dd890 12189 main/binary-darwin-arm/Packages.gz
+ ce451217c00998aec31f50d9f2d473ab657cff8ee3bab5e33ea611fef5bc029b 11264 main/binary-darwin-arm/Packages.bz2
+ 52b4376702985b5525340c0814d40688f1893a97ab5f309e4d0b10d907fe5cd2 643 main/binary-darwin-arm/Packages.diff/Index
+ 0ee50c8c9a77864fc5294aeb5d2d94cef8c73f0e6bee390941c869ef1f886f66 282 main/binary-darwin-arm/Release
+ a583794b6e476dec1c15039001b26d84f2df9bd831f264cd6ed49d3bde639b55 42733 main/binary-all/Packages
+ e9364f6ec1c15dad9af222064e4f91457a4f34f69c01fb14e417d667ebb9dad8 5927 main/binary-all/Packages.gz
+ 5ddf6e73dc3180c4b9a1daffcc8ad157b94504dacab7aa0ffff508d9ead0d30a 5706 main/binary-all/Packages.bz2
+ c8089ab472bfa2754ab4596dfa2b42ad758ce9e800fb927c6afb92d12b06ef46 275 main/binary-all/Release
+ 8f66cdbec6b9ba528016e12cdc1987a3b70d9199332b3464ebb06915f8c7787b 37933 main/binary-iphoneos-arm/Packages
+ 18e03af302b8615b76f37d4b051e315190a67b74dd3e4878b2a54ce7596dfddc 10565 main/binary-iphoneos-arm/Packages.gz
+ 0ffeb76d5b0211760f39d3abce1f8f843fe90236ae98c9df20bf86ff240f6905 9768 main/binary-iphoneos-arm/Packages.bz2
+ aeb382026d1d0f1bd5620daedea302f1f3e96f44ef44956109d4bcd03cfd3e93 2023 main/binary-iphoneos-arm/Packages.diff/Index
+ 88519304fcb83e009ec79bad84b814e02d39332a50d8f34901798ee0005d3efe 284 main/binary-iphoneos-arm/Release
+ 1dcb6f1660948f3e2f762a3efe026a76cea7fe0020e0d490db6cfd52b23e2b23 2235338 Contents-darwin-arm
+ d1f90bbe44d6f54810a2c87a8018fd2efe7dffb1cfc9924aadb809b5461322c1 105229 Contents-darwin-arm.gz
+ 6eb1c2bc69a2eecf9a4def4151dedaaf6803f2add9fda2131719cdded80a0cee 86867 Contents-darwin-arm.bz2
+ a726d79093478ddfd8e35a26cc7f83c7fb9cd3ac8603357bb68d57673b16262c 2160232 Contents-all
+ d990e2e9b68185d4003fa00aaa5982f612d65ddcf74f8aa8ba8c527af24e52da 99080 Contents-all.gz
+ 8577a03b5e81e97ddf35431eb651fbf7a0a0c411ea426820b60f186ab92e251f 80526 Contents-all.bz2
+ 853480fbd28bda9ac78ecfb7bd6f8225bfcc7bfed6b24b4feec0ec1deeeb6b7b 908190 Contents-iphoneos-arm
+ 2901cf60afb7de0f7e717bebe9abafc04d67bdea74de1e2bdb1623ba846995be 39603 Contents-iphoneos-arm.gz
+ dc92de7ab43d9b79292fe52d557825c8caba9b71f52d9b8a50075325967cab66 27177 Contents-iphoneos-arm.bz2

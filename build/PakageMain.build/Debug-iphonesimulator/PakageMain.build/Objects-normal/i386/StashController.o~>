@@ -1,0 +1,4 @@
+/Users/Xuzz/Pakage/Classes/StashController.m: In function '-[StashController _stash:]':
+/Users/Xuzz/Pakage/Classes/StashController.m:121: error: 'substringToIndex' undeclared (first use in this function)
+/Users/Xuzz/Pakage/Classes/StashController.m:121: error: (Each undeclared identifier is reported only once
+/Users/Xuzz/Pakage/Classes/StashController.m:121: error: for each function it appears in.)

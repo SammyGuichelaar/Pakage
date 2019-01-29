@@ -1,0 +1,2 @@
+/Users/Xuzz/Pakage/Classes/PakageAppDelegate.m: In function '-[PakageAppDelegate applicationDidFinishLaunching:]':
+/Users/Xuzz/Pakage/Classes/PakageAppDelegate.m:126: warning: class 'PakageAppDelegate' does not implement the 'UITabBarControllerDelegate' protocol

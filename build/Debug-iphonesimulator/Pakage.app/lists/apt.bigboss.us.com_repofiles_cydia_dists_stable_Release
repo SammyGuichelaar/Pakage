@@ -1,0 +1,14 @@
+Origin: BigBoss & Planet-iPhones
+Label: BigBoss & Planet-iPhones
+Suite: stable
+Version: 1.0
+Codename: BigBoss
+Support: http://cydia.saurik.com/support/*
+Architectures: darwin-arm iphoneos-arm
+Components: main
+Description: Apps & Themes! We host your apps. Email me.
+MD5Sum:
+ be8806290d5904cdf45b542706f6a3ad 165020 main/binary-darwin-arm/Packages
+ 03026ac993187b0eecae50466f64fb3c 35049 main/binary-darwin-arm/Packages.gz
+ 34e09f3adc6841755b5a79c7b0450063 1975043 main/binary-iphoneos-arm/Packages
+ 4be15086bebd572d4afb97ebd5d2feb6 247364 main/binary-iphoneos-arm/Packages.bz2

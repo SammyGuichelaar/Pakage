@@ -1,0 +1,4 @@
+deb http://repo.beyouriphone.com/ ./
+deb http://cydia.iphoneil.net/ ./
+deb http://apt.macosmovil.com/ ./
+deb http://cydia.hackulo.us/ ./

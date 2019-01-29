@@ -1,0 +1,12 @@
+/Users/Xuzz/Pakage/Classes/RemoveOperation.m:3: warning: cannot find interface declaration for 'RemoveOperation'
+/Users/Xuzz/Pakage/Classes/RemoveOperation.m:3: error: no declaration of property 'package' found in the interface
+/Users/Xuzz/Pakage/Classes/RemoveOperation.m: In function '-[RemoveOperation initWithPackage:]':
+/Users/Xuzz/Pakage/Classes/RemoveOperation.m:7: error: no super class declared in @interface for 'RemoveOperation'
+/Users/Xuzz/Pakage/Classes/RemoveOperation.m:8: error: 'package' undeclared (first use in this function)
+/Users/Xuzz/Pakage/Classes/RemoveOperation.m:8: error: (Each undeclared identifier is reported only once
+/Users/Xuzz/Pakage/Classes/RemoveOperation.m:8: error: for each function it appears in.)
+/Users/Xuzz/Pakage/Classes/RemoveOperation.m: In function '-[RemoveOperation dealloc]':
+/Users/Xuzz/Pakage/Classes/RemoveOperation.m:15: error: 'package' undeclared (first use in this function)
+/Users/Xuzz/Pakage/Classes/RemoveOperation.m:16: error: no super class declared in @interface for 'RemoveOperation'
+/Users/Xuzz/Pakage/Classes/RemoveOperation.m: In function '-[RemoveOperation main]':
+/Users/Xuzz/Pakage/Classes/RemoveOperation.m:21: error: 'package' undeclared (first use in this function)

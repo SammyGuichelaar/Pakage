@@ -1,0 +1,1081 @@
+Website: http://repo.smxy.org/iphone-apps/info/info.php?url=http://iphonetheme.wordpress.com
+Maintainer: A Believer <abeliever@gmail.com>
+Name: Mystique
+Package: abeliever.theme.mystique
+Installed-Size: 1172
+Version: 1.2
+Architecture: all
+Priority: optional
+Section: Themes (SummerBoard)
+Filename: pool/main/a/abeliever.theme.mystique/abeliever.theme.mystique_1.2_all.deb
+Size: 737618
+MD5sum: 9ef05effa66787f16ca9405e0fb06c85
+Description: Minimalistic, clean and suave iPhone theme.
+
+Website: http://repo.smxy.org/iphone-apps/info/info.php?url=http://www.apptapp.com/summerboard/
+Maintainer: Ste <ste@psmxy.org>
+Name: Metallic
+Package: alexkim.theme.metallic
+Installed-Size: 828
+Version: 1.0
+Architecture: all
+Priority: optional
+Section: Themes (SummerBoard)
+Filename: pool/main/a/alexkim.theme.metallic/alexkim.theme.metallic_1.0_all.deb
+Size: 609578
+MD5sum: 00e12af5d2694da0d824c1721ca9d0af
+Description: An SMB theme by Alex Kim, w/credit to: Agwoah, Digital Kid, Loring, Mandara, modmyiphone.com and Apple Leopard Dock Pack.
+
+Website: http://repo.smxy.org/iphone-apps/info/info.php?url=http://www.apptapp.com/summerboard/
+Maintainer: Ste <ste@psmxy.org>
+Name: my fiRst tHeem
+Package: brendenpetersen.theme.myfirsttheem
+Installed-Size: 672
+Version: 1.6
+Architecture: all
+Priority: optional
+Section: Themes (SummerBoard)
+Filename: pool/main/b/brendenpetersen.theme.myfirsttheem/brendenpetersen.theme.myfirsttheem_1.6_all.deb
+Size: 96636
+MD5sum: f5f2e8204c1592506a7a45b30bb3b57e
+Description: A SummerBoard theme by Brenden "bunbunfriedrice" Petersen.
+
+Website: http://repo.smxy.org/iphone-apps/info/info.php?url=http://neontheme.blogspot.com/
+Maintainer: Ste <ste@psmxy.org>
+Name: NEONstandard
+Package: brettrustin.theme.neonstandard
+Installed-Size: 480
+Version: 1.01
+Architecture: all
+Priority: optional
+Section: Themes (SummerBoard)
+Filename: pool/main/b/brettrustin.theme.neonstandard/brettrustin.theme.neonstandard_1.01_all.deb
+Size: 294496
+MD5sum: df01b0e8081e84716e8226478feb0918
+Description: A SummerBoard theme by Brett Rustin and JyriK.
+
+Architecture: iphoneos-arm
+Author: Chris Nordberg <chris@nordberg.co.uk>
+Depends: com.jaw.bookreader
+Depiction: http://repo.smxy.org/cydia/info/thl
+Priority: optional
+Section: eBooks
+Filename: pool/main/c/chris.nordberg.books.thl/chris.nordberg.books.thl_1.0-1_iphoneos-arm.deb
+Size: 362178
+SHA256: 777170731a1dc106373c2d9286e5cdcda2081539f627abd2a591ff41b612886b
+SHA1: 52fadee9aa23502d03725f5d130977aff481a0e9
+MD5sum: 672d0967748de287d837b661830b5d87
+Description: An  eBook, by Chris Nordberg.
+Installed-Size: 1048
+Maintainer: Ste <ste@psmxy.org>
+Name: The Hidden Layer
+Package: chris.nordberg.books.thl
+Version: 1.0-1
+
+Package: com.efiko.qtweeter
+Name: qTweeter
+Version: 2.12
+Architecture: iphoneos-arm
+Priority: optional
+Section: Social
+Filename: pool/main/c/com.efiko.qtweeter/com.efiko.qtweeter_2.12_iphoneos-arm.deb
+Size: 4801756
+SHA256: ceb6326bc0f773c2d96bbb2e2d28085b51d548122150dd6162aadf5b56ac1a3d
+SHA1: dda92be7f247e241e398311bbb72b103fb6a09c1
+MD5sum: 0287117e3bd0dd24b757ae665c8f7178
+Description: Update Twitter/Facebook from any app!
+Maintainer: Efiko Software <support@efksoft.com>
+Author: Efiko Software <support@efksoft.com>
+Depiction: http://repo.smxy.org/cydia/info/qtweeter/
+Installed-Size: 5904
+Depends: mobilesubstrate
+Tag: cydia::commercial
+Support: http://cydia.saurik.com/support/com.efiko.qtweeter
+
+Package: com.efiko.rtshuffler
+Name: Ringtone Shuffler
+Version: 1.1
+Architecture: iphoneos-arm
+Priority: optional
+Section: Utilities
+Filename: pool/main/c/com.efiko.rtshuffler/com.efiko.rtshuffler_1.1_iphoneos-arm.deb
+Size: 92258
+SHA256: b3173b32acdf84ae6f2aef969899a411e163aba43a21d7f7b991b6133e0b56b4
+SHA1: 8aa3a40f568e12d20a4a456b2513487326069818
+MD5sum: 04357d2fb20b7d73b35505b5f62fd1b6
+Description: Shuffle your ringtones quickly and easily!
+Maintainer: Efiko Software <support@efksoft.com>
+Author: Efiko Software <support@efksoft.com>
+Depiction: http://repo.smxy.org/cydia/info/rtshuffler/
+Installed-Size: 268
+Depends: mobilesubstrate
+Tag: cydia::commercial
+Support: http://cydia.saurik.com/support/com.efiko.rtshuffler
+
+Package: com.efiko.tonefxs
+Name: ToneFXs
+Version: 1.509
+Architecture: iphoneos-arm
+Priority: optional
+Section: Utilities
+Filename: pool/main/c/com.efiko.tonefxs/com.efiko.tonefxs_1.509_iphoneos-arm.deb
+Size: 984030
+SHA256: 6397cfd7b21e9b4234ea1286754a31b4bd1e5d4684f07b7e47481742388ae3ae
+SHA1: 26d7349e40f72d749fc23b5ca3a77ca26a855657
+MD5sum: 4b8ddab49830664892c7428e4e867327
+Description: Shuffle ringtones & customize sound effects
+Maintainer: Efiko Software <support@efksoft.com>
+Author: Efiko Software <support@efksoft.com>
+Depiction: http://repo.smxy.org/cydia/info/tonefxs/
+Installed-Size: 1912
+Depends: mobilesubstrate
+Tag: cydia::commercial
+Support: http://cydia.saurik.com/support/com.efiko.tonefxs
+
+Package: com.efiko.universalsearch
+Name: Universal Search
+Version: 1.08-1
+Architecture: iphoneos-arm
+Priority: optional
+Section: Productivity
+Filename: pool/main/c/com.efiko.universalsearch/com.efiko.universalsearch_1.08-1_iphoneos-arm.deb
+Size: 410962
+SHA256: 89d86e128731f5fe82eb015b96f74a7c1d442a18a3c8c9c5130d24ebf64ead85
+SHA1: 5010ab4a3b26fbc98c8b7396bae3dd38832471b8
+MD5sum: 2d45f93996cb91b02d6e5b2e1c945a8a
+Description: Search the web, right from Spotlight!
+Maintainer: Ste <ste@psmxy.org>
+Author: Efiko Software <support@efksoft.com>
+Depiction: http://repo.smxy.org/cydia/info/universalsearch/
+Installed-Size: 896
+Pre-Depends: firmware (>= 3.0), mobilesubstrate
+Tag: cydia::commercial
+Support: http://cydia.saurik.com/support/com.efiko.universalsearch
+
+Package: com.ffn.guicache
+Maintainer: Ste <ste@psmxy.org>
+Architecture: iphoneos-arm
+Version: 1.0
+Priority: optional
+Section: Utilities
+Filename: pool/main/c/com.ffn.guicache/com.ffn.guicache_1.0_iphoneos-arm.deb
+Size: 13964
+SHA256: 93dd12274a91e437048ac6ea9131b610e794e6c751655fdd329ca8207770bf47
+SHA1: 3e1bf1ee6f50e8c22cef18b8bc838ddf15fde5e3
+MD5sum: 2c19db725180eef656f5bbaf1f65722c
+Description: Graphical front end for uicache
+Name: gUICache
+Author: jeremy1701 <ffndev@gmail.com>
+Installed-Size: 48
+Depiction: http://repo.smxy.org/cydia/info/guicache/
+Depends: uikittools
+
+Package: com.ffn.ipoints
+Maintainer: Ste <ste@psmxy.org>
+Architecture: iphoneos-arm
+Version: 1.3.1
+Priority: optional
+Section: Utilities
+Filename: pool/main/c/com.ffn.ipoints/com.ffn.ipoints_1.3.1_iphoneos-arm.deb
+Size: 33672
+SHA256: d925f29cd9df3b655852b0e9eac2ca3a35e252abf1cce99eee84636b1e1c7d3b
+SHA1: bc93467544c783190d60937f1ccf699de2228255
+MD5sum: f886dccc9bff963c622d86b778e7cbaa
+Description: Calculate Weight Watcher points.
+Name: iPoints
+Author: jeremy1701 <ffndev@gmail.com>
+Installed-Size: 104
+Depiction: http://repo.smxy.org/cydia/info/ipoints/
+
+Package: com.ffn.rps
+Maintainer: Ste <ste@psmxy.org>
+Architecture: iphoneos-arm
+Version: 1.0.0
+Priority: optional
+Section: Games
+Filename: pool/main/c/com.ffn.rps/com.ffn.rps_1.0.0_iphoneos-arm.deb
+Size: 153938
+SHA256: 6309d23964f867415047a3f876333a27d627e812dcf20c49dfc2aa8bbcbdaabd
+SHA1: 908d0979d8496aa50c037e9a7828d424668dd159
+MD5sum: c2385de8eba942e05a0bfe7bcb3f0a7a
+Description: Rock Paper Scissors game.
+Name: rps
+Author: jeremy1701 <ffndev@gmail.com>
+Installed-Size: 252
+Depiction: http://repo.smxy.org/cydia/info/rps/
+
+Architecture: iphoneos-arm
+Author: Rodrigo Prota <bussolaholybible@gmail.com>
+Depends: com.jaw.bookreader
+Depiction: http://repo.smxy.org/cydia/info/bhbe
+Priority: optional
+Section: eBooks
+Filename: pool/main/c/com.google.code.bussola.bhbe/com.google.code.bussola.bhbe_3.1.2_iphoneos-arm.deb
+Size: 1463198
+SHA256: 046129e4bcee480c0b946a75413e1e1f84d87d93e2f3d0a290608653a73a893e
+SHA1: 93604f0dde235b275652166a3f3c94a9b6016667
+MD5sum: 6b9c4bd82a42f728c832012fda72e199
+Description: The Holy Bible in English
+Installed-Size: 8140
+Maintainer: Ste <ste@psmxy.org>
+Name: BHB - English
+Package: com.google.code.bussola.bhbe
+Version: 3.1.2
+
+Architecture: iphoneos-arm
+Author: Rodrigo Prota <bussolaholybible@gmail.com>
+Depends: com.jaw.bookreader
+Depiction: http://repo.smxy.org/cydia/info/bhbp
+Priority: optional
+Section: eBooks
+Filename: pool/main/c/com.google.code.bussola.bhbp/com.google.code.bussola.bhbp_3.1.2_iphoneos-arm.deb
+Size: 1563464
+SHA256: 4c743120ed44a9b2dd9a16fb7b801d071d4efd24d78df2f29b2078e1e10f90d6
+SHA1: e668f6bb80d6c0bc53dfe200086a7363670873f0
+MD5sum: 5a6de6f6dc3d04a6756b19620821797a
+Description: The Holy Bible in Portuguese
+Installed-Size: 9716
+Maintainer: Ste <ste@psmxy.org>
+Name: BHB - Portuguese
+Package: com.google.code.bussola.bhbp
+Version: 3.1.2
+
+Architecture: iphoneos-arm
+Author: Rodrigo Prota <bussolaholybible@gmail.com>
+Depends: com.jaw.bookreader
+Depiction: http://repo.smxy.org/cydia/info/bhbs
+Priority: optional
+Section: eBooks
+Filename: pool/main/c/com.google.code.bussola.bhbs/com.google.code.bussola.bhbs_3.1.2_iphoneos-arm.deb
+Size: 1493344
+SHA256: 5fcab42d31a0d8281d5f8ed068538cec64911d06820242cca27b11e58b94f76a
+SHA1: 61500ba3eb696a727d49a364b1baa300a322b34c
+MD5sum: 24e2427cd98f4852571b52a65a69f4b1
+Description: The Holy Bible in Spanish
+Installed-Size: 7152
+Maintainer: Ste <ste@psmxy.org>
+Name: BHB- Spanish
+Package: com.google.code.bussola.bhbs
+Version: 3.1.2
+
+Architecture: iphoneos-arm
+Author: JDub Studios <management@jdubstudios.com>
+Depiction: http://repo.smxy.org/cydia/info/drunk/
+Priority: optional
+Section: Entertainment
+Filename: pool/main/c/com.jdub.drunktionary/com.jdub.drunktionary_1.1_iphoneos-arm.deb
+Size: 422378
+SHA256: d81f9ff0220da1ace0eeccdb8e045c2fc90dba39562841f4bdb4de759b9bcb60
+SHA1: 4ecdf8848b2ea6e2f7be5cbcf89bc4a4b811be76
+MD5sum: 3cbc8bfa1b03168cd8fdf1b5281e8422
+Description: Now get Drunk right from your iPhone
+Installed-Size: 700
+Maintainer: Ste <ste@psmxy.org>
+Name: Drunktionary
+Package: com.jdub.drunktionary
+Version: 1.1
+
+Architecture: iphoneos-arm
+Author: JDub Studios <management@jdubstudios.com>
+Depiction: http://repo.smxy.org/cydia/info/gspn/
+Priority: optional
+Section: Entertainment
+Filename: pool/main/c/com.jdub.gspn/com.jdub.gspn_1.1_iphoneos-arm.deb
+Size: 112944
+SHA256: 7c718c5ee900c89f6f63f6efe93e5fd81632ec91a434f3505f03294b92e91abc
+SHA1: 6615c535064ba5bfae1f0924948440d5e864e55a
+MD5sum: 505765e4f04101a08af65ef3b01e4ebb
+Description: Get all your gspn.tv now
+Installed-Size: 200
+Maintainer: Ste <ste@psmxy.org>
+Name: gspn.tv
+Package: com.jdub.gspn
+Version: 1.1
+
+Architecture: iphoneos-arm
+Author: JDub Studios <management@jdubstudios.com>
+Depiction: http://repo.smxy.org/cydia/info/touchcast/
+Priority: optional
+Section: Multimedia
+Filename: pool/main/c/com.jdub.touchcast/com.jdub.touchcast_1.2_iphoneos-arm.deb
+Size: 132080
+SHA256: d443c1aa9515f876249aa4f3ce3badb3b01fc932871e175713d6ae002f171f78
+SHA1: 43803f3dd39a7dea4b2d5bf9de4df2f54abf2be0
+MD5sum: 89699d615645964363185455b17cbc13
+Description: Audio and Video Podcast Reader
+Installed-Size: 236
+Maintainer: Ste <ste@psmxy.org>
+Name: TouchCast
+Package: com.jdub.touchcast
+Version: 1.2
+
+Package: com.natetrue.dock2
+Depends: mobilesubstrate
+Maintainer: Ste <ste@psmxy.org>
+Architecture: iphoneos-arm
+Version: 3.40
+Priority: optional
+Section: System
+Filename: pool/main/c/com.natetrue.dock2/com.natetrue.dock2_3.40_iphoneos-arm.deb
+Size: 112842
+SHA256: 522b72df413a8f0ed38f4c84a3cd29ac37b2c44594b1c4dbdd0c1d361e21f2c7
+SHA1: f80aa9d5d55cefe4950f7882648258e073839e2b
+MD5sum: ee7a0d73158b5c784929f879ecef48ec
+Description: Quick app switching
+Name: Dock
+Author: Nate True <ttr@natetrue.com>
+Installed-Size: 284
+Depiction: http://repo.smxy.org/cydia/info/dock/
+
+Package: com.natetrue.smsnotify
+Maintainer: Ste <ste@psmxy.org>
+Architecture: iphoneos-arm
+Version: 2.0
+Priority: optional
+Section: Utilities
+Filename: pool/main/c/com.natetrue.smsnotify/com.natetrue.smsnotify_2.0_iphoneos-arm.deb
+Size: 11050
+SHA256: f02de273f695365a34aaf0e084e171c133f000c87a65ad1cd3de38c64ade2dd4
+SHA1: 06a7292fcb59474d8b505395828aa22287938cf0
+MD5sum: f1d8c6d6f1388583feccf226d39d39e6
+Description: Missed SMS & Voicemail reminder
+Name: SMSNotify
+Author: Nate True <ttr@natetrue.com>
+Installed-Size: 104
+Depiction: http://repo.smxy.org/cydia/info/smsnotify/
+
+Architecture: iphoneos-arm
+Author: podgrove <info@podgrove.com>
+Depiction: http://repo.smxy.org/cydia/info/mobilecast/
+Priority: optional
+Section: Multimedia
+Filename: pool/main/c/com.podgrove.mobilecast/com.podgrove.mobilecast_3.0~b3_iphoneos-arm.deb
+Size: 82342
+SHA256: 098bd5bc00f61b31f951327f8ac9860ff7730e0bca303da9d399581e1c89440a
+SHA1: 9abafaf6d91b5319f00b58e788770cd4458a992b
+MD5sum: bee782258c97087ff95b385da5c66fb0
+Description: Download podcasts over the air.
+Installed-Size: 256
+Maintainer: Ste <ste@psmxy.org>
+Name: MobileCast
+Package: com.podgrove.mobilecast
+Version: 3.0~b3
+
+Architecture: iphoneos-arm
+Author: sendspace <customersupport@sendspace.com>
+Depiction: http://repo.smxy.org/cydia/info/ishare/
+Priority: optional
+Section: Networking
+Filename: pool/main/c/com.sendspace.ishare/com.sendspace.ishare_2.01_iphoneos-arm.deb
+Size: 312298
+SHA256: 4c977cc061a52dd38e46c1552dd4f2e364ea838c1a374acad5055978956a9434
+SHA1: 5ad2b58e4cdee856dd4fcb7882e1e45b413ab462
+MD5sum: 3f0e01860cbad91108362a5b505b956d
+Description: Share files through the sendspace service
+Installed-Size: 636
+Maintainer: Ste <ste@psmxy.org>
+Name: iShare
+Package: com.sendspace.ishare
+Version: 2.01
+
+Architecture: iphoneos-arm
+Author: Eric Redlinger <eric@share.dj>
+Depiction: http://repo.smxy.org/cydia/info/mrmr/
+Priority: optional
+Section: Multimedia
+Filename: pool/main/c/com.share.mrmr/com.share.mrmr_1.023-1_iphoneos-arm.deb
+Size: 309696
+SHA256: 8588a26c8fd08f93015fdc7bf514ab25758ac9fd8c66ef6f918623a503c10dee
+SHA1: 664bb2c81fee4bff9a633db442245b93ec01fa15
+MD5sum: 88b6d227194f9f4113bb728c7eebf59f
+Description: Mix audio & video.
+Installed-Size: 704
+Maintainer: Ste <ste@psmxy.org>
+Name: Mrmr
+Package: com.share.mrmr
+Version: 1.023-1
+
+Maintainer: Ste <ste@psmxy.org>
+Author: Erick M. & Skylar C. <eric@smallfeats.com>
+Name: Scrobbled
+Package: com.smallfeats.scrobbled
+Installed-Size: 488
+Version: 1:3.141
+Architecture: iphoneos-arm
+Priority: optional
+Section: Multimedia
+Filename: pool/main/c/com.smallfeats.scrobbled/com.smallfeats.scrobbled_3.141_iphoneos-arm.deb
+Size: 111158
+SHA256: 3ad7a20c0a3d7dfb889c4d177da149ee5d5959e224599ce517e17a05c7c8c80c
+SHA1: 99708b2ce7b022ec76624140d3db13768385c6fa
+MD5sum: a0038ec60fa61673409507a432e97e7e
+Description: Background Scrobbler for Last.fm
+Depiction: http://repo.smxy.org/cydia/info/scrobbled/
+
+Architecture: iphoneos-arm
+Author: spoonforknife <spoonforknife@gmail.com>
+Depends: winterboard
+Depiction: http://repo.smxy.org/cydia/info/wfp/
+Priority: optional
+Section: Themes (SpringBoard)
+Filename: pool/main/c/com.spoonforknife.fontpack/com.spoonforknife.fontpack_1.0_iphoneos-arm.deb
+Size: 1986
+SHA256: 82536a8f612b7b0d7e459431163e08bce0ba7818aa533de7339e78d2ee932f3f
+SHA1: 7984552c14254c55fc1b7c1a58139077518e7d6f
+MD5sum: c313d846ab60dc6c36ed29459d5b0b30
+Description: Fonts for the SpringBoard.
+Installed-Size: 172
+Maintainer: Ste <ste@psmxy.org>
+Name: WinterBoard Font Pack
+Package: com.spoonforknife.fontpack
+Version: 1.0
+
+Architecture: iphoneos-arm
+Author: Steven Troughton-Smith <steventroughtonsmith@gmail.com>
+Depends: mobilesubstrate
+Depiction: http://repo.smxy.org/cydia/info/stack/
+Priority: optional
+Section: System
+Filename: pool/main/c/com.steventroughtonsmith.stack/com.steventroughtonsmith.stack_2.1_iphoneos-arm.deb
+Size: 131140
+SHA256: 02e26a8e8fdef03f9bf3ea59577be7bb254f7dde53fbf6309f9bcfe96c0e3e5e
+SHA1: 6f93975a54fd3b598e2ceb3fb4b3a0321aa13d66
+MD5sum: 43ad470a327dbebf7bd77b4c4c71d93f
+Description: Bringing 'Stacks' to iPhone OS
+Installed-Size: 320
+Maintainer: Ste <ste@psmxy.org>
+Name: Stack
+Package: com.steventroughtonsmith.stack
+Version: 2.1
+
+Architecture: iphoneos-arm
+Author: SwirlySpace AB <support@swirlyspace.com>
+Depends: com.swirlyspace.mmsv2
+Depiction: http://repo.smxy.org/cydia/info/swirlymmslangpackv2/
+Priority: optional
+Section: Messaging
+Filename: pool/main/c/com.swirlyspace.langmmsv2/com.swirlyspace.langmmsv2_2.1.1_iphoneos-arm.deb
+Size: 144052
+SHA256: d0d3db4220765c00d4599788797b88d76927775e5e26594ff29543038e3c0591
+SHA1: 35072d73962c0f0a4fdddf3ebda350a4dcee19fe
+MD5sum: 86d6ef86d14d516dc4ffea30c1f53adf
+Description: Language pack required by SwirlyMMS².
+Installed-Size: 900
+Maintainer: SwirlySpace AB <support@swirlyspace.com>
+Name: SwirlyMMSLangPack²
+Package: com.swirlyspace.langmmsv2
+Version: 2.1.1
+Tag: cydia::commercial
+Conflicts: com.swirlyspace.mms, com.swirlyspace.mmslang
+
+Architecture: iphoneos-arm
+Author: SwirlySpace AB <support@swirlyspace.com>
+Depends: firmware (<< 3.0), com.swirlyspace.mmslang
+Depiction: http://repo.smxy.org/cydia/info/swirlymms/
+Priority: optional
+Section: Messaging
+Filename: pool/main/c/com.swirlyspace.mms/com.swirlyspace.mms_1.3.2-1_iphoneos-arm.deb
+Size: 757300
+SHA256: 0a0b9f1afa349e5f94f9f7a5c9415d5abb28ab152d049b7c5e3a281be1fd09d7
+SHA1: d97dfbc6bffed3e85c2f4395411290cd3f48e67a
+MD5sum: 9f194fc4de8c2144a2e6b9a7f7bf21f4
+Description: Send and receive MMSs with your iPhone.
+Installed-Size: 1696
+Maintainer: Ste <ste@psmxy.org>
+Name: SwirlyMMS
+Package: com.swirlyspace.mms
+Version: 1.3.2-1
+Conflicts: com.swirlyspace.mmsv2, com.swirlyspace.langmmsv2
+
+Architecture: iphoneos-arm
+Author: SwirlySpace AB <support@swirlyspace.com>
+Depends: firmware (<< 3.0), com.swirlyspace.mms (>= 1.3)
+Depiction: http://repo.smxy.org/cydia/info/swirlymmslangpack/
+Priority: optional
+Section: Messaging
+Filename: pool/main/c/com.swirlyspace.mmslang/com.swirlyspace.mmslang_1.3.6-1_iphoneos-arm.deb
+Size: 83344
+SHA256: a404ed96aca1854b9441508e0240e029c4d362c3b028dfdab454889002c0811f
+SHA1: b3f97fb8ceab9ceb9380445c763abf5644f5f62f
+MD5sum: 46521ab1d0a3d8c26a20a9bac172dfad
+Description: Language pack required by SwirlyMMS.
+Installed-Size: 696
+Maintainer: Ste <ste@psmxy.org>
+Name: SwirlyMMSLangPack
+Package: com.swirlyspace.mmslang
+Version: 1.3.6-1
+Conflicts: com.swirlyspace.mmsv2, com.swirlyspace.langmmsv2
+
+Architecture: iphoneos-arm
+Author: SwirlySpace AB <support@swirlyspace.com>
+Depends: com.swirlyspace.langmmsv2
+Depiction: http://repo.smxy.org/cydia/info/swirlymmsv2/
+Priority: optional
+Section: Messaging
+Filename: pool/main/c/com.swirlyspace.mmsv2/com.swirlyspace.mmsv2_2.2.1_iphoneos-arm.deb
+Size: 4614076
+SHA256: 655c169a7b77b2552c16b8189fb3f57eaf8fef5382f39ad9f4481385d7ef2aa1
+SHA1: 2f98b38e6b23ef733b9337ea03d019a1f094aec9
+MD5sum: cabb787a751e0421c06718fa3b9b5659
+Description: Send and receive MMSs with your iPhone.
+Installed-Size: 7028
+Maintainer: SwirlySpace AB <support@swirlyspace.com>
+Name: SwirlyMMS²
+Package: com.swirlyspace.mmsv2
+Version: 2.2.1
+Tag: cydia::commercial
+Conflicts: com.swirlyspace.mms, com.swirlyspace.mmslang
+
+Website: http://repo.smxy.org/iphone-apps/info/info.php?url=http://repo.smxy.org/iphone-apps/info/hebdict.html
+Maintainer: Ste <ste@psmxy.org>
+Author: The_Ben <iTunesHE@gmail.com>
+Name: HebDict
+Package: com.theben.hebdict
+Installed-Size: 21060
+Version: 1.10
+Architecture: iphoneos-arm
+Priority: optional
+Section: Dictionaries
+Filename: pool/main/c/com.theben.hebdict/com.theben.hebdict_1.10_iphoneos-arm.deb
+Size: 6502216
+SHA256: 0d3bbd8bb082e0ca2c98c6009f237ded9982a0cc79fe819ecb644fc9da984ac3
+SHA1: 3d8d4f2706210ccdcc4041eda45c00a9d0785be7
+MD5sum: e0001a37830060532cb90109ae87a3b8
+Description: Hebrew <-> English
+Depiction: http://repo.smxy.org/cydia/info/hebdict/
+
+Architecture: iphoneos-arm
+Depiction: http://repo.smxy.org/cydia/info/cialockdown/
+Author: spoonforknife <spoonforknife@gmail.com>
+Depends: winterboard
+Priority: optional
+Section: Themes (SpringBoard)
+Filename: pool/main/c/com.theme.cialockdown/com.theme.cialockdown_2.1.1_iphoneos-arm.deb
+Size: 297712
+SHA256: 2204af803487a5d962c065d0160ee08a009a35abcced8e5f6c8fe761af4d766d
+SHA1: f479a0af341318bafd7b5fbb9995242dcba5957f
+MD5sum: afe27445b5aa253ab8631915376c2760
+Description: A futuristic theme.
+Installed-Size: 560
+Maintainer: Ste <ste@psmxy.org>
+Name: CIA Lockdown
+Package: com.theme.cialockdown
+Version: 2.1.1
+
+Architecture: iphoneos-arm
+Depiction: http://repo.smxy.org/cydia/info/husaberg/
+Author: nocom <nocom@zolo.freelsd.net>
+Depends: winterboard
+Priority: optional
+Section: Themes (SpringBoard)
+Filename: pool/main/c/com.theme.husaberg/com.theme.husaberg_1.0_iphoneos-arm.deb
+Size: 654870
+SHA256: 325fb8b63613e7af33d185ca1a2777c86036d9723b7561a7ab246cbdfd7658f1
+SHA1: b0302338fa800160604b1b49c85d8a7f62653ab8
+MD5sum: 7bc83e018e1b7a2310ade7b64a7444e1
+Description: Husaberg Is The Best Motorbike Ever!
+Installed-Size: 1016
+Maintainer: Ste <ste@psmxy.org>
+Name: Husaberg
+Package: com.theme.husaberg
+Version: 1.0
+
+Architecture: iphoneos-arm
+Depiction: http://repo.smxy.org/cydia/info/mariocopter/
+Author: Jim <jimbox10913@gmail.com>
+Depends: winterboard
+Priority: optional
+Section: Themes (Apps)
+Filename: pool/main/c/com.theme.mariocopter/com.theme.mariocopter_1.0.2_iphoneos-arm.deb
+Size: 79032
+SHA256: 1ccb5f6c872b9e86a701fb29218da603e9c6a1e583cb3a84c69250af9d241f47
+SHA1: eb5836b77d0b4519736cb6643291f42fd3fabd6c
+MD5sum: 74b41dd3ab50b28488d401a8ee9a0415
+Description: An iCopter Skin.
+Installed-Size: 148
+Maintainer: Ste <ste@psmxy.org>
+Name: MarioCopter
+Package: com.theme.mariocopter
+Version: 1.0.2
+
+Package: com.theme.vmp
+Depends: winterboard
+Maintainer: Ste <ste@psmxy.org>
+Architecture: iphoneos-arm
+Version: 5.0-1
+Priority: optional
+Section: Themes (SpringBoard)
+Filename: pool/main/c/com.theme.vmp/com.theme.vmp_5.0-1_iphoneos-arm.deb
+Size: 4939434
+SHA256: a00db6fdffce8e90e356845544c835e120f01ccb3d282b4d0849706d19f9e5dd
+SHA1: 662f44b23343a2b36cb970f3f3902fcbdd3d269d
+MD5sum: 3c3e7caa2a3efbe309132f299fa3a353
+Description: WinterBoard theme of Vista Maximus Perfection: A complete Vista theme with sidebar, Start bar dock, "fingerprint reader" and more. Note that it is not completely ported and other installments will come soon.
+Name: Vista Maximus Perfection
+Author: bob vansteel & Specworks <spoonforknife@gmail.com>
+Homepage: http://repo.smxy.org/iphone-apps/info/vmp.php
+Installed-Size: 7788
+
+Author: SpicyChicken <thespicychicken@gmail.com>
+Maintainer: Ste <ste@psmxy.org>
+Name: Customize
+Package: com.thespicychicken.customize
+Installed-Size: 1240
+Version: 2.2.1-1
+Architecture: iphoneos-arm
+Priority: optional
+Section: Utilities
+Filename: pool/main/c/com.thespicychicken.customize/com.thespicychicken.customize_2.2.1-1_iphoneos-arm.deb
+Size: 385394
+SHA256: 1d2cd06ff295eb16b3930e7ba75b1fd93687bba13529f761dd38dd3754e369e1
+SHA1: f9e012ee476bc4fc14c2a0ec3cf2b5b633479303
+MD5sum: c61b435d0af9bc80cce45ac0b5b0149f
+Description: Customize the look and feel of your phone!
+Depiction: http://repo.smxy.org/cydia/info/customize/
+Depends: firmware (= 2.2) | firmware (= 2.2.1)
+
+Architecture: iphoneos-arm
+Author: Om P (zataang) <zataang.om@gmail.com>
+Depends: syslogd
+Depiction: http://repo.smxy.org/cydia/info/logmailer
+Priority: optional
+Section: System
+Filename: pool/main/c/com.zataang.logmailer/com.zataang.logmailer_1.0_iphoneos-arm.deb
+Size: 18604
+SHA256: cba2b6d3ef515dc114bc2096d90a0224e9506c317362e79f15267528a9335190
+SHA1: 214ae9e3bba6e70dcaa40e688dc38953e713b23e
+MD5sum: 36e62b0c7eab65b881ec67e02e326367
+Description: Send syslog reports to developers quickly
+Installed-Size: 84
+Maintainer: Ste <ste@psmxy.org>
+Name: LogMailer
+Package: com.zataang.logmailer
+Version: 1.0
+
+Architecture: iphoneos-arm
+Author: Om P (zataang) <zataang.om@gmail.com>
+Depends: mobilesubstrate
+Depiction: http://repo.smxy.org/cydia/info/quickgold
+Priority: optional
+Section: System
+Filename: pool/main/c/com.zataang.quickgold/com.zataang.quickgold_1.2.2_iphoneos-arm.deb
+Size: 118244
+SHA256: ee8d71ee731403fcb8848458e36dcb890408944e78d99ad66ced5e44795b3aee
+SHA1: 1e72abc3ab74a526848ec191a32bc9341bdb0445
+MD5sum: 4ee5e6fc3209f09e1f6fe889cdb9e67f
+Description: Fast, keyboard-based launcher
+Installed-Size: 368
+Maintainer: Ste <ste@psmxy.org>
+Name: QuickGold
+Package: com.zataang.quickgold
+Version: 1.2.2
+
+Maintainer: Ste <ste@psmxy.org>
+Name: DeuDict
+Package: de.freedict.deudict
+Installed-Size: 12132
+Version: 2.4.2
+Architecture: iphoneos-arm
+Priority: optional
+Section: Dictionaries
+Filename: pool/main/d/de.freedict.deudict/de.freedict.deudict_2.4.2_iphoneos-arm.deb
+Size: 4245480
+SHA256: 8209bfa0c0028920f0a810aa7a87cfbae77188405a951cac5692967a00b693cd
+SHA1: c7f6bd4c4ae1cbac752529b723bff8beb1c0f8bc
+MD5sum: 222395a3631dd140b2fb38fe8065b6e5
+Description: German <-> English
+Depiction: http://repo.smxy.org/cydia/info/deudict/
+
+Maintainer: Ste <ste@psmxy.org>
+Name: SpaDict
+Package: de.freedict.spadict
+Installed-Size: 616
+Version: 2.4.2
+Architecture: iphoneos-arm
+Priority: optional
+Section: Dictionaries
+Filename: pool/main/d/de.freedict.spadict/de.freedict.spadict_2.4.2_iphoneos-arm.deb
+Size: 228552
+SHA256: 921b7c778f580543fef1b6b39b986fc083fcf3c01176ec3a6b456254cd3e7546
+SHA1: 2393441739d4f01343d9309c6fb9303ca3ab2675
+MD5sum: b78b7a1865c417d5a2784f72b43fc0cb
+Description: Spanish <-> English
+Depiction: http://repo.smxy.org/cydia/info/spadict/
+
+Website: http://repo.smxy.org/iphone-apps/info/info.php?url=http://www.apptapp.com/summerboard/
+Maintainer: Ste <ste@psmxy.org>
+Name: JTRWallace
+Package: jtrwallace.theme
+Installed-Size: 1328
+Version: 2.0
+Architecture: all
+Priority: optional
+Section: Themes (SummerBoard)
+Filename: pool/main/j/jtrwallace.theme/jtrwallace.theme_2.0_all.deb
+Size: 780442
+MD5sum: 610f5059c8d6a9e22d551a342ad07e34
+Description: A SummerBoard theme by Joshua Wallace.
+
+Website: http://repo.smxy.org/iphone-apps/info/info.php?url=http://www.apptapp.com/summerboard/
+Maintainer: Ste <ste@psmxy.org>
+Name: Neurox Leopard
+Package: leeliu.theme.neuroxleopard
+Installed-Size: 536
+Version: 1.0-1
+Architecture: all
+Priority: optional
+Section: Themes (SummerBoard)
+Filename: pool/main/l/leeliu.theme.neuroxleopard/leeliu.theme.neuroxleopard_1.0-1_all.deb
+Size: 343430
+MD5sum: 024658f206eab36518da5373bda20281
+Description: A SummerBoard theme by buzz and kitty. Cobbled together from other themes.
+
+Website: http://repo.smxy.org/iphone-apps/info/info.php?url=http://plainjain.wordpress.com/
+Maintainer: Matt Davis <gametroll@gmail.com>
+Name: BlackJainDim
+Package: mattdavis.theme.blackjaindim
+Installed-Size: 2756
+Version: 2.8
+Architecture: all
+Priority: optional
+Section: Themes (SummerBoard)
+Filename: pool/main/m/mattdavis.theme.blackjaindim/mattdavis.theme.blackjaindim_2.8_all.deb
+Size: 2007738
+MD5sum: aa15b295879b02cc42411ccf961364e5
+Description: Same as PlainJainDim, but allows for brighter and lighter backgrounds.
+
+Website: http://repo.smxy.org/iphone-apps/info/info.php?url=http://plainjain.wordpress.com/
+Maintainer: Matt Davis <gametroll@gmail.com>
+Name: PlainJain
+Package: mattdavis.theme.plainjain
+Installed-Size: 2732
+Version: 2.8
+Architecture: all
+Priority: optional
+Section: Themes (SummerBoard)
+Filename: pool/main/m/mattdavis.theme.plainjain/mattdavis.theme.plainjain_2.8_all.deb
+Size: 1993886
+MD5sum: 2cb81c02fde751be4902bd30c11f848c
+Description: Same as PlainJainDim, but with slightly more opaque icons.
+
+Website: http://repo.smxy.org/iphone-apps/info/info.php?url=http://plainjain.wordpress.com/
+Maintainer: Matt Davis <gametroll@gmail.com>
+Name: PlainJainDim
+Package: mattdavis.theme.plainjaindim
+Installed-Size: 2732
+Version: 2.8
+Architecture: all
+Priority: optional
+Section: Themes (SummerBoard)
+Filename: pool/main/m/mattdavis.theme.plainjaindim/mattdavis.theme.plainjaindim_2.8_all.deb
+Size: 1980310
+MD5sum: b0a44512a8a6b765df28edbddcbee398
+Description: A SummerBoard theme, designed by Matt "TARGET" Davis, to allow you to see your background wallpapers.
+
+Website: http://repo.smxy.org/iphone-apps/info/info.php?url=http://www.unl0cker.com/itheme/
+Maintainer: UnL0CkER <admin@unl0cker.com>
+Name: UnL0CkER
+Package: mauricioaraujo.theme.unl0cker
+Installed-Size: 1364
+Version: 1.1
+Architecture: all
+Priority: optional
+Section: Themes (SummerBoard)
+Filename: pool/main/m/mauricioaraujo.theme.unl0cker/mauricioaraujo.theme.unl0cker_1.1_all.deb
+Size: 1016456
+MD5sum: 32ac57b4433541a8a2b8f342c7bf7ca7
+Description: A popular SummerBoard theme by Mauricio Araujo (UnL0CkER).
+
+Website: http://repo.smxy.org/iphone-apps/info/info.php?url=http://www.apptapp.com/summerboard/
+Maintainer: Ste <ste@psmxy.org>
+Name: 1984
+Package: mr-sparkles.theme.1984
+Installed-Size: 356
+Version: 1.2
+Architecture: all
+Priority: optional
+Section: Themes (SummerBoard)
+Filename: pool/main/m/mr-sparkles.theme.1984/mr-sparkles.theme.1984_1.2_all.deb
+Size: 34414
+MD5sum: b81c7255aa47546d1020b65fb1cebc11
+Description: A SummerBoard theme by Chris Reiff (Mr_Sparkle).
+
+Website: http://repo.smxy.org/iphone-apps/info/info.php?url=http://www.apptapp.com/summerboard/
+Maintainer: Ste <ste@psmxy.org>
+Name: Greyday
+Package: nathankoch.theme.greyday
+Installed-Size: 360
+Version: 1.0
+Architecture: all
+Priority: optional
+Section: Themes (SummerBoard)
+Filename: pool/main/n/nathankoch.theme.greyday/nathankoch.theme.greyday_1.0_all.deb
+Size: 227948
+MD5sum: aad07a3df145d2c440b6696663a7223e
+Description: A SummerBoard theme by Nathan Koch.
+
+Architecture: iphoneos-arm
+Author: Yanik Magnan <kirbykirbykirby@gmail.com>
+Pre-Depends: firmware (>= 3.0), mobilesubstrate, preferenceloader
+Depiction: http://repo.smxy.org/cydia/info/fcsb
+Priority: optional
+Section: Tweaks
+Filename: pool/main/n/net.r-ch.fcsb/net.r-ch.fcsb_0.59_iphoneos-arm.deb
+Size: 20356
+SHA256: 914640d91b8e82414234248495e4844d64ac02179d938c6d3c5cb8586679a40e
+SHA1: fffda8644ba6fc375df22eb49bf9c97265162e3d
+MD5sum: 54dea34ad1ffbe662d42f0068b3c47ff
+Description: Adds a fifth column to SpringBoard
+Installed-Size: 136
+Maintainer: Ste <ste@psmxy.org>
+Name: Five-Column SpringBoard
+Package: net.r-ch.fcsb
+Version: 0.59
+Support: http://cydia.saurik.com/support/net.r-ch.fcsb
+
+Architecture: iphoneos-arm
+Author: Yanik Magnan <kirbykirbykirby@gmail.com>
+Pre-Depends: mobilesubstrate
+Depiction: http://repo.smxy.org/cydia/info/noaa
+Priority: optional
+Section: Tweaks
+Filename: pool/main/n/net.r-ch.noaa/net.r-ch.noaa_1.0_iphoneos-arm.deb
+Size: 3202
+SHA256: b878ab381645d91733ef8a353f04b1adb18e6a12590867da2c155e304ea6cdd2
+SHA1: cfd154caf12998a8a8411c99223a92fe13cb9c9d
+MD5sum: ffd42984667ca3c0c732f4c370efb6f4
+Description: Removes album art on the lockscreen
+Installed-Size: 40
+Maintainer: Ste <ste@psmxy.org>
+Name: NoAA
+Package: net.r-ch.noaa
+Version: 1.0
+
+Architecture: iphoneos-arm
+Author: Yanik Magnan <kirbykirbykirby@gmail.com>
+Pre-Depends: mobilesubstrate
+Depiction: http://repo.smxy.org/cydia/info/wigglefree
+Priority: optional
+Section: Tweaks
+Filename: pool/main/n/net.r-ch.wigglefree/net.r-ch.wigglefree_1.0_iphoneos-arm.deb
+Size: 3330
+SHA256: 14b8f640677cc0284a5e5d0027dff9b9b41df6ccadc46a8ee473f3201c3ca80b
+SHA1: 195d694d9a37fda020d260b6a3de46a4d25c82d9
+MD5sum: be11d9e26fbf0ebd380c80ed9bfb2b27
+Description: Makes your icons wiggle-free
+Installed-Size: 40
+Maintainer: Ste <ste@psmxy.org>
+Name: wigglefree
+Package: net.r-ch.wigglefree
+Version: 1.0
+
+Architecture: iphoneos-arm
+Author: Russ Baldwin <ebooks@shoesforindustry.net>
+Depends: com.jaw.bookreader
+Depiction: http://repo.smxy.org/cydia/info/ajhall
+Priority: optional
+Section: eBooks
+Filename: pool/main/n/net.shoesforindustry.lopiverse/net.shoesforindustry.lopiverse_0.1-2_iphoneos-arm.deb
+Size: 1806900
+SHA256: 84a7d3f5ad0750da8c2856b4216e43c35c064ce14db8de66273830ac5f12b317
+SHA1: ad93145117267108d70625b655d48be3a4291a02
+MD5sum: c7f485548d5afde52886eecd9a936dc3
+Description: A collection of eBooks by A.J. Hall.
+Installed-Size: 4448
+Maintainer: Ste <ste@psmxy.org>
+Name: AJ Hall Collection
+Package: net.shoesforindustry.lopiverse
+Version: 0.1-2
+
+Website: http://repo.smxy.org/iphone-apps/info/info.php?url=http://www.apptapp.com/summerboard/
+Maintainer: Ste <ste@psmxy.org>
+Name: Oren
+Package: oren.theme
+Installed-Size: 368
+Version: 1.1-1
+Architecture: all
+Priority: optional
+Section: Themes (SummerBoard)
+Filename: pool/main/o/oren.theme/oren.theme_1.1-1_all.deb
+Size: 244244
+MD5sum: 8e05838ab0096ad11857e5137d333b19
+Description: A SummerBoard theme by Oren Krinsky.
+
+Maintainer: Ste <ste@psmxy.org>
+Name: C.I.D.E.
+Package: org.dict.dictd-www.cide
+Installed-Size: 159820
+Version: 2.4.2
+Architecture: iphoneos-arm
+Priority: optional
+Section: Dictionaries
+Filename: pool/main/o/org.dict.dictd-www.cide/org.dict.dictd-www.cide_2.4.2_iphoneos-arm.deb
+Size: 30952860
+SHA256: 802b90768a2d5e5f96cd948eec0aa94bf141bf646f16f2e36a772931f0c5ef18
+SHA1: b04442f675a91d5c36623bb54f46621aa524c7a0
+MD5sum: 794983352581a5e8214598c2b1972cba
+Description: The Collaborative Int. Dict. of English
+Depiction: http://repo.smxy.org/cydia/info/cide/
+
+Website: http://repo.smxy.org/iphone-apps/info/info.php?url=http://stardict.sourceforge.net/Dictionaries_dictd-www.dict.org.php
+Maintainer: Ste <ste@psmxy.org>
+Name: Merriam-Webster
+Package: org.dict.dictd-www.merriam-webster
+Installed-Size: 6196
+Version: 2.4.2
+Architecture: iphoneos-arm
+Priority: optional
+Section: Dictionaries
+Filename: pool/main/o/org.dict.dictd-www.merriam-webster/org.dict.dictd-www.merriam-webster_2.4.2_iphoneos-arm.deb
+Size: 2370980
+SHA256: 563d8a32e94ffbbc0d8bdb9d10ed6ce418806ba45f6157597f6c5b1666724b17
+SHA1: 030ac45adb21d02a4f1ce46eaba39d2b1c111f92
+MD5sum: 7192a00020680aaf7117d40ad51c4a2d
+Description: Merriam-Webster 10th Dictionary
+Depiction: http://repo.smxy.org/cydia/info/merriam-webster/
+
+Maintainer: Ste <ste@psmxy.org>
+Name: English Etymology
+Package: org.dict.www.englishetymology
+Installed-Size: 4520
+Version: 2.4.2
+Architecture: iphoneos-arm
+Priority: optional
+Section: Dictionaries
+Filename: pool/main/o/org.dict.www.englishetymology/org.dict.www.englishetymology_2.4.2_iphoneos-arm.deb
+Size: 1789010
+SHA256: 4acac0708570b3fce64fdd1e829af14c0f9574c542299388779272af6a09df4a
+SHA1: 4bdbc2c020e711789e3e57634023e068b3cd337f
+MD5sum: 650d7cbaf5c8dcce1cdfeb1a79e7d70a
+Description: Look up the origins of various words
+Depiction: http://repo.smxy.org/cydia/info/englishetymology/
+
+Maintainer: Ste <ste@psmxy.org>
+Name: English Thesaurus
+Package: org.dict.www.thesaurus-ee
+Installed-Size: 7508
+Version: 2.4.2
+Architecture: iphoneos-arm
+Priority: optional
+Section: Dictionaries
+Filename: pool/main/o/org.dict.www.thesaurus-ee/org.dict.www.thesaurus-ee_2.4.2_iphoneos-arm.deb
+Size: 2039770
+SHA256: 7f162e8a9076c6b7a22f32b328d32ac72f58acf5c31c5b4c6ef420ea6acffec4
+SHA1: 27236ecfdee7cdc64e20be2a6bb32cd2b2a67dcb
+MD5sum: 0a846b0cfe33cb542bc0f4163e123c76
+Description: Look up the synonyms of various words
+Depiction: http://repo.smxy.org/cydia/info/englishthesaurus/
+
+Architecture: iphoneos-arm
+Author: Lizerazu <lizerazu@gmail.com>
+Depends: com.jaw.bookreader
+Depiction: http://repo.smxy.org/cydia/info/domk
+Priority: optional
+Section: eBooks
+Filename: pool/main/o/org.lizerazu.blog.domk/org.lizerazu.blog.domk_1.0-1_iphoneos-arm.deb
+Size: 128378
+SHA256: 2133f3e95fbe3dbee9bb9acc92774291b5704ff4f8d4181e77c3680bb3146c99
+SHA1: 7d4f180edd360e0cf28e104fe2d97189ec6e2ac3
+MD5sum: c32c84d952f19de69eca15008ca90b8d
+Description: An  eBook, by Cory Doctorow.
+Installed-Size: 408
+Maintainer: Ste <ste@psmxy.org>
+Name: Down and Out ...
+Package: org.lizerazu.blog.domk
+Version: 1.0-1
+
+Architecture: iphoneos-arm
+Author: Lizerazu <lizerazu@gmail.com>
+Depends: com.jaw.bookreader
+Depiction: http://repo.smxy.org/cydia/info/est
+Priority: optional
+Section: eBooks
+Filename: pool/main/o/org.lizerazu.blog.est/org.lizerazu.blog.est_1.0-1_iphoneos-arm.deb
+Size: 126690
+SHA256: 20a46283b8fb559422101de1cfe56df57914d28ef124b8054c7c18997b132a42
+SHA1: 89f44c655347bb8dd453d65ce505402c5dfacd52
+MD5sum: 27a3abc4170626ad909c2606ca4719ca
+Description: An  eBook, by Cory Doctorow.
+Installed-Size: 420
+Maintainer: Ste <ste@psmxy.org>
+Name: Eastern Standard Tribe
+Package: org.lizerazu.blog.est
+Version: 1.0-1
+
+Architecture: iphoneos-arm
+Author: Lizerazu <lizerazu@gmail.com>
+Depends: com.jaw.bookreader
+Depiction: http://repo.smxy.org/cydia/info/sctt
+Priority: optional
+Section: eBooks
+Filename: pool/main/o/org.lizerazu.blog.sctt/org.lizerazu.blog.sctt_1.0-1_iphoneos-arm.deb
+Size: 251078
+SHA256: ecf1612dc27359b268b429a257f18a584975fd52b3187ab449eebfc0bacfad67
+SHA1: 503bc2f647bdddcb21a579c0e7052e2fc88d1c51
+MD5sum: 558a1923c688250611b2bc4b09416156
+Description: An  eBook, by Cory Doctorow.
+Installed-Size: 940
+Maintainer: Ste <ste@psmxy.org>
+Name: Someone Comes to Town
+Package: org.lizerazu.blog.sctt
+Version: 1.0-1
+
+Package: org.mg8.mobilepushr
+Maintainer: Ste <ste@psmxy.org>
+Architecture: iphoneos-arm
+Version: 0.7
+Priority: optional
+Section: Multimedia
+Filename: pool/main/o/org.mg8.mobilepushr/org.mg8.mobilepushr_0.7_iphoneos-arm.deb
+Size: 61944
+SHA256: b8e52942ab9117a4b17d2fd8939e7b00ed6995d49bbe3d000a139b2caec75db7
+SHA1: 38ebc337df32559cba57a41bc3950ee152e57788
+MD5sum: 05b66fcaccbf582e5e985db9e536604f
+Description: Upload pics to your Flickr account.
+Name: Pushr
+Author: Chris Lee <clee@mg8.org>
+Installed-Size: 208
+Depiction: http://repo.smxy.org/cydia/info/pushr/
+
+Website: http://repo.smxy.org/iphone-apps/info/info.php?url=http://www.apptapp.com/summerboard/
+Maintainer: Ste <ste@psmxy.org>
+Name: Phiberglass
+Package: phiberglass.theme
+Installed-Size: 1288
+Version: 1.7
+Architecture: all
+Priority: optional
+Section: Themes (SummerBoard)
+Filename: pool/main/p/phiberglass.theme/phiberglass.theme_1.7_all.deb
+Size: 1027178
+MD5sum: cd293e790bb7259a360729ed17ba6c44
+Description: A SummerBoard theme by Austin Grade. Includes alternate Wallpaper.
+
+Website: http://repo.smxy.org/iphone-apps/info/info.php?url=http://www.apptapp.com/summerboard/
+Maintainer: Ste <ste@psmxy.org>
+Name: Time Machine
+Package: timemachine.theme
+Installed-Size: 2004
+Version: 2.2.0-1
+Architecture: all
+Priority: optional
+Section: Themes (SummerBoard)
+Filename: pool/main/t/timemachine.theme/timemachine.theme_2.2.0-1_all.deb
+Size: 1726178
+MD5sum: 51b0fb543fa70d6df43168d03c8f0b39
+Description: A SummerBoard theme by "digitalkid56".
+
+Website: http://repo.smxy.org/iphone-apps/info/info.php?url=http://www.apptapp.com/summerboard/
+Maintainer: Ste <ste@psmxy.org>
+Name: Touch
+Package: touch.theme
+Installed-Size: 96
+Version: 1.0
+Architecture: all
+Priority: optional
+Section: Themes (SummerBoard)
+Filename: pool/main/t/touch.theme/touch.theme_1.0_all.deb
+Size: 28816
+MD5sum: 6e549d71712bbb985517930659ad02a4
+Description: A SummerBoard theme by Dan Rubin.
+

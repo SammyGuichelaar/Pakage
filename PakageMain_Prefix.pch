@@ -1,0 +1,52 @@
+#define IN_IPHONE_SIMULATOR ([[[UIDevice currentDevice] model] compare:@"iPhone Simulator"] == NSOrderedSame)
+#define VERSION @"0.8.4"
+
+#ifdef __OBJC__
+	#define PREFS [NSUserDefaults standardUserDefaults]
+	#define FILEMANAGER [NSFileManager defaultManager]
+	#import <notify.h>
+	#import <dirent.h>
+	#import <stdio.h>
+	#import <sqlite3.h>
+	#import <sys/stat.h>
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+	#import <QuartzCore/QuartzCore.h>
+	#import "Classes/NSString+MD5.h"
+
+	#import "Classes/StashController.h"
+
+	#import "Classes/ApplicationCache.h"
+	#import "Classes/Source.h"
+	#import "Classes/Package.h"
+	#import "Classes/PackageDatabase.h" 
+	#import "Classes/SourceDatabase.h"
+	#import "Classes/InstallOperation.h"
+	#import "Classes/RemoveOperation.h"
+	#import "Classes/InstallQueue.h"
+
+	#import "Classes/PackageCell.h"
+	#import "Classes/ABScreenshotView.h"
+
+	#import "Classes/BrowserViewController.h"
+	#import "Classes/DetailsViewController.h"
+	#import "Classes/PackageListViewController.h"
+
+	#import "Classes/HomeViewController.h"
+
+	#import "Classes/RecentTableViewController.h"
+	#import "Classes/UpdatesTableViewController.h"
+	#import "Classes/RecentViewController.h"
+
+	#import "Classes/InstalledTableViewController.h"
+	#import "Classes/QueueTableViewController.h"
+	#import "Classes/ManageViewController.h"
+
+	#import "Classes/SectionsTableViewController.h"
+	#import "Classes/SearchTableViewController.h"
+	#import "Classes/BrowseViewController.h"
+
+	#import "Classes/SourceViewController.h"
+
+	#import "Classes/PakageAppDelegate.h"
+#endif

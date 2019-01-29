@@ -1,0 +1,48 @@
+Package: net.howett.colstatusbartheme
+Version: 1.1-1
+Name: Colored Status Bar Icons
+Author: Dustin Howett <dustin@howett.net>
+Depiction: http://howett.net/cydia/depict/?template=depict&package=net.howett.colstatusbartheme
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Depends: winterboard
+Filename: packages/net.howett.colstatusbartheme.deb
+Size: 5296
+MD5sum: dea6f1bd03ade6c2f7adb007746482d3
+Section: Themes (SpringBoard)
+Description: Makes life more colorful!
+
+Package: net.howett.roundlabels
+Version: 1.0-1
+Name: Rounded Icon Labels
+Author: Dustin Howett <dustin@howett.net>
+Depiction: http://howett.net/cydia/depict/?template=depict&package=net.howett.roundlabels
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Depends: winterboard
+Filename: packages/net.howett.roundlabels.deb
+Size: 1068
+MD5sum: 0e874c700b3b6d3f9986156cddf3ab91
+Section: Themes (SpringBoard)
+Description: Makes icon labels white with a rounded black background.
+
+Package: net.howett.safaridownloadersbs
+Version: 1.0.0-1
+Name: SDM SBSettings
+Author: Dustin Howett <dustin@howett.net>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: dustinhowett
+Depiction: http://howett.net/cydia/depict/sdm/toggle.html
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 48
+Pre-Depends: firmware (>= 3.0)
+Depends: net.howett.safaridownloader (>= 1.3.0-1), sbsettings (>= 1.0.7-5)
+Filename: packages/net.howett.safaridownloadersbs_1.0.0-1_iphoneos-arm.deb
+Size: 2380
+MD5sum: 07d0b0679500eada0a15801fb55ff78e
+Section: SBSettings Addons
+Homepage: http://howett.net/cydia/depict/sdm/toggle.html
+Description: An SBSettings toggle for Safari Download Manager
+Tag: cydia::commercial
+

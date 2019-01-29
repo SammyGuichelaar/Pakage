@@ -1,0 +1,11 @@
+Origin: HowettNET
+Label: HowettNET
+Suite: stable
+Version: 1.0
+Codename: howettnet
+Architectures: iphoneos-arm
+Components: main
+Description: The HowettNET Repository!
+MD5Sum:
+ 2a7b73f043609fe8309a9695f369a9fe 1727 Packages
+ ec13585d75a2a653e96ac99fcef7081a 786 Packages.bz2

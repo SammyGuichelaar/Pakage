@@ -1,0 +1,9 @@
+Origin: phoenix-dev beta
+Label: phoenix-dev beta
+Suite: stable
+Version: 1.0
+Codename: phoenix
+Architecture: iphoneos-arm
+Components: main
+Description: Beta repository for phoenix-dev software
+

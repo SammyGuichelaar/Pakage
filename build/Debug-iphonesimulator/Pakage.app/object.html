@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="index,follow" name="robots" />
+<meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type" />
+<meta content="minimum-scale=1.0, width=device-width, maximum-scale=0.6667, user-scalable=no" name="viewport" />
+<link href="./Framework/css/uncompressed_style.css" rel="stylesheet" type="text/css" />
+<script src="./Framework/javascript/functions.js" type="text/javascript"></script>
+<script type="text/javascript">
+function show_depiction()
+{
+ 	var node = document.getElementById("depiction");
+        var frame = window.frames[name];
+
+            try {
+                node.height = frame.document.body.scrollHeight;
+            } catch (e) {
+                node.height = 370;
+                node.width = 320;
+            }
+
+	document.getElementById("depiction").style.display = "";
+	document.getElementById("loading").style.display = "none";
+}
+</script>
+
+<title>Pakage</title>
+</head>
+
+<body style="-webkit-user-select: none; -webkit-touch-callout: none;">
+
+<div id="content">
+
+	<ul class="pageitem">
+		<li class="store">
+			<span class="image" style="background-image: url(ICON_URL);background-position:center;background-repeat:no-repeat;"></span>
+			<span class="comment">Version VERSION</span><span class="name">NAME</span>
+		</li>
+	</ul>
+	
+	DEPICTION_START
+	<ul class="pageitem" id="loading">
+		<div align="center" valign="middle" style="font-size: 20px; padding-top:25px; padding-bottom: 25px;">
+			<img src="loading.gif" />&nbsp;&nbsp;Loading...
+		</div>
+	</ul>
+	<iframe id="depiction" frameborder="0" width="320" height="0" target="_top" onload="show_depiction()" src="DEPICTION_URL" style="display: none";></iframe>
+	DEPICTION_END
+	
+	<span class="graytitle">Details</span>
+	<ul class="pageitem">
+		<li class="textbox" id="desc">
+			<span class="header">Description</span>
+			<p>
+				DESCRIPTION
+			</p>
+		</li>
+		<li class="menu">
+			<span class="name">Package ID</span>
+			<span class="comment">PACKAGE_ID</span>
+		</li>
+		<li class="menu">
+			<span class="name">Section</span>
+			<span class="comment">SECTION</span>
+		</li>
+		<li class="menu">
+			<a href="mailto:DEVELOPER_EMAIL">
+				<span class="name">Developer</span>
+				<span class="comment">DEVELOPER</span>
+				<span class="arrow"></span>
+			</a>
+		</li>
+		SOURCE_START
+		<li class="menu">
+			<span class="name">Source: SOURCE_NAME</span>
+		</li>
+		<li class="textbox">
+			<p>
+				SOURCE_DESCRIPTION
+			</p>
+		</li>
+		SOURCE_END
+	</ul>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,17 @@
+Origin: RPetrich Internal Repo
+Label: RPetrich Internal
+Suite: stable
+Version: 0.1
+Codename: tangelo
+Architectures: iphoneos-arm
+Components: main
+Description: INTERNAL REPO! DO NOT SHARE!
+MD5Sum:
+ bd5ff80cc8cfae86b1d19f290563de97 2363 Packages 
+ d6b4bcbf4dc0d610ada2831dff033c5a 1172 Packages.bz2 
+SHA1:
+ 791c608b44ed584c2913011fbbe03f54330e0370 2363 Packages 
+ 1afe13896e2c99c3e13646b635210b037bba3ec0 1172 Packages.bz2 
+SHA256:
+ 2125c22e1399fac98d288a01550261628656641e6066f1ba8292762568a0ba79 2363 Packages 
+ fd556c05728e7206c68c4d028645ace76a91cb49653d78947b35a1597320c951 1172 Packages.bz2 

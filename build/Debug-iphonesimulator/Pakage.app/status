@@ -1,0 +1,1744 @@
+Package: com.c4pda.c4crack
+Status: install ok installed
+Priority: optional
+Section: Development
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 0.9.155-1
+Depends: readline, libffi, mobilesubstrate
+Description: runtime execution server and disassembler
+Name: Cycript
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/cycript/
+Tag: purpose::daemon, role::developer
+
+Package: com.smallrocksoftware.iplummet
+Status: install ok installed
+Section: Games
+Installed-Size: 15218
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 1.10
+Description: Classic falling ragdoll fun!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iplummetData
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iplummetData
+dev: smallrocksoftware
+Name: iPlummet
+Author: Michael Malony <software@smallrocksoftware.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: coreutils
+Status: install ok installed
+Priority: standard
+Section: Utilities
+Installed-Size: 6220
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 7.4-11
+Replaces: netatalk (<= 2.0.3-6)
+Provides: md5sum, sha1sum
+Depends: bash, coreutils-bin (>= 7.4-5), profile.d
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: core set of Unix shell utilities from GNU
+Name: Core Utilities
+Homepage: http://www.gnu.org/software/coreutils/
+
+Package: sbsettingsinsomnia
+Status: install ok installed
+Section: SBSettings Addons
+Installed-Size: 54
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 1.0-2
+Depends: sbsettings (>= 2.99), com.imalc.insomnia (>= 3.0)
+Description: Insomnia toggle for SBSettings
+Author: BigBoss <bigboss@thebigboss.org>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sbsettingsInsomnia
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sbsettingsInsomnia
+Name: Insomnia Toggle
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: bigboss
+
+Package: sudo
+Status: install ok installed
+Priority: standard
+Section: Administration
+Installed-Size: 436
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 1.6.9p12-4
+Conffiles:
+ /etc/sudoers 4c33e688c9ad7d3187188300f0857c24
+Description: temporarily assume root priviledges
+Name: Sudo
+
+Package: developer-cmds
+Status: install ok installed
+Priority: important
+Section: Development
+Installed-Size: 288
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 48-2
+Description: ctags, error, hexdump, rpcgen, unifdef
+
+Package: gdb
+Status: install ok installed
+Priority: optional
+Section: Development
+Installed-Size: 6756
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 1128-8
+Depends: ncurses, readline, sqlite3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: debugger for native software
+ A debugger for native software from GNU. This is Apple's Open Source 
+ GDB that targets ARM. It still has some limitations, but they are being 
+ worked on.
+Name: GNU Debugger
+Homepage: http://www.gnu.org/software/gdb/
+Depiction: http://cydia.saurik.com/info/gdb/
+
+Package: libxml2
+Status: install ok installed
+Priority: standard
+Section: Development
+Installed-Size: 652
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 2.6.32-6
+Depends: libxml2-lib
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: very popular XML parser from Gnome
+Name: libxml2
+Homepage: http://xmlsoft.org/
+Depiction: http://cydia.saurik.com/info/libxml2/
+
+Package: berkeleydb
+Status: install ok installed
+Priority: standard
+Section: Data_Storage
+Installed-Size: 1620
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 4.6.21-4
+Description: Oracle's embeddable database engine
+Name: Berkeley DB
+Homepage: http://www.oracle.com/technology/products/berkeley-db/index.html
+
+Package: hk.kennytm.quickscroll
+Status: purge ok not-installed
+Section: System
+
+Package: apt7-lib
+Essential: yes
+Status: install ok installed
+Priority: required
+Section: Packaging
+Installed-Size: 1584
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 0.7.20.2-3
+Replaces: apt (<< 1:0-1), apt7 (<< 0.7.20.2-3)
+Depends: bzip2, dpkg (>= 1.14.25-9), gnupg, gzip, lzma
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: the advanced packaging library from Debian
+Name: APT 0.7 Strict (lib)
+
+Package: veency
+Status: install ok installed
+Priority: optional
+Section: Networking
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 0.9.3023-1
+Replaces: com.saurik.iphone.vncs
+Depends: mobilesubstrate (>= 0.9.2966-1), libvncserver, com.saurik.iphone.ske, preferenceloader
+Conflicts: com.saurik.iphone.vncs
+Description: a VNC /server/ for the iPhone
+Name: Veency
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/veency/
+Tag: purpose::daemon, role::enduser
+
+Package: lzma
+Status: install ok installed
+Priority: important
+Section: Archiving
+Installed-Size: 276
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 4.32.7-4
+Depends: grep, sed
+Description: slower, but better, compression algorithm
+Name: LZMA Utils
+Homepage: http://tukaani.org/lzma/
+
+Package: essential
+Essential: yes
+Status: install ok installed
+Priority: required
+Section: System
+Installed-Size: 12
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 0-1
+Depends: cydia | com.ripdev.icy
+Pre-Depends: bootstrap | dpkg (>= 1.13.25-5)
+Description: contains nothing, represents everything
+Name: Essential
+Depiction: http://cydia.saurik.com/info/essential/
+
+Package: com.gauravgiri.fontswapstarter
+Status: install ok installed
+Section: System
+Installed-Size: 8600
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 1.0
+Description: Font Starter Pack for Font Swap app.
+Author: Gaurav Giri <gauravgiri@gmail.com>
+Icon: file:///usr/share/bigboss/icons/bigboss.png
+Name: FontSwap Starter
+Depiction: http://moreinfo.thebigboss.org/moreinfo/FontSwapStarterDp.php
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: gauravgiri
+Tag: role::developer purpose::library
+
+Package: me.nhaunold.xpandr
+Status: purge ok not-installed
+Section: System
+
+Package: whois
+Status: install ok installed
+Priority: important
+Section: Networking
+Installed-Size: 56
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 4.7.24-2
+Description: client for querying whois servers
+
+Package: apt7-ssl
+Status: install ok installed
+Priority: optional
+Section: Packaging
+Installed-Size: 64
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 0.7.20.2-1
+Replaces: apt (<< 1:0-1), apt7 (<< 0.7.20.2-3)
+Depends: apt7-lib, curl
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: advanced packaging from Debian /via SSL/
+Name: APT 0.7 HTTPS Method
+
+Package: mobilesubstrate
+Status: install ok installed
+Priority: optional
+Section: System
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 0.9.3051-1
+Pre-Depends: dpkg (>= 1.13.25-5)
+Description: powerful code insertion platform
+Name: Mobile Substrate
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Tag: role::developer
+Depiction: http://cydia.saurik.com/info/mobilesubstrate/
+
+Package: uuid
+Status: install ok installed
+Priority: important
+Section: System
+Installed-Size: 140
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 1.6.0-2
+Description: universally unique identifiers
+Name: UUID Generator
+
+Package: sqlite3
+Status: install ok installed
+Priority: standard
+Section: Data_Storage
+Installed-Size: 348
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 3.5.9-12
+Replaces: sqlite3 (<= 3.5.9-11)
+Depends: sqlite3-lib
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: embedded database used by iPhoneOS
+Name: SQLite 3.x
+
+Package: apr-lib
+Status: install ok installed
+Priority: standard
+Section: Development
+Installed-Size: 176
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 1.3.3-2
+Replaces: apr (<< 1.3.3-4)
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: just the /usr/lib folder from APR
+Name: APR (/usr/lib)
+Homepage: http://apr.apache.org/
+
+Package: bzip2
+Status: install ok installed
+Priority: important
+Section: Archiving
+Installed-Size: 76
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 1.0.5-7
+Description: compression that's slightly better than gzip
+Homepage: http://www.bzip.org/
+
+Package: com.chrissoftware.whatsnext
+Status: purge ok not-installed
+Section: Educational
+
+Package: openssh
+Status: install ok installed
+Priority: important
+Section: Networking
+Installed-Size: 1540
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 5.2p1-8
+Depends: openssl
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: secure remote access between machines
+Name: OpenSSH
+
+Package: openssl
+Status: install ok installed
+Priority: standard
+Section: Security
+Installed-Size: 5708
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 0.9.8k-9
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: SSL library and cryptographic tools
+Name: OpenSSL
+
+Package: com.steventroughtonsmith.stack
+Status: purge ok not-installed
+Section: System
+
+Package: apt
+Status: install ok installed
+Priority: required
+Section: Packaging
+Installed-Size: 12
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 1:0-23
+Depends: apt7
+Pre-Depends: dpkg (>= 1.14.25-8)
+Conflicts: cydia (<< 1.0.2843-1)
+Description: any advanced packaging tool from Debian
+Name: APT 0.6 Transitional
+
+Package: winterboard
+Status: install ok installed
+Priority: optional
+Section: System
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 0.9.2993-1
+Replaces: com.modmyifone.winterboardicon
+Provides: theme-manager
+Depends: mobilesubstrate (>= 0.9.2958-1), killall
+Conflicts: com.modmyifone.winterboardicon
+Description: more powerful, open-source SummerBoard
+Name: WinterBoard
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/winterboard/
+Homepage: http://www.saurik.com/id/9
+
+Package: com.phoenix.pandoracontrols
+Status: purge ok not-installed
+Section: Multimedia
+
+Package: sqlite3-lib
+Essential: yes
+Status: install ok installed
+Priority: required
+Section: Data_Storage
+Installed-Size: 12
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 3.5.9-1
+Depends: firmware (>= 3.0) | sqlite3-dylib
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: represents the library for SQLite
+Name: SQLite 3.x Library
+
+Package: adv-cmds
+Status: install ok installed
+Priority: important
+Section: Administration
+Installed-Size: 244
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 119-5
+Provides: ps
+Depends: ncurses
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: finger, fingerd, last, lsvfs, md, ps
+
+Package: libvncserver
+Status: install ok installed
+Priority: optional
+Section: Development
+Installed-Size: 1392
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 0.9.1-3
+Description: backend library for VNC servers
+Name: LibVNCServer
+Author: Johannes Schindelin <Johannes.Schindelin@RuBBISHgmx.de>
+Homepage: http://libvncserver.sourceforge.net/
+
+Package: net.ispazio.keepawake
+Status: purge ok not-installed
+Section: App Addons
+
+Package: com.saurik.privacy
+Status: install ok installed
+Priority: optional
+Section: Administration
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 0.9.3037-2
+Replaces: com.openhebrew.privacy
+Depends: mobilesubstrate (>= 0.9.2996-1), preferenceloader
+Conflicts: com.openhebrew.privacy
+Description: global opt-out of anonymous usage tracking
+Name: PrivaCy
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/com.saurik.privacy/
+Tag: purpose::setting, role::enduser
+
+Package: bootstrap-cmds
+Status: install ok installed
+Priority: optional
+Section: Development
+Installed-Size: 300
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 60-3
+Description: Mach interface and stub generator
+Name: Bootstrap Commands
+
+Package: com.seankovacs.gvmobile
+Status: install ok installed
+Section: Networking
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Architecture: iphoneos-arm
+Version: 1.22.1
+Pre-Depends: firmware (>= 2.2.1)
+Description: GV Mobile brings the power of Google Voice to your iPhone. (GV Mobile is not a product of Google).
+  GV Mobile allows users of Google Voice to: 
+  +dial numbers via the iPhone address book or typing on the keypad 
+  +Full SMS support (view historic, reply, send new) 
+  +retrieve and delete recent call history 
+  +playback and delete voicemails 
+  +take calls from different phones other than your iPhone 
+  +enable or disable the phones that Google Voice forwards calls to 
+  +add or delete phones that Google Voice forwards call to.
+Depiction: http://modmyi.com/info/gvmobile.d.php
+Homepage: http://modmyi.com/info/gvmobile.php
+Author: Sean Kovacs <support@seankovacs.com>
+Name: GV Mobile
+Icon: file:///Applications/GV Mobile.app/Icon.png
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: gettext
+Status: install ok installed
+Priority: optional
+Section: System
+Installed-Size: 2472
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 0.17-6
+Depends: ncurses
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: internationalization helper for strings
+Homepage: http://www.gnu.org/software/gettext/
+
+Package: diskdev-cmds
+Essential: yes
+Status: install ok installed
+Priority: required
+Section: System
+Installed-Size: 1124
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 421.7-3
+Description: mount, quota, fsck, fstyp, fdisk, tunefs
+
+Package: diffutils
+Status: install ok installed
+Priority: important
+Section: Development
+Installed-Size: 220
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 2.8.1-6
+Description: compare two files for differences
+Name: Diff Utilities
+Homepage: http://www.gnu.org/software/diffutils/
+
+Package: apt7-key
+Status: install ok installed
+Priority: standard
+Section: Packaging
+Installed-Size: 28
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 0.7.20.2-1
+Replaces: apt (<< 1:0-1), apt7 (<< 0.7.20.2-4)
+Depends: apt7-lib
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: repository encryption key management tool
+Name: APT 0.7 (apt-key)
+
+Package: gawk
+Status: install ok installed
+Priority: important
+Section: Utilities
+Installed-Size: 1232
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 3.1.6-2
+Description: GNU's heavy-weight implementation of awk
+Name: Gawk
+
+Package: tar
+Status: install ok installed
+Priority: required
+Section: Archiving
+Installed-Size: 392
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 1.19-8
+Depends: bzip2, gzip, lzma
+Description: tool for making tape archives
+Name: Tape Archive
+Homepage: http://www.gnu.org/software/tar/
+
+Package: file
+Status: install ok installed
+Priority: important
+Section: Utilities
+Installed-Size: 1760
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 4.23-2
+Description: guesses the type of a file from contents
+
+Package: crash-reporter
+Status: install ok installed
+Section: System
+Installed-Size: 204
+Version: 0.2b
+Depends: dpkg, grep, coreutils
+Pre-Depends: firmware (>= 3.0)
+Recommends: cydia, syslogd
+Description: Send useful crash info to developers.
+Name: Crash Reporter
+Homepage: http://code.google.com/p/networkpx/wiki/Using_CrashReporter
+Author: KennyTM~ <kennytm+CrashReporter@gmail.com>
+dev: kennytm
+
+Package: network-cmds
+Status: install ok installed
+Priority: important
+Section: Networking
+Installed-Size: 624
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 307.0.1-6
+Provides: arp, ifconfig, netstat, route, traceroute
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: arp, ifconfig, netstat, route, traceroute
+
+Package: shell-cmds
+Status: install ok installed
+Priority: important
+Section: Administration
+Installed-Size: 104
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 118-6
+Provides: killall, which
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: killall, mktemp, renice, time, which
+
+Package: sbsettingsautolock2
+Status: install ok installed
+Section: SBSettings Addons
+Installed-Size: 148
+Maintainer: Dustin Howett <dustin@howett.net>
+Architecture: iphoneos-arm
+Version: 4.1-1
+Replaces: sbsettingsautolock
+Depends: sbsettings (>= 1.0.4)
+Conflicts: sbsettingsautolock
+Description: Autolock toggle for SBSettings app.
+Author: Dustin Howett <dustin@howett.net>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/sbsautolockDp.php
+Homepage: http://moreinfo.thebigboss.org/moreinfo/sbsettings.php
+Name: Autolock SBSettings
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: dustinhowett
+
+Package: uikittools
+Status: install ok installed
+Priority: optional
+Section: Utilities
+Installed-Size: 84
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 1.0.2995-1
+Description: UIKit-related command line access utilities
+Name: UIKit Tools
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/uikittools/
+
+Package: com.optimo.sleeptolock
+Status: install ok installed
+Section: Tweaks
+Installed-Size: 13
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: mobilesubstrate
+Description: Changes sleep-button behavior: locks and shows the slide-to-unlock screen without sleeping, press once more to sleep like normal
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sleeptolockData
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sleeptolockData
+Author: Optimo <optimo.dev@gmail.com>
+Name: Sleep To Lock
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: optimo
+
+Package: com.mysticwall.sysinfoplus
+Status: install ok installed
+Section: System
+Installed-Size: 4150
+Maintainer: Kouichi ABE <kouichi@MysticWALL.COM>
+Architecture: iphoneos-arm
+Version: 1.0.2
+Description: SysInfoPlus shows various information and system status such as system information, process status, memory status, disk space, network routing tables and so on.
+Author: Kouichi ABE <kouichi@MysticWALL.COM>
+Icon: file:///Applications/SysInfoPlus.app/icon.png
+Name: SysInfoPlus
+Homepage: http://moreinfo.thebigboss.org/moreinfo/SysInfoPlus.php
+Depiction: http://moreinfo.thebigboss.org/moreinfo/SysInfoPlusDp.php
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: kouichi
+
+Package: overboard
+Status: install ok installed
+Priority: optional
+Section: System
+Architecture: iphoneos-arm
+Version: 0.1.13
+Depends: mobilesubstrate
+Description: Get an overview of your apps
+Name: OverBoard
+Author: Ryan Petrich <rpetrich@gmail.com>
+
+Package: odcctools
+Status: install ok installed
+Priority: optional
+Section: Development
+Installed-Size: 7764
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 286-8
+Depends: openssl, uuid
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: linker and assembler for the iPhone
+Name: Darwin CC Tools
+Homepage: http://code.google.com/p/iphone-dev/
+Depiction: http://cydia.saurik.com/info/odcctools/
+
+Package: net.howett.testpkg
+Status: install ok not-installed
+Section: Tweaks
+
+Package: mewseekpro
+Status: install ok installed
+Section: Networking
+Installed-Size: 848
+Maintainer: errrick <errrick@gmail.com>
+Architecture: iphoneos-arm
+Version: 2.0.2
+Description: MewSeek Pro is a an application for live streaming and fast music downloading on the iPhone, iPhone 3G and iPod Touch (1G and 2G). It lets you search and download music at an amazing speed, using either your 3G or Wi Fi connection (Edge is also supported). It also has the ability to add your downloaded music into your iPhone / iPod Touch music library, enabling you to instantly listen to it from the default music player without iTunes any computer required!
+Author: errrick <errrick@gmail.com>
+Name: MewSeek Pro
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=MewSeekProDpData
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=MewSeekProDpData
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: errrick
+
+Package: curl
+Status: install ok installed
+Priority: standard
+Section: Networking
+Installed-Size: 532
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 7.19.4-6
+Depends: openssl
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: flexible multi-protocol file transfers
+Name: cURL
+Homepage: http://curl.haxx.se/
+
+Package: hk.kennytm.class-dump-z
+Status: install ok installed
+Priority: optional
+Section: Development
+Installed-Size: 456
+Maintainer: Dustin Howett <dustin@howett.net>
+Architecture: iphoneos-arm
+Version: 0.2-1
+Description: reverse-engineer Objective-C headers in style!
+Name: class-dump-z
+Author: KennyTM~ <kennytm+QuickScroll@gmail.com>
+dev: kennytm
+Tag: purpose::console, role::developer
+
+Package: readline
+Status: install ok installed
+Priority: required
+Section: Development
+Installed-Size: 332
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 6.0-7
+Depends: ncurses
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: command-line history management
+
+Package: wbsettings
+Status: install ok installed
+Installed-Size: 92
+Maintainer: ----
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Description: ----
+Name: WBSettings
+Author: ----
+
+Package: vim
+Status: install ok installed
+Priority: standard
+Section: Text_Editors
+Installed-Size: 20876
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 7.1-3
+Depends: ncurses
+Description: the best syntax highlighter, ever
+Name: Vi IMproved
+
+Package: modmyifone
+Status: install ok installed
+Priority: optional
+Section: Repositories
+Installed-Size: 76
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 0-5
+Replaces: cydia (<< 1.0.2908-52)
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: one of the primary default repositories
+Name: ModMyi.com
+Homepage: http://www.modmyi.com/
+Depiction: http://cydia.saurik.com/info/modmyi.com/
+
+Package: jp.ashikase.springjumps
+Status: purge ok not-installed
+Section: System
+
+Package: bigboss
+Status: install ok installed
+Priority: optional
+Section: Repositories
+Installed-Size: 176
+Maintainer: BigBoss <bigboss@bigboss.us.com>
+Architecture: iphoneos-arm
+Version: 0-10
+Replaces: cydia (<< 1.0.2908-52), bigbossbetarepo
+Provides: bigbossbetarepo
+Pre-Depends: dpkg (>= 1.14.25-8)
+Conflicts: bigbossbetarepo
+Description: BigBoss's APT repository
+Name: BigBoss's Source
+
+Package: sbsettingssyslogd
+Status: install ok installed
+Section: SBSettings Addons
+Installed-Size: 54
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 1.0-1
+Depends: sbsettings (>= 2.99), mobilesubstrate
+Description: Syslog toggle for SBSettings.
+Author: BigBoss <bigboss@thebigboss.org>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sbssyslogdData
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sbssyslogdData
+Name: Syslog Toggle
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: bigboss
+tag: role::hacker
+
+Package: darwintools
+Status: install ok installed
+Priority: required
+Section: Administration
+Installed-Size: 56
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 1-4
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: startupfiletool, sw_vers
+Name: Darwin Tools
+
+Package: patch
+Status: install ok installed
+Priority: important
+Section: Development
+Installed-Size: 132
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 2.5.4-3
+Description: merge a difference onto a file
+
+Package: backgrounder
+Status: install ok installed
+Section: System
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: svn.r295
+Depends: mobilesubstrate, firmware (>= 3.0)
+Description: Run applications in the background
+Name: Backgrounder
+Homepage: http://iphone-backgrounder.googlecode.com/
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=backgrounder3Data
+Author: Lance Fetters (ashikase) <gaizin@gmail.com>
+dev: ashikase
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: eu.heinelt.ifile
+Status: install ok installed
+Section: System
+Installed-Size: 6260
+Maintainer: Carsten Heinelt <ifile@iphone.heinelt.eu>
+Architecture: iphoneos-arm
+Version: 1.1.0-1
+Depends: file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar
+Description: A File Manager and Viewer. iFile is a file manager runnning under user root. It allows fast navigation through the iPhone file system. It allows direct viewing of files of various types, e.g. movies, sound, text, HTML, Microsoft types, PDF, ZIP. For PDF files direct jumping to pages is possible. ZIP packing and unpacking is also supported. Files can be sent as email attachments. Text files and property lists can be edited. Folders and files can be bookmarked. In addition, files can be uploaded and downloaded from iFile's built-in web server.
+Name: iFile
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ifileData
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ifileData
+Author: Carsten Heinelt <ifile@iphone.heinelt.eu>
+dev: carsten
+Tag: purpose::uikit, cydia::commercial
+
+Package: com.pumpkin.yourtube
+Status: install ok installed
+Section: Tweaks
+Installed-Size: 140
+Maintainer: Dustin Howett <dustin@howett.net>
+Architecture: iphoneos-arm
+Version: 1.0.0-1
+Depends: mobilesubstrate
+Description: YouTube.app as it was meant to be. This package adds a fully integrated downloader so you can keep those great videos you love to watch and show to friends.
+Name: YourTube
+Author: pumpkin <pumpkin@iphone-dev.com>
+Depiction: http://modmyi.com/info/yourtube.d.php
+Homepage: http://modmyi.com/info/yourtube.php
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+Tag: cydia::commercial
+
+Package: sed
+Status: install ok installed
+Priority: important
+Section: Utilities
+Installed-Size: 192
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 4.1.5-7
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: edits streams of text using patterns
+Homepage: http://www.gnu.org/software/sed/
+
+Package: file-cmds
+Status: install ok installed
+Priority: important
+Section: Utilities
+Installed-Size: 284
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 184-2
+Description: chflags, compress, ipcrm, ipcs, pax
+
+Package: top
+Status: install ok installed
+Priority: important
+Section: Administration
+Installed-Size: 804
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 39-4
+Depends: ncurses
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: at-a-glance process watching tool
+
+Package: preferenceloader
+Status: install ok installed
+Section: Development
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 1.1
+Depends: mobilesubstrate
+Description: PreferenceLoader is a Mobile Substrate based utility that allows developers to add entries to the Settings app, similar to the SettingsBundles that app store apps use.
+Name: PreferenceLoader
+Depiction: http://moreinfo.thebigboss.org/moreinfo/preferenceloaderDp.php
+Author: Thomas Moore (volatile-dev) <iphone-developer@sbcglobal.net>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: thomasmoore
+Tag: role::developer, purpose::library
+
+Package: wget
+Status: install ok installed
+Priority: important
+Section: Networking
+Installed-Size: 300
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 1.11-3
+Depends: gettext, openssl
+Description: simple HTTP file transfer client
+
+Package: pcre
+Status: install ok installed
+Priority: required
+Section: Development
+Installed-Size: 444
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 7.9-3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Perl-compatible regular expressions
+
+Package: springsorter
+Status: purge ok not-installed
+Section: Tweaks
+
+Package: zodttd
+Status: install ok installed
+Priority: optional
+Section: Repositories
+Installed-Size: 68
+Maintainer: ZodTTD <zodttd@zodttd.com>
+Architecture: iphoneos-arm
+Version: 0-4
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: ZodTTD's APT repository
+Name: ZodTTD's Source
+
+Package: net.howett.colstatusbartheme
+Status: install ok installed
+Section: Themes (SpringBoard)
+Maintainer: Dustin Howett <dustin@howett.net>
+Architecture: iphoneos-arm
+Version: 1.1-1
+Depends: winterboard
+Description: Makes life more colorful!
+Name: Colored Status Bar Icons
+Depiction: http://howett.net/cydia/depict/?template=depict&package=net.howett.colstatusbartheme
+Author: Dustin Howett <dustin@howett.net>
+
+Package: gnupg
+Status: install ok installed
+Priority: required
+Section: Security
+Installed-Size: 1808
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 1.4.8-4
+Depends: ncurses
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: older encryption compatible with OpenPGP
+Name: GNU Privacy Guard
+Homepage: http://www.gnupg.org/
+
+Package: unrar
+Status: install ok installed
+Priority: optional
+Section: Archiving
+Installed-Size: 292
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 3.6.8-2
+Description: de-compresses files in rar format
+
+Package: com.hackulo.us.installous
+Status: install ok installed
+Priority: standard
+Section: Hackulo.us
+Maintainer: Genius Blog < installous@hackulo.us>
+Architecture: iphoneos-arm
+Version: 2.0.3
+Depends: unzip, uuid, com.ericasadun.utilities, odcctools, com.hackulo.us.sourcegui, zip, gawk, us.hackulo.security
+Description: Installous is the perfect app to install your IPAs
+Name: Installous
+Author: puy0 <installous@hackulo.us>
+Sponsor: Hackulo.us <http://hackulo.us>
+Depiction: http://hackulo.us/depict/installous
+
+Package: grep
+Status: install ok installed
+Priority: important
+Section: Utilities
+Installed-Size: 444
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 2.5.4-3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: searches files for regular expressions
+Homepage: http://www.gnu.org/software/grep/
+
+Package: pam-modules
+Status: install ok installed
+Priority: standard
+Section: Administration
+Installed-Size: 68
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 36.1-4
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: standard Apple authentication modules
+Name: PAM Modules
+
+Package: cydia
+Status: install ok installed
+Priority: required
+Section: Packaging
+Installed-Size: 1448
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 1.0.3044-65
+Replaces: com.sosiphone.addcydia
+Depends: apr-lib, apt7-key, apt7-lib, darwintools, pcre, shell-cmds, system-cmds, essential
+Pre-Depends: dpkg (>= 1.14.25-8)
+Conflicts: com.sosiphone.addcydia
+Description: graphical iPhone front-end for APT
+Name: Cydia Installer
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/cydia/
+
+Package: inetutils
+Status: install ok installed
+Priority: standard
+Section: Networking
+Installed-Size: 868
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 1.6-8
+Replaces: coreutils (<< 7.2-6)
+Provides: hostname, ping, telnet
+Depends: ncurses
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: ftp, inetd, ping, rlogin, telnet, tftp
+Homepage: http://www.gnu.org/software/inetutils/
+
+Package: com.bigboss.flashlight
+Status: install ok installed
+Section: Utilities
+Installed-Size: 31
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 2.3
+Description: Flashlight app. Unlike appstore versions, gets brighter.
+Depiction: http://moreinfo.thebigboss.org/moreinfo/FlashlightDp.php
+Website: http://moreinfo.thebigboss.org/moreinfo/Flashlight.php
+Author: BigBoss <bigboss@thebigboss.org>
+Name: Flashlight
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: bigboss
+
+Package: bigbosshackertools
+Status: install ok installed
+Section: System
+Installed-Size: 0
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: adv-cmds, basic-cmds, bootstrap-cmds, developer-cmds, diskdev-cmds, file-cmds, network-cmds, shell-cmds, system-cmds, com.ericasadun.utilities, top, coreutils, uikittools, findutils, inetutils, diffutils, lsof, vim, patch, unrar, unzip, wget, whois, xml2, zip, p7zip
+Description: Combined list of hacker tools. Cydia no longer comes preinstalled with most useful command line apps. This package installs most the missing ones in one swoop. There is no real package provided here. It is only a set of depends on other various tools so that your command line can become useful again.
+Author: BigBoss <bigboss@thebigboss.org>
+Name: BigBoss Recommended Tools
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: bigboss
+Tag: role::hacker
+
+Package: libhide
+Status: install ok installed
+Section: Development
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 2.0.3
+Depends: mobilesubstrate
+Description: Library to hide icons. If you are a developer wanting to use this library, contact BigBoss for code samples.
+Name: libhide
+Author: BigBoss <bigboss@thebigboss.org>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: bigboss
+Tag: role::developer, purpose::library
+
+Package: us.hackulo.security
+Status: install ok installed
+Priority: standard
+Section: Hackulo.us
+Maintainer: Genius Blog <admin@hackulo.us>
+Architecture: iphoneos-arm
+Version: 1.1.0
+Depends: com.hackulo.us.sourcegui, coreutils, openssl, curl, sed
+Description: Protects you and your device from malicious websites
+Name: Hackulous Security
+Author: Kyek <hackulous_security@hackulo.us>
+Sponsor: Hackulo.us <http://hackulo.us>
+Depiction: http://hackulo.us/depict/security
+
+Package: firmware
+Essential: yes
+Status: install ok installed
+Priority: required
+Section: System
+Installed-Size: 0
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 3.1.2
+Description: almost impressive Apple frameworks
+Name: iPhone Firmware
+
+Package: findutils
+Status: install ok installed
+Priority: important
+Section: Utilities
+Installed-Size: 436
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 4.2.33-6
+Depends: bash, sed
+Description: indexes and searches filesystems
+Name: Find Utilities
+Homepage: http://www.gnu.org/software/findutils/
+
+Package: mobileterminal
+Status: install ok installed
+Priority: standard
+Section: Terminal_Support
+Installed-Size: 536
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 364.1-10
+Depends: bash, coreutils, ncurses, system-cmds
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: local UIKit-based Terminal emulator
+ This is a Terminal emulator for the iPhone. With it you can do all of 
+ your standard system administration tasks from anywhere: ssh into 
+ remote boxes, download files, edit configuration files, whatever. 
+ Please note, though, that this package does not fully work yet on 
+ iPhoneOS 2.x. For more information (and a status update) please click 
+ below for More Information.
+Name: MobileTerminal
+Author: Allen Porter <allen.porter@gmail.com>
+Homepage: http://code.google.com/p/mobileterminal/
+Depiction: http://cydia.saurik.com/info/mobileterminal/
+
+Package: actionmenu
+Status: install ok installed
+Priority: optional
+Section: System
+Installed-Size: 160
+Architecture: iphoneos-arm
+Version: 1.0.3
+Replaces: actionmenu-copyall, actionmenu-dial, actionmenu-favorites, actionmenu-scroll
+Provides: actionmenu-copyall, actionmenu-dial, actionmenu-favorites, actionmenu-scroll
+Depends: mobilesubstrate, firmware (>= 3.0)
+Conflicts: actionmenu-copyall, actionmenu-dial, actionmenu-favorites, actionmenu-scroll, actionmenu-pluspack (<= 1.0)
+Description: Customize the callout with more actions
+	The 3.0-compatible follow-up and replacement for Clippy
+	Included actions: Copy All, Dial, Favorites and Scroll
+Depiction: http://booleanmagic.com/cydia/actionmenu/
+Website: http://booleanmagic.com/cydia/actionmenu/
+Name: Action Menu
+Author: Ryan Petrich <rpetrich@gmail.com>
+Icon: file:///Library/ActionMenu/icon-large.png
+dev: ryanpetrich
+
+Package: com.imalc.insomnia
+Status: install ok installed
+Section: Utilities
+Installed-Size: 104
+Maintainer: indiekiduk <indiekiduk@gmail.com>
+Architecture: iphoneos-arm
+Version: 3.0.4
+Description: Allows applications to continue to run and WiFi to stay connected long after the screen has been switched off. 3.0 runs as a background daemon with a status bar icon and will never stop working.
+Name: Insomnia
+Author: indiekiduk <indiekiduk@gmail.com>
+Icon: file:///Applications/Insomnia.app/icon.png
+dev: malcolmhall
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=InsomniaData
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=InsomniaData
+
+Package: saurik
+Essential: yes
+Status: install ok installed
+Priority: required
+Section: Repositories
+Installed-Size: 68
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 0-4
+Replaces: cydia (<< 1.0.2908-52)
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Jay Freeman (saurik)'s APT repository
+Name: Saurik's Source
+
+Package: libffi
+Status: install ok installed
+Priority: optional
+Section: Development
+Installed-Size: 100
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 130618-3
+Description: dynamic generation of function calls
+
+Package: coreutils-bin
+Essential: yes
+Status: install ok installed
+Priority: required
+Section: Utilities
+Installed-Size: 2860
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 7.4-6
+Replaces: shell-cmds (<< 118-5), coreutils (<= 7.2-9)
+Provides: dirname, kill, mktemp, su
+Description: just the /bin folder from GNU coreutils
+Name: Core Utilities (/bin)
+Homepage: http://www.gnu.org/software/coreutils/
+
+Package: gzip
+Status: install ok installed
+Priority: required
+Section: Archiving
+Installed-Size: 184
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 1.3.12-6
+Depends: grep, sed
+Description: the standard Unix compression algorithm
+Homepage: http://www.gzip.org/
+
+Package: dpkg
+Status: install ok installed
+Priority: required
+Section: Packaging
+Installed-Size: 828
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 1.14.25-9
+Depends: bash, bzip2, coreutils-bin, diffutils, findutils, gzip, lzma, ncurses, tar
+Description: package maintainance tools from Debian
+Name: Debian Packager
+Homepage: http://wiki.debian.org/Teams/Dpkg
+
+Package: ldid
+Status: install ok installed
+Priority: optional
+Section: Development
+Installed-Size: 92
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 610-5
+Depends: odcctools
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: pseudo-codesign Mach-O files
+Name: Link Identity Editor
+Depiction: http://cydia.saurik.com/info/ldid/
+
+Package: cydia-sources
+Status: install ok installed
+Priority: optional
+Section: Repositories
+Installed-Size: 12
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 0-9
+Depends: bigboss, ispazio.net, modmyifone, saurik, ste, zodttd
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: recommended third party repositories
+Name: Cydia Community Sources
+
+Package: com.ericasadun.utilities
+Status: install ok installed
+Section: Utilities
+Maintainer: Erica Sadun <apptapp@ericasadun.com>
+Architecture: iphoneos-arm
+Version: beta17
+Description: A collection of command-line utilities for various purposes.
+Name: Erica Utilities
+Depiction: http://modmyi.com/info/ericautilities.d.php
+Homepage: http://modmyi.com/info/ericautilities.php
+Author: Erica Sadun <apptapp@ericasadun.com>
+Sponsor: ModMyi.com <http://modmyi.com>
+
+Package: jp.ashikase.kirikae
+Status: install ok installed
+Section: System
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: svn.r86
+Depends: mobilesubstrate, firmware (>= 3.0)
+Recommends: backgrounder
+Description: Backgrounder-compatible task switcher/launcher.
+Name: Kirikae
+Homepage: http://iphone-kirikae.googlecode.com/
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=kirikaeData
+Author: Lance Fetters (ashikase) <gaizin@gmail.com>
+dev: ashikase
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: ispazio.net
+Status: install ok installed
+Priority: optional
+Section: Repositories
+Installed-Size: 52
+Maintainer: Fabiano Confuorto <ispazio@gmail.com>
+Architecture: iphoneos-arm
+Version: 0-5
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: one of the primary default repositories
+Name: iSpazio
+
+Package: actionmenu-pluspack
+Status: install ok installed
+Priority: optional
+Section: System
+Installed-Size: 102
+Architecture: iphoneos-arm
+Version: 1.0.2-1
+Provides: actionmenu-history, actionmenu-lookup, actionmenu-tweet, actionmenu-locate
+Depends: actionmenu (>= 1.0.3)
+Description: Additional actions for Action Menu!
+	Included actions: History, Lookup, Tweet and Locate
+Depiction: http://booleanmagic.com/cydia/actionmenu-pluspack/
+Website: http://booleanmagic.com/cydia/actionmenu-pluspack/
+Name: Action Menu Plus Pack
+Author: Ryan Petrich <rpetrich@gmail.com>
+Tag: cydia::commercial
+Icon: file:///Library/ActionMenu/icon-large.png
+dev: ryanpetrich
+
+Package: sbsettings
+Status: install ok installed
+Section: System
+Installed-Size: 1953
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 3.0.5
+Replaces: com.ripdev.hood, hk.org.iphone.respring
+Depends: libhide, mobilesubstrate, network-cmds, sbsettingstoggles (>= 3.0.2)
+Conflicts: com.ripdev.hood, hk.org.iphone.respring
+Description: Move common toggles directly into springboard where they're always there!
+Author: BigBoss <bigboss@thebigboss.org>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=SBSettingsDpData
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=SBSettingsDpData
+Name: SBSettings
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: bigboss
+
+Package: apt7
+Status: install ok installed
+Priority: standard
+Section: Packaging
+Installed-Size: 1024
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 0.7.20.2-4
+Replaces: apt (<< 1:0-1)
+Depends: apt7-key, apt7-lib, apt7-ssl, berkeleydb
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: the advanced packaging tool from Debian
+Name: APT 0.7 Strict
+
+Package: libxml2-lib
+Essential: yes
+Status: install ok installed
+Priority: required
+Section: Development
+Installed-Size: 24
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 2.6.32-2
+Replaces: libxml2 (<= 2.6.32-5)
+Depends: firmware (>= 3.0) | libxml2-dylib
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: represents the library for libxml2
+Name: libxml2 Library
+
+Package: howett.net
+Status: install ok installed
+Priority: optional
+Section: Repositories
+Installed-Size: 68
+Maintainer: Dustin Howett <alaricx@gmail.com>
+Architecture: iphoneos-arm
+Version: 0-1
+Conflicts: net.howett.icon
+Description: Dustin L. Howett's repository
+Name: HowettNET
+
+Package: net.howett.safaridownloader
+Status: install ok installed
+Section: Tweaks
+Installed-Size: 316
+Maintainer: Dustin Howett <dustin@howett.net>
+Architecture: iphoneos-arm
+Version: 1.3.99-33
+Replaces: net.howett.downloader
+Depends: mobilesubstrate (>= 0.9.3005-1), preferenceloader
+Pre-Depends: firmware (>= 3.0)
+Conflicts: net.howett.downloader
+Description: A full Download Manager for Mobile Safari.
+Name: Safari Download Manager
+Author: Dustin Howett <dustin@howett.net>
+Depiction: http://howett.net/cydia/depict/sdm/index.html
+Homepage: http://howett.net/cydia/depict/sdm/index.html
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: dustinhowett
+tag: cydia::commercial
+
+Package: profile.d
+Status: install ok installed
+Priority: standard
+Section: Administration
+Installed-Size: 28
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 0-2
+Depends: bash
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: makes packaging for /etc/profile reasonable
+Name: Profile Directory
+
+Package: unzip
+Status: install ok installed
+Priority: important
+Section: Archiving
+Installed-Size: 316
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 5.52-5
+Description: de-compesses files in zip format
+
+Package: basic-cmds
+Status: install ok installed
+Priority: important
+Section: Utilities
+Installed-Size: 92
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 48-2
+Description: msg, uudecode, uuencode, write
+
+Package: net.howett.cydelete
+Status: install ok installed
+Section: Tweaks
+Installed-Size: 380
+Maintainer: Dustin Howett <dustin@howett.net>
+Architecture: iphoneos-arm
+Version: 2.0-1
+Depends: mobilesubstrate, preferenceloader, apt, bash, grep, coreutils
+Conflicts: com.sosiphone.cydeletefr
+Description: Delete Cydia packages from SpringBoard, just like App Store applications!
+Name: CyDelete
+Author: Dustin Howett <dustin@howett.net>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/cydeleteDp.php
+Homepage: http://howett.net/cydia/depict/cydelete.html
+dev: dustinhowett
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, role::enduser
+
+Package: xml2
+Status: install ok installed
+Priority: optional
+Section: Utilities
+Installed-Size: 68
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 0.2-3
+Depends: libxml2
+Description: simple tools to help grep xml
+
+Package: com.zodttd.fallingsandsfree2
+Status: install ok installed
+Section: Games
+Maintainer: ZodTTD <zodttd@zodttd.com>
+Architecture: iphoneos-arm
+Version: 1.0.0
+Description: The sequel to the hit falling sand game!
+Name: A Second Falling Sand Game
+Depiction: http://cydia.zodttd.com/repo/cydiathemes/depiction/sand2/index.php
+Homepage: http://www.zodttd.com
+Author: ZodTTD
+
+Package: com.gauravgiri.fontswap
+Status: install ok installed
+Section: System
+Installed-Size: 640
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 1.5
+Depends: com.gauravgiri.fontswapstarter
+Description: Font Swap App. Swap your system fonts!
+Author: Gaurav Giri <gaurav@gauravgiri.com>
+Icon: file:///usr/share/bigboss/icons/bigboss.png
+Name: FontSwap
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=FontSwapData
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=FontSwapData
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: gauravgiri
+
+Package: net.howett.test
+Status: purge ok not-installed
+Section: Tweaks
+
+Package: pam
+Status: install ok installed
+Priority: standard
+Section: Administration
+Installed-Size: 412
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 32.1-3
+Depends: pam-modules
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: pluggable (comples) authentication modules
+Name: PAM (Apple)
+
+Package: com.smallfeats.ahedralite
+Status: install ok installed
+Section: Games
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Architecture: iphoneos-arm
+Version: 0.9
+Description: Find words in polyhedra.
+Name: aHedraLite
+Author: Dr. Mach <owner@smallfeats.com>
+Depiction: http://modmyi.com/info/alphahedralite.d.php
+Homepage: http://modmyi.com/info/alphahedralite.php
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: sbsettingstoggles
+Status: install ok installed
+Section: SBSettings Addons
+Installed-Size: 248
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 3.0.2
+Replaces: sbsettingstoggles1, sbsettingsfastnotes, sbsettingsprocesses, sbslocationservices
+Depends: network-cmds
+Conflicts: sbsettingstoggles1, sbsettingsfastnotes, sbsettingsprocesses, sbslocationservices
+Description: These are the built in toggles for the SBSettings app.
+Author: BigBoss <bigboss@thebigboss.org>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/SBSettings.php
+Name: sbsettingstoggles
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: bigboss
+Tag: role::developer purpose::library
+
+Package: base
+Essential: yes
+Status: install ok installed
+Priority: required
+Section: System
+Installed-Size: 260
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 1-3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: underlying system directory structure
+Name: Base Structure
+
+Package: bash
+Status: install ok installed
+Priority: required
+Section: Terminal_Support
+Installed-Size: 572
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 4.0.17-13
+Depends: grep, ncurses, readline (>= 6.0-7), sed
+Description: the best shell ever, written by Brian Fox
+Name: Bourne-Again SHell
+Homepage: http://www.gnu.org/software/bash/
+
+Package: system-cmds
+Essential: yes
+Status: install ok installed
+Priority: required
+Section: Administration
+Installed-Size: 808
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 433.4-11
+Provides: login, passwd, reboot
+Depends: pam
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: iostat, login, passwd, sync, sysctl
+
+Package: com.hackulo.us.sourcegui
+Status: install ok installed
+Priority: standard
+Section: Hackulo.us
+Maintainer: Genius Blog <admin@hackulo.us
+Architecture: iphoneos-arm
+Version: 1.1
+Description: Hackulo.us Source GUI adds the source icons
+Name: Source GUI
+Author: Genius Blog <admin@hackulo.us>
+Sponsor: Hackulo.us <http://hackulo.us>
+Depiction: http://hackulo.us/depict/sourcegui
+
+Package: com.steventroughtonsmith.orbit
+Status: purge ok not-installed
+Section: System
+
+Package: zip
+Status: install ok installed
+Priority: important
+Section: Archiving
+Installed-Size: 232
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 2.32-5
+Description: standard Windows compression tool
+
+Package: ncurses
+Status: install ok installed
+Priority: required
+Section: System
+Installed-Size: 2452
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 5.7-12
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: feature-complete terminal library
+Name: New Curses
+
+Package: ste
+Status: install ok installed
+Priority: optional
+Section: Repositories
+Installed-Size: 68
+Maintainer: Ste <ste@psmxy.org>
+Architecture: iphoneos-arm
+Version: 0-4
+Replaces: cydia (<< 1.0.2908-52)
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Ste's APT repository
+Name: Ste's Source
+
+Package: com.saurik.iphone.ske
+Status: install ok installed
+Priority: optional
+Section: Development
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 0.9.2973-1
+Depends: mobilesubstrate (>= 0.9.2966-1)
+Description: enforces support for injecting keypresses
+Name: Simulated Key Events
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Tag: purpose::extension, role::developer
+
+Package: less
+Status: install ok installed
+Priority: important
+Section: Utilities
+Installed-Size: 208
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 418-3
+Replaces: system-cmds (<= 433.4-11)
+Provides: more
+Depends: ncurses
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: provides less information than more does
+
+Package: com.zodttd.snes4iphone
+Status: install ok installed
+Section: Games
+Maintainer: ZodTTD <zodttd@zodttd.com>
+Architecture: iphoneos-arm
+Version: 5.0.5
+Description: Fast Super Nintendo emulator!
+Name: snes4iphone
+Depiction: http://www.zodttd.com/repo/cydiathemes/snes4iphone.php
+Homepage: http://www.zodttd.com
+Author: ZodTTD
+
+Package: cyfari
+Status: install ok installed
+Priority: optional
+Section: Networking
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 0.9.2981-1
+Depends: mobilesubstrate (>= 0.9.2966-1)
+Description: MobileSafari is /almost/ a useful program
+Name: Cyfari
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/cyfari/
+Tag: purpose::extension, role::enduser
+
+Package: p7zip
+Status: install ok installed
+Priority: optional
+Section: Archiving
+Installed-Size: 4328
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 4.57-3
+Description: claims to be a good compressor
+Name: 7-zip (POSIX)
+
+Package: lsof
+Status: install ok installed
+Priority: standard
+Section: Administration
+Installed-Size: 136
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 33-4
+Depends: ncurses
+Description: shows what files programs have open
+

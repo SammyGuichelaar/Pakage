@@ -1,0 +1,114 @@
+Package: com.hackulo.us.installous
+Version: 2.0.3
+Priority: standard
+Section: Hackulo.us
+Maintainer: Genius Blog <installous@hackulo.us>
+Depends: unzip, uuid, com.ericasadun.utilities, odcctools, com.hackulo.us.sourcegui, zip, gawk, us.hackulo.security
+Architecture: iphoneos-arm
+Filename: /installous.deb
+Size: 83074
+MD5sum: e764ec335c1998aa1b331321691c34b1
+Name: Installous
+Author: puy0 <installous@hackulo.us>
+Depiction: http://hackulo.us/depict/installous
+Sponsor: Hackulo.us <http://hackulo.us>
+Description: Installous is the perfect app to install your IPAs
+
+Package: com.hackulo.us.sourcegui
+Version: 1.1
+Priority: standard
+Section: Hackulo.us
+Maintainer: Genius Blog <sourcegui@hackulo.us>
+Architecture: iphoneos-arm
+Filename: /sourcegui.deb
+Size: 7514
+MD5sum: 50acbcf003c6385de8e59358a3266e9b
+Name: Source GUI
+Author: Genius Blog <sourcegui@hackulo.us>
+Depiction: http://hackulo.us/depict/sourcegui
+Sponsor: Hackulo.us <http://hackulo.us>
+Description: Hackulo.us Source GUI adds the source icons
+
+Package: us.hackulo.appsync30
+Version: 1.1
+Priority: standard
+Section: Hackulo.us
+Maintainer: Genius Blog <appsync@hackulo.us>
+Pre-Depends: firmware (= 3.0) | firmware (= 3.0.1)
+Depends: com.hackulo.us.sourcegui
+Architecture: iphoneos-arm
+Filename: /appsync30.deb
+Size: 292402
+MD5sum: 1a7ceda2525eef47827ed51bf29a858f
+Name: AppSync for OS 3.0
+Author: Reilly <appsync@hackulo.us>
+Depiction: http://hackulo.us/depict/appsync30/
+Sponsor: Hackulo.us <http://hackulo.us>
+Description: AppSync patches the installd file on your device
+
+Package: us.hackulo.appsync31
+Version: 1.0
+Priority: standard
+Section: Hackulo.us
+Maintainer: Genius Blog <appsync@hackulo.us>
+Pre-Depends: firmware (>= 3.1)
+Depends: com.hackulo.us.sourcegui
+Architecture: iphoneos-arm
+Filename: /appsync31.deb
+Size: 296834
+MD5sum: 28a6013aeb0ed65adbf0d962e3f4a1bd
+Name: AppSync for OS 3.1
+Author: Reilly <appsync@hackulo.us>
+Depiction: http://hackulo.us/depict/appsync31/
+Sponsor: Hackulo.us <http://hackulo.us>
+Description: AppSync patches the installd file on your device
+
+
+Package: us.hackulo.crackulous
+Version: 0.9
+Priority: standard
+Section: Hackulo.us
+Maintainer: Genius Blog <crackulous@hackulo.us>
+Depends: com.ericasadun.utilities, gdb, odcctools, ldid, com.hackulo.us.sourcegui, zip, gawk
+Architecture: iphoneos-arm
+Filename: /crackulous.deb
+Size: 156708
+MD5sum: 37f0a6588600eca18ffb3fcd05893a6a
+Name: Crackulous
+Author: Angel <crackulous@hackulo.us>
+Depiction: http://hackulo.us/depict/crackulous/
+Sponsor: Hackulo.us <http://hackulo.us>
+Description: Crackulous is a revolutionary new iPhone application
+
+Package: us.hackulo.security
+Version: 1.1.0
+Priority: standard
+Section: Hackulo.us
+Maintainer: Genius Blog <hackulous_security@hackulo.us>
+Depends: com.hackulo.us.sourcegui, coreutils, openssl, curl, sed
+Architecture: iphoneos-arm
+Filename: /security.deb
+Size: 2820
+MD5sum: 169e612b8af2fa93ef9115a1f1e3f733
+Name: Hackulous Security
+Author: Kyek <hackulous_security@hackulo.us>
+Depiction: http://hackulo.us/depict/security
+Sponsor: Hackulo.us <http://hackulo.us>
+Description: Protects you and your device from malicious websites
+
+Package: us.hackulo.winulous
+Version: 1.0
+Priority: standard
+Section: Hackulo.us
+Maintainer: Genius Blog <winulous@hackulo.us>
+Depends: com.hackulo.us.sourcegui
+Architecture: iphoneos-arm
+Filename: /winulous.deb
+Size: 99894
+MD5sum: f95dc766ea0ff7e678260804c959102f
+Name: Winulous
+Author: Hackulous Team <winulous@hackulo.us>
+Depiction: http://hackulo.us/depict/winulous
+Sponsor: Hackulo.us <http://hackulo.us>
+Description: Winulous is the first ever iPhone-based virtualization system
+
